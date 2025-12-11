@@ -31,6 +31,9 @@ from CreLanguageTranslate.LanguageTranslate import LanguageTranslate
 
 DATA_PATH = Path.cwd()
 
+dtNow = datetime.datetime.fromtimestamp(int(time.time()), datetime.UTC)
+dtLastMonth = datetime.datetime.fromtimestamp(int(time.time())-60*60*24*30, datetime.UTC)
+
 '''
 topicColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#b3b2b1', 'Storm Surge':'#834fa1', 'Flash Flood':'#02b5b8',
                'Tsunami':'#690191', 'Drought':'#edc291', 'Earthquake':'#870007', 'Landslide':'#572c03', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#c40202',
@@ -314,7 +317,7 @@ def removeDuplicates(df1):
 
     df3 = df1[df1['similarity']<0.8]
     df3 = df3.drop(columns=['md5', 'group', 'similarity'])
-    df3 = df3.sort_values(by=['published'], ascending=True)
+    df3 = df3.sort_values(by=['added','valid','published'], ascending=True)
     return df3
 
 
@@ -410,7 +413,8 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
     if('publishedAt' in article):    
         published = article['publishedAt']
     content = article['content']
-    data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
+    hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
+    data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 'added':str(dtNow), 'hash':hashStr,
             'image':image, 'content':content, 'quote':'', 'language': language, 'term':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
