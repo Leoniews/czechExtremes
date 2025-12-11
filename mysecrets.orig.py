@@ -10,9 +10,26 @@ if(not os.getenv('NEWSAPI_KEY')):
 else:
     print("NEWSAPI_KEY already set.")
 
+## Get API key: https://rapidapi.com/auth/sign-up
+if(not os.getenv('RAPIDAPI_KEY')):
+    print("RAPIDAPI_KEY not yet set.")
+    os.environ['RAPIDAPI_KEY'] = '1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y'
+else:
+    print("RAPIDAPI_KEY already set.")
+
 # https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 if(not os.getenv('EXTREME_GH_TOKEN')):
     print("EXTREME_GH_TOKEN not yet set.")
     os.environ['EXTREME_GH_TOKEN'] = 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'
 else:
     print("EXTREME_GH_TOKEN already set.")
+
+
+if(not os.getenv('EXTREME_LANGUAGE')):
+    print("EXTREME_LANGUAGE not yet set.")
+    os.environ['EXTREME_LANGUAGE'] = 'xx'
+else:
+    print("EXTREME_LANGUAGE already set.")
+
+
+

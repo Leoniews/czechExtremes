@@ -30,7 +30,11 @@ topicsDict = {}
 
 # MOVE TO myparameters.py (no secrets only)
 MAX_IMPORTS = 10
-TARGET_LANGUAGE = 'el'
+
+TARGET_LANGUAGE = os.getenv('EXTREME_LANGUAGE')
+if(TARGET_LANGUAGE == 'xx'): 
+   print('Please set EXTREME_LANGUAGE in file: mysecrets.py');
+   return None
 
 lt = LanguageTranslate()
 
