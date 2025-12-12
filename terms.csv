@@ -1,0 +1,11 @@
+index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'92b7f88bdd',extremes,Snow&Ice,#d60d2b,wmo,lavina czechia,2025-11-26T03:37:00+00:00,Czechia,0.7527473960867592,0,2,cs,WCE,Europe
+'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2025-11-26T03:37:00+00:00,Czechia,0.7496114793904625,0,2,cs,WCE,Europe
+'5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-11-26T03:37:00+00:00,Czechia,0.7480472633270794,0,2,cs,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-11-26T03:37:00+00:00,Czechia,0.7480221536205933,0,2,cs,WCE,Europe
+'9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2025-11-23T03:46:00+00:00,Czechia,0.7478342067570396,0,2,cs,WCE,Europe
+'b797e6ba49',extremes,Snow&Ice,#d60d2b,wmo,snow olomoucký kraj jeseník šumperk,2025-11-26T03:37:00+00:00,Czechia,0.7334085500113023,0,2,cs,WCE,Europe
+'c042cd4627',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj jeseník,2025-11-27T03:34:00+00:00,Czechia,0.7128672847332498,0,2,cs,WCE,Europe
+'228b603179',extremes,Snow&Ice,#d60d2b,wmo,snow karlovarský kraj,2025-11-27T03:34:00+00:00,Czechia,0.6673960917407029,0,2,cs,WCE,Europe
+'37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.6572259213287237,0,2,cs,WCE,Europe
+'28e0ab5796',extremes,Snow&Ice,#d60d2b,wmo,lavina jihomoravský kraj,2025-11-28T03:34:00+00:00,Czechia,0.6542630467292551,0,2,cs,WCE,Europe
