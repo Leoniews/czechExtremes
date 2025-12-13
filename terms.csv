@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'92b7f88bdd',extremes,Snow&Ice,#d60d2b,wmo,lavina czechia,2025-11-26T03:37:00+00:00,Czechia,0.7527473960867592,0,1,cs,WCE,Europe
-'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2025-11-26T03:37:00+00:00,Czechia,0.7496114793904625,0,1,cs,WCE,Europe
-'5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-11-26T03:37:00+00:00,Czechia,0.7480472633270794,0,1,cs,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-11-26T03:37:00+00:00,Czechia,0.7480221536205933,0,1,cs,WCE,Europe
 '9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2025-11-23T03:46:00+00:00,Czechia,0.7478342067570396,0,1,cs,WCE,Europe
 'b797e6ba49',extremes,Snow&Ice,#d60d2b,wmo,snow olomoucký kraj jeseník šumperk,2025-11-26T03:37:00+00:00,Czechia,0.7334085500113023,0,1,cs,WCE,Europe
 'c042cd4627',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj jeseník,2025-11-27T03:34:00+00:00,Czechia,0.7128672847332498,0,1,cs,WCE,Europe
@@ -12,6 +8,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.6519979637968907,0,2,cs,WCE,Europe
 'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.6488579038701182,0,2,cs,WCE,Europe
 '0e469f1b6e',extremes,Snow&Ice,#d60d2b,wmo,avalanche hlavní město praha,2025-11-27T03:34:00+00:00,Czechia,0.6450171033007679,0,2,cs,WCE,Europe
+'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2025-11-26T03:37:00+00:00,Czechia,0.6371697574818931,1,1,cs,WCE,Europe
+'5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-11-26T03:37:00+00:00,Czechia,0.6358401738280175,1,1,cs,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-11-26T03:37:00+00:00,Czechia,0.6358188305775043,1,1,cs,WCE,Europe
 '7ddd47f981',extremes,Snow&Ice,#d60d2b,wmo,lavina olomoucký kraj,2025-11-28T03:34:00+00:00,Czechia,0.6297221446677805,0,2,cs,WCE,Europe
 '53b9b634bb',extremes,Snow&Ice,#d60d2b,wmo,mrazivý karlovarský kraj,2025-11-28T03:34:00+00:00,Czechia,0.626008301207978,0,2,cs,WCE,Europe
 '2ecc7b5aa1',extremes,Snow&Ice,#d60d2b,wmo,frost ústecký kraj,2025-11-28T03:34:00+00:00,Czechia,0.6203477685865834,0,2,cs,WCE,Europe
