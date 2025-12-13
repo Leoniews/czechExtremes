@@ -9,3 +9,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '228b603179',extremes,Snow&Ice,#d60d2b,wmo,snow karlovarský kraj,2025-11-27T03:34:00+00:00,Czechia,0.6673960917407029,0,1,cs,WCE,Europe
 '37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.6572259213287237,0,1,cs,WCE,Europe
 '28e0ab5796',extremes,Snow&Ice,#d60d2b,wmo,lavina jihomoravský kraj,2025-11-28T03:34:00+00:00,Czechia,0.6542630467292551,0,1,cs,WCE,Europe
+'55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.6519979637968907,0,2,cs,WCE,Europe
+'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.6488579038701182,0,2,cs,WCE,Europe
+'0e469f1b6e',extremes,Snow&Ice,#d60d2b,wmo,avalanche hlavní město praha,2025-11-27T03:34:00+00:00,Czechia,0.6450171033007679,0,2,cs,WCE,Europe
+'7ddd47f981',extremes,Snow&Ice,#d60d2b,wmo,lavina olomoucký kraj,2025-11-28T03:34:00+00:00,Czechia,0.6297221446677805,0,2,cs,WCE,Europe
+'53b9b634bb',extremes,Snow&Ice,#d60d2b,wmo,mrazivý karlovarský kraj,2025-11-28T03:34:00+00:00,Czechia,0.626008301207978,0,2,cs,WCE,Europe
+'2ecc7b5aa1',extremes,Snow&Ice,#d60d2b,wmo,frost ústecký kraj,2025-11-28T03:34:00+00:00,Czechia,0.6203477685865834,0,2,cs,WCE,Europe
+'2224a2114e',extremes,Snow&Ice,#d60d2b,wmo,lavinový kraj vysočina,2025-12-06T03:32:00+00:00,Czechia,0.6001549690271158,0,2,cs,WCE,Europe
+'c5040baad7',extremes,Snow&Ice,#d60d2b,wmo,frost hlavní město praha,2025-11-28T03:34:00+00:00,Czechia,0.5973179868513685,0,2,cs,WCE,Europe
+'6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.5853962113386715,0,2,cs,WCE,Europe
+'f0ee96db7a',extremes,Snow&Ice,#d60d2b,wmo,snow kraj vysočina,2025-11-28T03:34:00+00:00,Czechia,0.5727385624266808,0,2,cs,WCE,Europe
