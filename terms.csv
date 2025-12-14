@@ -1,26 +1,25 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,snow czechia,2025-11-26T03:37:00+00:00,Czechia,0.6371697574818931,1,1,cs,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-11-26T03:37:00+00:00,Czechia,0.6358188305775043,1,1,cs,WCE,Europe
 'b797e6ba49',extremes,Snow&Ice,#d60d2b,wmo,snow olomoucký kraj jeseník šumperk,2025-11-26T03:37:00+00:00,Czechia,0.623397267509607,1,1,cs,WCE,Europe
-'2224a2114e',extremes,Snow&Ice,#d60d2b,wmo,lavina kraj vysočina,2025-12-06T03:32:00+00:00,Czechia,0.6001549690271158,0,2,cs,WCE,Europe
 '37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.5586420331294152,1,1,cs,WCE,Europe
 '55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.554198269227357,1,1,cs,WCE,Europe
 'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.5515292182896004,1,1,cs,WCE,Europe
 '0e469f1b6e',extremes,Snow&Ice,#d60d2b,wmo,avalanche hlavní město praha,2025-11-27T03:34:00+00:00,Czechia,0.5482645378056527,1,1,cs,WCE,Europe
 '92b7f88bdd',extremes,Snow&Ice,#d60d2b,wmo,lavina czechia,2025-11-26T03:37:00+00:00,Czechia,0.5438599936726836,2,1,cs,WCE,Europe
+'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,snow czechia,2025-11-26T03:37:00+00:00,Czechia,0.5415942938596091,2,1,cs,WCE,Europe
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-11-26T03:37:00+00:00,Czechia,0.5404641477538149,2,1,cs,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-11-26T03:37:00+00:00,Czechia,0.5404460059908787,2,1,cs,WCE,Europe
 '7ddd47f981',extremes,Snow&Ice,#d60d2b,wmo,lavina olomoucký kraj,2025-11-28T03:34:00+00:00,Czechia,0.5352638229676134,1,1,cs,WCE,Europe
 '53b9b634bb',extremes,Snow&Ice,#d60d2b,wmo,mrazivý karlovarský kraj,2025-11-28T03:34:00+00:00,Czechia,0.5321070560267813,1,1,cs,WCE,Europe
 '2ecc7b5aa1',extremes,Snow&Ice,#d60d2b,wmo,frost ústecký kraj,2025-11-28T03:34:00+00:00,Czechia,0.5272956032985958,1,1,cs,WCE,Europe
 'c5040baad7',extremes,Snow&Ice,#d60d2b,wmo,frost hlavní město praha,2025-11-28T03:34:00+00:00,Czechia,0.5077202888236632,1,1,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2025-12-08T03:45:00+00:00,Czechia,0.5021924766651631,0,2,cs,WCE,Europe
 '6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.4975867796378707,1,1,cs,WCE,Europe
-'f0ee96db7a',extremes,Snow&Ice,#d60d2b,wmo,snow kraj vysočina,2025-11-28T03:34:00+00:00,Czechia,0.48682777806267863,1,1,cs,WCE,Europe
+'f0ee96db7a',extremes,Snow&Ice,#d60d2b,wmo,snow kraj vysočina,2025-11-28T03:34:00+00:00,Czechia,0.4868277780626786,1,1,cs,WCE,Europe
 '228b603179',extremes,Snow&Ice,#d60d2b,wmo,snow karlovarský kraj,2025-11-27T03:34:00+00:00,Czechia,0.4821936762826578,2,1,cs,WCE,Europe
 '28e0ab5796',extremes,Snow&Ice,#d60d2b,wmo,lavina jihomoravský kraj,2025-11-28T03:34:00+00:00,Czechia,0.4727050512618867,2,1,cs,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2025-12-01T04:02:00+00:00,Czechia,0.4684731939409574,0,2,cs,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2025-12-05T03:41:00+00:00,Czechia,0.3849433885654731,1,1,cs,WCE,Europe
-'9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2025-12-12T03:46:00+00:00,Czechia,0.36426387195241267,1,1,cs,WCE,Europe
+'9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2025-12-12T03:46:00+00:00,Czechia,0.3642638719524126,1,1,cs,WCE,Europe
 '615eb4c759',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón ditwah,2025-11-28T03:33:00+00:00,,0.3189006492895961,0,2,cs,EIO,Indian Ocean
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,zákaz požárů jižní Austrálie,2025-11-27T03:34:00+00:00,Australia,0.3187725605764006,0,2,cs,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,silný déšť severní území,2025-11-26T03:37:00+00:00,Australia,0.3187491654813343,0,2,cs,CAU,Oceania
