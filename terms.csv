@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c042cd4627',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj jeseník,2025-11-27T03:34:00+00:00,Czechia,0.7128672847332498,0,2,cs,WCE,Europe
 'b797e6ba49',extremes,Snow&Ice,#d60d2b,wmo,snow olomoucký kraj jeseník šumperk,2025-11-26T03:37:00+00:00,Czechia,0.623397267509607,1,1,cs,WCE,Europe
+'2224a2114e',extremes,Snow&Ice,#d60d2b,wmo,lavina kraj vysočina,2025-12-06T03:32:00+00:00,Czechia,0.6001549690271158,0,2,cs,WCE,Europe
 '37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.5586420331294152,1,1,cs,WCE,Europe
 '55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.554198269227357,1,1,cs,WCE,Europe
 'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.5515292182896004,1,1,cs,WCE,Europe
@@ -28,4 +30,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,vlna veder severní území,2025-11-26T03:37:00+00:00,Australia,0.3183462179056731,0,2,cs,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,mokré období Austrálie,2025-11-27T03:34:00+00:00,Australia,0.3182085863292513,0,2,cs,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,blesková povodeň queensland,2025-11-26T03:37:00+00:00,Australia,0.3181718136200919,0,2,cs,CAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,mokré období Nový Jižní Wales,2025-11-27T03:34:00+00:00,Australia,0.3179579791731195,0,2,cs,EAU,Oceania
+'6977afac24',extremes,Volcano,#b83202,eonet,puracé sopka kolumbie,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,cs,NWS,South-America
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,vlna veder Austrálie,2025-11-26T03:37:00+00:00,Australia,0.31661734371692934,0,2,cs,CAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,záplava albánie,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,2,cs,MED,Europe
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,cs,CAU,Oceania
+'8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,cs,SEA,Asia
+'291335c911',extremes,Drought,#edc291,edo,nedostatek deště gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,cs,CAF,Africa
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,záplava queensland,2025-11-27T03:34:00+00:00,Australia,0.2709775415588232,1,1,cs,CAU,Oceania
