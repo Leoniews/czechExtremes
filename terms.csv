@@ -1,17 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c042cd4627',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj jeseník,2025-11-27T03:34:00+00:00,Czechia,0.6059371920232623,1,1,cs,WCE,Europe
-'37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.5586420331294152,1,1,cs,WCE,Europe
-'55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.554198269227357,1,1,cs,WCE,Europe
 '92b7f88bdd',extremes,Snow&Ice,#d60d2b,wmo,lavina czechia,2025-11-26T03:37:00+00:00,Czechia,0.5438599936726836,2,1,cs,WCE,Europe
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-11-26T03:37:00+00:00,Czechia,0.5404641477538149,2,1,cs,WCE,Europe
 'b797e6ba49',extremes,Snow&Ice,#d60d2b,wmo,snow olomoucký kraj jeseník šumperk,2025-11-26T03:37:00+00:00,Czechia,0.5298876773831659,2,1,cs,WCE,Europe
 '2ecc7b5aa1',extremes,Snow&Ice,#d60d2b,wmo,frost ústecký kraj,2025-11-28T03:34:00+00:00,Czechia,0.5272956032985958,1,1,cs,WCE,Europe
-'2224a2114e',extremes,Snow&Ice,#d60d2b,wmo,lavina kraj vysočina,2025-12-06T03:32:00+00:00,Czechia,0.5101317236730485,1,1,cs,WCE,Europe
+'c042cd4627',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj jeseník,2025-11-27T03:34:00+00:00,Czechia,0.515046613219773,2,1,cs,WCE,Europe
 'c5040baad7',extremes,Snow&Ice,#d60d2b,wmo,frost hlavní město praha,2025-11-28T03:34:00+00:00,Czechia,0.5077202888236632,1,1,cs,WCE,Europe
 '6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.4975867796378707,1,1,cs,WCE,Europe
 'f0ee96db7a',extremes,Snow&Ice,#d60d2b,wmo,snow kraj vysočina,2025-11-28T03:34:00+00:00,Czechia,0.4868277780626786,1,1,cs,WCE,Europe
+'37dfca005c',extremes,Snow&Ice,#d60d2b,wmo,led liberecký kraj liberec,2025-11-27T03:34:00+00:00,Czechia,0.47484572816000287,2,1,cs,WCE,Europe
 '28e0ab5796',extremes,Snow&Ice,#d60d2b,wmo,lavina jihomoravský kraj,2025-11-28T03:34:00+00:00,Czechia,0.4727050512618867,2,1,cs,WCE,Europe
-'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.46879983554616034,2,1,cs,WCE,Europe
+'55b5883f1d',extremes,Snow&Ice,#d60d2b,wmo,mráz jihočeský kraj,2025-11-28T03:34:00+00:00,Czechia,0.47106852884325345,2,1,cs,WCE,Europe
+'c6bdc234df',extremes,Snow&Ice,#d60d2b,wmo,mráz plzeňský kraj,2025-11-27T03:34:00+00:00,Czechia,0.4687998355461603,2,1,cs,WCE,Europe
 '0e469f1b6e',extremes,Snow&Ice,#d60d2b,wmo,avalanche hlavní město praha,2025-11-27T03:34:00+00:00,Czechia,0.4660248571348047,2,1,cs,WCE,Europe
 '1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,snow czechia,2025-11-26T03:37:00+00:00,Czechia,0.4603551497806677,3,1,cs,WCE,Europe
 '53b9b634bb',extremes,Snow&Ice,#d60d2b,wmo,mrazivý karlovarský kraj,2025-11-28T03:34:00+00:00,Czechia,0.4522909976227641,2,1,cs,WCE,Europe
@@ -20,15 +19,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2025-12-05T03:41:00+00:00,Czechia,0.3849433885654731,1,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2025-12-12T03:46:00+00:00,Czechia,0.3642638719524126,1,1,cs,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2025-12-01T04:02:00+00:00,Czechia,0.3384718826223417,2,1,cs,WCE,Europe
-'6977afac24',extremes,Volcano,#b83202,eonet,puracé sopka kolumbie,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,cs,NWS,South-America
-'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,vlna veder Austrálie,2025-11-26T03:37:00+00:00,Australia,0.3166173437169293,0,2,cs,CAU,Oceania
-'6dfc67df50',extremes,Flood,#030ba1,cmeter,záplava albánie,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,cs,MED,Europe
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-11-27T03:34:00+00:00,Australia,0.3125771822937785,0,2,cs,CAU,Oceania
 '8a011225a4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón senyar,2025-11-27T03:33:00+00:00,,0.3121637538580205,0,2,cs,SEA,Asia
 '5a20612e67',extremes,Drought,#edc291,edo,nedostatek deště trinidad a tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,cs,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,sucho Tádžikistán,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,2,cs,WCA,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,mrazivá Indie,2025-12-07T03:47:00+00:00,India,0.3094058161213626,0,2,cs,SAS,Asia
-'99251f8aa7',extremes,Drought,#edc291,edo,nedostatek deště Libérie,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,cs,WAF,Africa
 '56dca2743f',extremes,Drought,#edc291,edo,sucho rovníková guinea,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.3078450454677852,0,2,cs,WAF,Africa
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,ledová Etiopie,2025-12-09T03:41:00+00:00,Ethiopia,0.3075462733965737,0,2,cs,NEAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,nedostatek deště rovníková guinea,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.3071540363877651,0,2,cs,WAF,Africa
@@ -50,7 +45,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,mokré období Austrálie,2025-11-27T03:34:00+00:00,Australia,0.2704772983798636,1,1,cs,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,blesková povodeň queensland,2025-11-26T03:37:00+00:00,Australia,0.2704460415770781,1,1,cs,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,mokré období Nový Jižní Wales,2025-11-27T03:34:00+00:00,Australia,0.2702642822971516,1,1,cs,EAU,Oceania
+'6977afac24',extremes,Volcano,#b83202,eonet,puracé sopka kolumbie,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,cs,NWS,South-America
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,vlna veder Austrálie,2025-11-26T03:37:00+00:00,Australia,0.26912474215938986,1,1,cs,CAU,Oceania
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,záplava albánie,2025-11-30T03:47:00+00:00,Albania,0.2675617544256781,1,1,cs,MED,Europe
 '291335c911',extremes,Drought,#edc291,edo,nedostatek deště gabon,2025-12-08T03:45:00+00:00,Gabon,0.2640961579529894,1,1,cs,CAF,Africa
 '0d2f7df845',extremes,Drought,#edc291,edo,sucho palestinské území,2025-11-29T03:34:00+00:00,Palestinian Territory,0.2633762271428154,1,1,cs,MED,Asia
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2025-12-05T03:41:00+00:00,Australia,0.26244644941748224,1,1,cs,SAU,Oceania
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2025-12-05T03:41:00+00:00,Australia,0.2624464494174822,1,1,cs,SAU,Oceania
+'99251f8aa7',extremes,Drought,#edc291,edo,nedostatek deště Libérie,2025-12-08T03:45:00+00:00,Liberia,0.2623637624332612,1,1,cs,WAF,Africa
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.2288483482482044,2,1,cs,SAU,Oceania
