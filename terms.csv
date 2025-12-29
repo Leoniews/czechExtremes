@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-12-18T03:44:00+00:00,Czechia,0.7346943082297559,0,2,cs,WCE,Europe
+'6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.5853962113386715,0,2,cs,WCE,Europe
+'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2025-12-01T04:02:00+00:00,Czechia,0.46847319394095743,0,2,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2025-12-08T03:45:00+00:00,Czechia,0.3628340643905803,2,1,cs,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2025-12-05T03:41:00+00:00,Czechia,0.3272018802806521,2,1,cs,WCE,Europe
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,záplava albánie,2025-11-30T03:47:00+00:00,Albania,0.31477853461844485,0,2,cs,MED,Europe
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,cs,SAU,Oceania
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,srážky albánie,2025-12-01T04:03:00+00:00,Albania,0.30636965833800445,0,2,cs,MED,Europe
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,vlna veder argentina,2025-12-01T04:02:00+00:00,Argentina,0.3048547846706371,0,2,cs,SES,South-America
+'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,bouřka Nový Zéland,2025-11-30T03:46:00+00:00,New Zealand,0.3045580522474928,0,2,cs,NZ,Oceania
+'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,přívalové deště على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.3042780040659885,0,2,cs,SAH,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst jižní Afrika,2025-12-01T04:02:00+00:00,South Africa,0.30419798091588524,0,2,cs,WSAF,Africa
 '2224a2114e',extremes,Snow&Ice,#d60d2b,wmo,lavina kraj vysočina,2025-12-06T03:32:00+00:00,Czechia,0.2662919480806041,5,1,cs,WCE,Europe
 'ce2d4957e5',extremes,Fog,#d60d2b,wmo,mlha kuvajt,2025-12-12T03:45:00+00:00,Kuwait,0.2564318537541465,3,1,cs,ARP,Asia
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,pevnina Austrálie,2025-12-08T03:45:00+00:00,Australia,0.256321644300266,1,1,cs,NAU,Oceania
@@ -139,7 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,přívalové deště madagaskar,2025-12-06T03:32:00+00:00,Madagascar,0.1869115798609806,3,1,cs,MDG,Africa
 '8be002d270',extremes,Drought,#edc291,edo,nedostatek deště venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.1868074129725386,3,1,cs,NSA,South-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,lavina v Kanadě,2025-12-10T03:45:00+00:00,Canada,0.1867873672546731,3,1,cs,NEN,North-America
-'388a6dbadc',extremes,Storm,#b3b2b1,wmo,bouře v Alžírsku,2025-12-06T03:32:00+00:00,Algeria,0.18669415244325782,3,1,cs,SAH,Africa
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,bouře v Alžírsku,2025-12-06T03:32:00+00:00,Algeria,0.1866941524432578,3,1,cs,SAH,Africa
 'bf84083cec',extremes,Landslide,#572c03,wmo,sesuv půdy norsko,2025-12-10T03:45:00+00:00,Norway,0.1866874252152969,3,1,cs,NEU,Europe
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood Kanada,2025-12-03T03:40:00+00:00,Canada,0.1865725511733909,3,1,cs,NEN,North-America
 'ebb583160c',extremes,Precipitation,#d60d2b,wmo,liják vysočina a východní části,2025-12-06T03:32:00+00:00,Madagascar,0.1865066890607542,3,1,cs,MDG,Africa
