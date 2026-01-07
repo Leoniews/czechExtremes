@@ -1,9 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-12-18T03:44:00+00:00,Czechia,0.6244901619952925,1,1,cs,WCE,Europe
-'6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.49758677963787074,1,1,cs,WCE,Europe
+'6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.42294876269219006,2,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2025-12-12T03:46:00+00:00,Czechia,0.3661304722020095,2,1,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2025-12-08T03:45:00+00:00,Czechia,0.3628340643905803,2,1,cs,WCE,Europe
-'6977afac24',extremes,Volcano,#b83202,eonet,puracé sopka kolumbie,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,cs,NWS,South-America
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
 '8a654473a4',extremes,Drought,#edc291,edo,sucho Svatý Tomáš a Princip,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,cs,WAF,Africa
 '5ea67ea4a7',extremes,Drought,#edc291,edo,sucho trinidad a tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,2,cs,NSA,North-America
