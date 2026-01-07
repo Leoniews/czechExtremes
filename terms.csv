@@ -1,14 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6f9d7f2d8f',extremes,Snow&Ice,#d60d2b,wmo,mrazivý plzeňský kraj,2025-12-06T03:32:00+00:00,Czechia,0.42294876269219006,2,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2025-12-12T03:46:00+00:00,Czechia,0.3661304722020095,2,1,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2025-12-08T03:45:00+00:00,Czechia,0.3628340643905803,2,1,cs,WCE,Europe
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
-'8a654473a4',extremes,Drought,#edc291,edo,sucho Svatý Tomáš a Princip,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,cs,WAF,Africa
 '5ea67ea4a7',extremes,Drought,#edc291,edo,sucho trinidad a tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.3113742365775311,0,2,cs,NSA,North-America
 'da5c6d0821',extremes,Drought,#edc291,edo,nedostatek deště kyrgyzstán,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.3088233747425803,0,2,cs,WCA,Asia
 '291335c911',extremes,Drought,#edc291,edo,nedostatek deště gabon,2025-12-08T03:45:00+00:00,Gabon,0.2640961579529894,1,1,cs,CAF,Africa
-'cc855d70a2',extremes,Drought,#edc291,edo,sucho Tádžikistán,2025-12-08T03:45:00+00:00,Tajikistan,0.2633944886786648,1,1,cs,WCA,Asia
 '5a20612e67',extremes,Drought,#edc291,edo,nedostatek deště trinidad a tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2238869649907922,2,1,cs,NSA,North-America
+'cc855d70a2',extremes,Drought,#edc291,edo,sucho Tádžikistán,2025-12-08T03:45:00+00:00,Tajikistan,0.22388531537686504,2,1,cs,WCA,Asia
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,srážky kuvajt,2025-12-11T03:46:00+00:00,Kuwait,0.2215431464255557,3,1,cs,ARP,Asia
 'c72865acbd',extremes,Drought,#edc291,edo,nedostatek deště togo,2025-12-08T03:45:00+00:00,Togo,0.2208863722617461,2,1,cs,WAF,Africa
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,déšť Šalamounovy ostrovy,2025-12-09T03:41:00+00:00,Solomon Islands,0.2190673292080726,2,1,cs,EPO,Oceania
