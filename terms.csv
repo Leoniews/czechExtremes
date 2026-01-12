@@ -1,11 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2025-12-01T04:02:00+00:00,Czechia,0.4684731939409574,0,2,cs,WCE,Europe
-'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2025-12-05T03:41:00+00:00,Czechia,0.4528745747829096,0,2,cs,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2025-12-18T03:44:00+00:00,Czechia,0.4511941420415988,3,1,cs,WCE,Europe
-'5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2025-12-18T03:44:00+00:00,Czechia,0.3809422375186281,4,1,cs,WCE,Europe
-'6977afac24',extremes,Volcano,#b83202,eonet,puracé sopka kolumbie,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,cs,NWS,South-America
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,záplava albánie,2025-11-30T03:47:00+00:00,Albania,0.3147785346184448,0,2,cs,MED,Europe
-'8a654473a4',extremes,Drought,#edc291,edo,sucho Svatý Tomáš a Princip,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.3128654084716928,0,2,cs,WAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,nedostatek deště trinidad a tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,cs,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,sucho Tádžikistán,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,2,cs,WCA,Asia
 '5d85dc5645',extremes,Drought,#edc291,edo,sucho Rwanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,2,cs,SEAF,Africa
