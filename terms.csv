@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'3a67915e02',extremes,Earthquake,#870007,usgs,zemětřesení peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,2,cs,NWS,South-America
 '464d595634',extremes,Earthquake,#870007,usgs,zemětřesení camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,2,cs,SWS,South-America
 '76ad379230',extremes,Earthquake,#870007,usgs,zemětřesení petropavlovsk kamčatskij,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,2,cs,RFE,Asia
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,zemětřesení mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,2,cs,NSA,South-America
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.31982732708285266,0,2,cs,SEA,Asia
+'23ad2bb822',extremes,Earthquake,#870007,usgs,zemětřesení v Rusku,2026-01-15T10:56:00+00:00,Russia,0.31982705319807875,0,2,cs,EAS,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,zemětřesení Nový Zéland,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,2,cs,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,2,cs,WCA,Asia
+'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,2,cs,NWN,North-America
+'072f41af80',extremes,Earthquake,#870007,usgs,zemětřesení aratoca,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,2,cs,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,zemětřesení villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.31981692308899035,0,2,cs,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,zemětřesení kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,2,cs,EAS,Asia
+'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,2,cs,SCA,North-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,2,cs,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
 '291335c911',extremes,Drought,#edc291,edo,nedostatek deště gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,cs,CAF,Africa
@@ -33,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,zemětřesení ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,cs,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,cs,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,cs,SEA,Asia
-'26349abe17',extremes,Tsunami,#690191,usgs,stanice tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.27186899655010444,1,1,cs,NPO,Pacific Ocean
+'26349abe17',extremes,Tsunami,#690191,usgs,stanice tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.2718689965501044,1,1,cs,NPO,Pacific Ocean
 '018b9ccc96',extremes,Earthquake,#870007,usgs,zemětřesení oblast shledání Mauricia,2026-01-15T10:56:00+00:00,,0.2718662773241356,1,1,cs,SIO,Indian Ocean
 '4d51911b1d',extremes,Earthquake,#870007,usgs,zemětřesení sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,cs,SPO,Pacific Ocean
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,zemětřesení san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,cs,SES,South-America
@@ -49,5 +59,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.1461951224549234,0,2,cs,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupce sopky,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,2,cs,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,otelení ledovce,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,2,cs,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,nejchladnější rok,2026-01-15T10:20:00+00:00,,0.12509632024197742,1,1,cs,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,nejchladnější rok,2026-01-15T10:20:00+00:00,,0.1250963202419774,1,1,cs,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.1243342101268865,1,2,cs,,
