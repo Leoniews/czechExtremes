@@ -1,15 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2c38aada07',extremes,Earthquake,#870007,usgs,zemětřesení colchane,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,2,cs,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,2,cs,SES,South-America
-'26349abe17',extremes,Tsunami,#690191,usgs,stanice tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,2,cs,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,zemětřesení camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,2,cs,SWS,South-America
 '76ad379230',extremes,Earthquake,#870007,usgs,zemětřesení petropavlovsk kamčatskij,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,2,cs,RFE,Asia
-'4d51911b1d',extremes,Earthquake,#870007,usgs,zemětřesení sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,2,cs,SPO,Pacific Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,zemětřesení mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,2,cs,NSA,South-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,zemětřesení san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,2,cs,SES,South-America
-'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,2,cs,SEA,Asia
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,2,cs,EAU,Oceania
-'d9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,2,cs,WCA,Asia
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
 '291335c911',extremes,Drought,#edc291,edo,nedostatek deště gabon,2025-12-08T03:45:00+00:00,Gabon,0.3107013622976347,0,2,cs,CAF,Africa
 '5a20612e67',extremes,Drought,#edc291,edo,nedostatek deště trinidad a tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,cs,NSA,North-America
@@ -28,7 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
 '4455655d11',extremes,Precipitation,#d60d2b,wmo,přívalové deště Maledivy,2025-12-13T03:38:00+00:00,Maldives,0.3063193516313522,0,2,cs,EIO,Indian Ocean
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-01-15T10:57:00+00:00,Czechia,0.2903008252423285,2,1,cs,WCE,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.27200641522510444,1,1,cs,SAU,Oceania
+'45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,cs,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,cs,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,sopka filipíny,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,cs,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,řeka zaplavující Austrálii,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,cs,EAU,Oceania
@@ -36,13 +29,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,povodeň v Austrálii,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,cs,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,blesková povodeň v Austrálii,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,cs,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,zemětřesení přístav mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,cs,SIO,Indian Ocean
+'2c38aada07',extremes,Earthquake,#870007,usgs,zemětřesení colchane,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,cs,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,zemětřesení ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,cs,SWS,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,cs,SES,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,cs,SEA,Asia
+'26349abe17',extremes,Tsunami,#690191,usgs,stanice tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.27186899655010444,1,1,cs,NPO,Pacific Ocean
 '018b9ccc96',extremes,Earthquake,#870007,usgs,zemětřesení oblast shledání Mauricia,2026-01-15T10:56:00+00:00,,0.2718662773241356,1,1,cs,SIO,Indian Ocean
+'4d51911b1d',extremes,Earthquake,#870007,usgs,zemětřesení sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,cs,SPO,Pacific Ocean
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,zemětřesení san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,cs,SES,South-America
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
+'d9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,cs,SPO,Pacific Ocean
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,liják zóna sur,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,cs,NWS,South-America
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,nejchladnější rok,2026-01-15T10:20:00+00:00,,0.1471721414611499,0,2,cs,,
 'b6cef22543',extremes,Drought,#edc291,random,omezení vody,2026-01-15T10:20:00+00:00,,0.1466996666578138,0,2,cs,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosférická řeka,2026-01-15T10:20:00+00:00,,0.1465769511973332,0,2,cs,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordně studená,2026-01-15T10:20:00+00:00,,0.1465293677315336,0,2,cs,,
@@ -51,4 +49,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.1461951224549234,0,2,cs,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupce sopky,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,2,cs,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,otelení ledovce,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,2,cs,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.12433421012688657,1,2,cs,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,nejchladnější rok,2026-01-15T10:20:00+00:00,,0.12509632024197742,1,1,cs,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.1243342101268865,1,2,cs,,
