@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,2,cs,SAU,Oceania
+'2c38aada07',extremes,Earthquake,#870007,usgs,zemětřesení colchane,2026-01-15T12:13:00+00:00,Chile,0.31985962751372576,0,2,cs,SWS,South-America
+'3a67915e02',extremes,Earthquake,#870007,usgs,zemětřesení peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,2,cs,NWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,2,cs,SES,South-America
+'26349abe17',extremes,Tsunami,#690191,usgs,stanice tsunami attu,2026-01-15T12:13:00+00:00,Alaska,0.31984587829424055,0,2,cs,NPO,Pacific Ocean
+'464d595634',extremes,Earthquake,#870007,usgs,zemětřesení camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,2,cs,SWS,South-America
+'76ad379230',extremes,Earthquake,#870007,usgs,zemětřesení petropavlovsk kamčatskij,2026-01-15T10:56:00+00:00,Russia,0.31984194914788205,0,2,cs,RFE,Asia
+'4d51911b1d',extremes,Earthquake,#870007,usgs,zemětřesení sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,2,cs,SPO,Pacific Ocean
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,zemětřesení mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.31983046756362477,0,2,cs,NSA,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,zemětřesení san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,2,cs,SES,South-America
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.31982732708285266,0,2,cs,SEA,Asia
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,2,cs,EAU,Oceania
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.3195640466482966,0,2,cs,WCA,Asia
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,studená vlna victoria,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,cs,SAU,Oceania
