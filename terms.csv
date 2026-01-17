@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'3a67915e02',extremes,Earthquake,#870007,usgs,zemětřesení peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,2,cs,NWS,South-America
+'072f41af80',extremes,Earthquake,#870007,usgs,zemětřesení aratoca,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,2,cs,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,zemětřesení villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.31981692308899035,0,2,cs,SWS,South-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.31980867219672904,0,2,cs,NWN,North-America
+'e551102071',extremes,Earthquake,#870007,usgs,zemětřesení vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.31980758222472205,0,2,cs,SPO,Pacific Ocean
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,zemětřesení san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.31980657221500236,0,2,cs,NWS,South-America
+'e6998a615e',extremes,Earthquake,#870007,usgs,zemětřesení murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,2,cs,WCA,Asia
+'c605f8759a',extremes,Earthquake,#870007,usgs,zemětřesení guam,2026-01-15T10:56:00+00:00,Guam,0.31980275137930514,0,2,cs,NPO,Pacific Ocean
+'9f3b29621a',extremes,Earthquake,#870007,usgs,zemětřesení centrální středoatlantický hřbet,2026-01-15T10:56:00+00:00,,0.31980246935086426,0,2,cs,EAO,Atlantic Ocean
+'70773b5956',extremes,Earthquake,#870007,usgs,zemětřesení na Aljašce,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,2,cs,NWN,North-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,2,cs,EAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,nedostatek deště Libérie,2025-12-08T03:45:00+00:00,Liberia,0.3086632499214838,0,2,cs,WAF,Africa
 '53af3d9646',extremes,Drought,#edc291,edo,sucho Turkmenistán,2025-12-15T03:54:00+00:00,Turkmenistan,0.3083762106398596,0,2,cs,WCA,Asia
@@ -33,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,zemětřesení v Rusku,2026-01-15T10:56:00+00:00,Russia,0.2718529952183668,1,1,cs,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,zemětřesení Nový Zéland,2026-01-15T10:56:00+00:00,New Zealand,0.2718520640906192,1,1,cs,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,cs,WCA,Asia
-'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.27184811082334037,1,1,cs,NWN,North-America
+'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,cs,NWN,North-America
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,zemětřesení kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.2718391678463759,1,1,cs,EAS,Asia
 'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.2718375840922009,1,1,cs,SCA,North-America
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
