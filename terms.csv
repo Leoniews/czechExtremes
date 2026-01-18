@@ -1,9 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.665405336250082,0,2,cs,WCE,Europe
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.6611850960255492,0,2,cs,WCE,Europe
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,řeka zaplavující Austrálii,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,2,cs,EAU,Oceania
-'1133ce1349',extremes,Earthquake,#870007,usgs,zemětřesení Kostariky,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,2,cs,SCA,South-America
-'6bf5e2061d',extremes,Earthquake,#870007,usgs,zemětřesení castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,2,cs,NZ,Oceania
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.5620073616217168,1,1,cs,WCE,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,zemětřesení chile,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,2,cs,SWS,South-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
 '4455655d11',extremes,Precipitation,#d60d2b,wmo,přívalové deště Maledivy,2025-12-13T03:38:00+00:00,Maldives,0.3063193516313522,0,2,cs,EIO,Indian Ocean
@@ -11,7 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,cs,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,cs,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,sopka filipíny,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,cs,SEA,Asia
-'ebe314dd99',extremes,Flood,#030ba1,aidr,vydatné srážky a záplavy queensland únor 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,cs,EAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,řeka zaplavující Austrálii,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,cs,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,povodeň v Austrálii,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,cs,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,blesková povodeň v Austrálii,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,cs,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,zemětřesení přístav mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,cs,SIO,Indian Ocean
@@ -47,10 +43,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,zemětřesení kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2718177223063748,1,1,cs,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,zemětřesení barma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2718175980110488,1,1,cs,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy Severní Mariany,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2718149036199735,1,1,cs,NPO,Pacific Ocean
-'f7921ef009',extremes,Earthquake,#870007,usgs,zemětřesení viljuchinsk,2026-01-15T10:56:00+00:00,Russia,0.27180748628695073,1,1,cs,RFE,Asia
-'f5afb20efd',extremes,Earthquake,#870007,usgs,zemětřesení v oblasti jižních sendvičových ostrovů,2026-01-15T10:56:00+00:00,,0.27180166524192223,1,1,cs,SOO,Antarctica
-'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.27180017588669997,1,1,cs,EAS,Asia
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,zemětřesení Papua Nová Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.27179999650315884,1,1,cs,SEA,Asia
+'f7921ef009',extremes,Earthquake,#870007,usgs,zemětřesení viljuchinsk,2026-01-15T10:56:00+00:00,Russia,0.2718074862869507,1,1,cs,RFE,Asia
+'1133ce1349',extremes,Earthquake,#870007,usgs,zemětřesení Kostariky,2026-01-15T12:13:00+00:00,Costa Rica,0.27180709654314883,1,1,cs,SCA,South-America
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,zemětřesení castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,cs,NZ,Oceania
+'f5afb20efd',extremes,Earthquake,#870007,usgs,zemětřesení v oblasti jižních sendvičových ostrovů,2026-01-15T10:56:00+00:00,,0.2718016652419222,1,1,cs,SOO,Antarctica
+'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.2718001758866999,1,1,cs,EAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,zemětřesení Papua Nová Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,cs,SEA,Asia
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,cs,EAU,Oceania
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
@@ -58,20 +56,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-01-17T03:44:00+00:00,Czechia,0.2647968040839843,4,1,cs,WCE,Europe
 '5d85dc5645',extremes,Drought,#edc291,edo,sucho Rwanda,2025-12-16T03:47:00+00:00,Rwanda,0.2632819039941947,1,1,cs,SEAF,Africa
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,liják zóna sur,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,cs,NWS,South-America
+'ebe314dd99',extremes,Flood,#030ba1,aidr,vydatné srážky a záplavy queensland únor 2020,2026-01-15T10:57:00+00:00,Australia,0.2311383647962844,2,1,cs,EAU,Oceania
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2310943625019648,2,1,cs,SES,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,zemětřesení oblast shledání Mauricia,2026-01-15T10:56:00+00:00,,0.2310863357255152,2,1,cs,SIO,Indian Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,zemětřesení mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.2310775128147188,2,1,cs,NSA,South-America
-'73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.2310709105693487,2,1,cs,WCA,Asia
 '43165fdae0',extremes,Earthquake,#870007,usgs,zemětřesení villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2310677269317954,2,1,cs,SWS,South-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,zemětřesení v Íránu,2026-01-15T10:56:00+00:00,Iran,0.2310512282899902,2,1,cs,WCA,Asia
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,zemětřesení Prince Edward Islands region,2026-01-15T10:56:00+00:00,,0.2310373784589867,2,1,cs,SOO,Antarctica
+'73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.1964102739839464,3,1,cs,WCA,Asia
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.1462914317228042,0,2,cs,,
-'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.1461951224549234,0,2,cs,,
 'f90601fa23',extremes,Volcano,#b83202,random,erupce sopky,2026-01-15T10:20:00+00:00,,0.1456038068151502,0,2,cs,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,otelení ledovce,2026-01-15T10:20:00+00:00,,0.1445099887501987,0,2,cs,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,nejchladnější rok,2026-01-15T10:20:00+00:00,,0.1250963202419774,1,1,cs,,
 'b6cef22543',extremes,Drought,#edc291,random,omezení vody,2026-01-15T10:20:00+00:00,,0.1246948966591417,1,1,cs,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosférická řeka,2026-01-15T10:20:00+00:00,,0.1245904385177332,1,1,cs,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordně studená,2026-01-15T10:20:00+00:00,,0.12454996257180356,1,1,cs,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordně studená,2026-01-15T10:20:00+00:00,,0.1245499625718035,1,1,cs,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktický mořský led,2026-01-15T10:20:00+00:00,,0.1244547217680757,1,1,cs,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.1243342101268865,1,2,cs,,
+'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.12426585408668488,1,1,cs,,
