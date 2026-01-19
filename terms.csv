@@ -1,20 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.665405336250082,0,2,cs,WCE,Europe
-'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.5169769256053,0,2,cs,WCE,Europe
+'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.5655945358125697,1,1,cs,WCE,Europe
+'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.43943038676450497,1,1,cs,WCE,Europe
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.3459145981309368,4,1,cs,WCE,Europe
 '0a2120b175',extremes,Earthquake,#870007,usgs,zemětřesení diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,2,cs,SWS,South-America
-'7d79b2a1fb',extremes,Earthquake,#870007,usgs,zemětřesení kencong,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,2,cs,NAU,Oceania
 '3e797c4058',extremes,Earthquake,#870007,usgs,zemětřesení Fidži,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,2,cs,SPO,Pacific Ocean
 '6628268bda',extremes,Earthquake,#870007,usgs,zemětřesení korla,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,2,cs,ECA,Asia
-'29aa7b93c5',extremes,Earthquake,#870007,usgs,zemětřesení jižně od ostrovů Fidži,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,2,cs,SPO,Pacific Ocean
 '3e36cbc783',extremes,Earthquake,#870007,usgs,zemětřesení la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,2,cs,NWS,South-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,zemětřesení levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,2,cs,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,zemětřesení yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,2,cs,NWN,North-America
-'2fa9116266',extremes,Earthquake,#870007,usgs,zemětřesení port alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,2,cs,NWN,North-America
-'b0d647e9d3',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodní indický hřeben,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,2,cs,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,zemětřesení baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,2,cs,SEA,Asia
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,zemětřesení Bolívie,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,2,cs,SES,South-America
-'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.31972240885217246,0,2,cs,NEAF,Africa
+'0f6b56852d',extremes,Earthquake,#870007,usgs,zemětřesení baculin,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,2,cs,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,zemětřesení Bolívie,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,2,cs,SES,South-America
+'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,2,cs,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,2,cs,SWS,South-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-01-15T10:57:00+00:00,Czechia,0.2903008252423285,2,1,cs,WCE,Europe
@@ -35,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d51911b1d',extremes,Earthquake,#870007,usgs,zemětřesení sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,cs,SPO,Pacific Ocean
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,zemětřesení san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,cs,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.2718532280204247,1,1,cs,SEA,Asia
-'23ad2bb822',extremes,Earthquake,#870007,usgs,zemětřesení v Rusku,2026-01-15T10:56:00+00:00,Russia,0.2718529952183668,1,1,cs,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,zemětřesení Nový Zéland,2026-01-15T10:56:00+00:00,New Zealand,0.2718520640906192,1,1,cs,NZ,Oceania
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,cs,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,zemětřesení aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,cs,NWS,South-America
@@ -66,6 +61,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,zemětřesení Papua Nová Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,cs,SEA,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,zemětřesení chile,2026-01-15T10:56:00+00:00,Chile,0.2717925587436505,1,1,cs,SWS,South-America
 'd920e41c1e',extremes,Earthquake,#870007,usgs,zemětřesení mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.2717854040008172,1,1,cs,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,zemětřesení jižně od ostrovů Fidži,2026-01-15T10:56:00+00:00,,0.27178426897354635,1,1,cs,SPO,Pacific Ocean
+'2fa9116266',extremes,Earthquake,#870007,usgs,zemětřesení port alsworth,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,cs,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodní indický hřeben,2026-01-15T10:56:00+00:00,,0.27177308870112415,1,1,cs,SOO,Antarctica
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,cs,EAU,Oceania
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
@@ -75,6 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2310943625019648,2,1,cs,SES,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,zemětřesení oblast shledání Mauricia,2026-01-15T10:56:00+00:00,,0.2310863357255152,2,1,cs,SIO,Indian Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,zemětřesení mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.2310775128147188,2,1,cs,NSA,South-America
+'23ad2bb822',extremes,Earthquake,#870007,usgs,zemětřesení v Rusku,2026-01-15T10:56:00+00:00,Russia,0.2310750459356118,2,1,cs,EAS,Asia
 '43165fdae0',extremes,Earthquake,#870007,usgs,zemětřesení villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.2310677269317954,2,1,cs,SWS,South-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,zemětřesení v Íránu,2026-01-15T10:56:00+00:00,Iran,0.2310512282899902,2,1,cs,WCA,Asia
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,zemětřesení Prince Edward Islands region,2026-01-15T10:56:00+00:00,,0.2310373784589867,2,1,cs,SOO,Antarctica
