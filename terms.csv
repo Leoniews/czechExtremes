@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.665405336250082,0,2,cs,WCE,Europe
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.4780062873784593,2,1,cs,WCE,Europe
+'c685705bbd',extremes,Earthquake,#870007,usgs,zemětřesení v Číně,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,2,cs,EAS,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,zemětřesení chile,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,2,cs,SWS,South-America
+'0a2120b175',extremes,Earthquake,#870007,usgs,zemětřesení diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,2,cs,SWS,South-America
+'7d79b2a1fb',extremes,Earthquake,#870007,usgs,zemětřesení kencong,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,2,cs,NAU,Oceania
+'3e797c4058',extremes,Earthquake,#870007,usgs,zemětřesení Fidži,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,2,cs,SPO,Pacific Ocean
+'6628268bda',extremes,Earthquake,#870007,usgs,zemětřesení korla,2026-01-15T10:56:00+00:00,China,0.31974882147790856,0,2,cs,ECA,Asia
+'d920e41c1e',extremes,Earthquake,#870007,usgs,zemětřesení mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,2,cs,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,zemětřesení jižně od ostrovů Fidži,2026-01-15T10:56:00+00:00,,0.31974619879240757,0,2,cs,SPO,Pacific Ocean
+'3e36cbc783',extremes,Earthquake,#870007,usgs,zemětřesení la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,2,cs,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,zemětřesení levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,2,cs,SPO,Pacific Ocean
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-01-15T10:57:00+00:00,Czechia,0.2903008252423285,2,1,cs,WCE,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,cs,SAU,Oceania
