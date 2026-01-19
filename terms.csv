@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.5620073616217168,1,1,cs,WCE,Europe
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.4780062873784593,2,1,cs,WCE,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,zemětřesení chile,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,2,cs,SWS,South-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
-'4455655d11',extremes,Precipitation,#d60d2b,wmo,přívalové deště Maledivy,2025-12-13T03:38:00+00:00,Maldives,0.3063193516313522,0,2,cs,EIO,Indian Ocean
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-01-15T10:57:00+00:00,Czechia,0.2903008252423285,2,1,cs,WCE,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,sesuv půdy adelaide hills jižní austrálie,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,cs,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,cs,SPO,Oceania
@@ -44,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,zemětřesení barma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2718175980110488,1,1,cs,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy Severní Mariany,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2718149036199735,1,1,cs,NPO,Pacific Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,zemětřesení viljuchinsk,2026-01-15T10:56:00+00:00,Russia,0.2718074862869507,1,1,cs,RFE,Asia
-'1133ce1349',extremes,Earthquake,#870007,usgs,zemětřesení Kostariky,2026-01-15T12:13:00+00:00,Costa Rica,0.27180709654314883,1,1,cs,SCA,South-America
+'1133ce1349',extremes,Earthquake,#870007,usgs,zemětřesení Kostariky,2026-01-15T12:13:00+00:00,Costa Rica,0.2718070965431488,1,1,cs,SCA,South-America
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,zemětřesení castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,cs,NZ,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,zemětřesení v oblasti jižních sendvičových ostrovů,2026-01-15T10:56:00+00:00,,0.2718016652419222,1,1,cs,SOO,Antarctica
 '17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.2718001758866999,1,1,cs,EAS,Asia
@@ -73,4 +72,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordně studená,2026-01-15T10:20:00+00:00,,0.1245499625718035,1,1,cs,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktický mořský led,2026-01-15T10:20:00+00:00,,0.1244547217680757,1,1,cs,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tajfun,2026-01-15T10:20:00+00:00,,0.1243342101268865,1,2,cs,,
-'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.12426585408668488,1,1,cs,,
+'ccefefc59e',extremes,Drought,#edc291,random,bleskové sucho,2026-01-15T10:20:00+00:00,,0.1242658540866848,1,1,cs,,
