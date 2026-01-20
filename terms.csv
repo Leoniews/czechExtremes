@@ -1,10 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.4086420521245815,3,1,cs,WCE,Europe
-'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.38133017950369485,2,2,cs,EAS,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.3813301795036948,2,2,cs,EAS,Asia
+'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym volcano vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,2,cs,SPO,Oceania
+'8bf8909453',extremes,Earthquake,#870007,usgs,zemětřesení levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,2,cs,SPO,Pacific Ocean
+'9de3c9007e',extremes,Earthquake,#870007,usgs,zemětřesení yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,2,cs,NWN,North-America
 '90e6558608',extremes,Earthquake,#870007,usgs,zemětřesení jižní středoatlantický hřbet,2026-01-15T10:56:00+00:00,,0.3197141389002151,0,2,cs,SAO,Atlantic Ocean
 '0b2fd57376',extremes,Earthquake,#870007,usgs,zemětřesení na Tchaj-wanu,2026-01-15T12:13:00+00:00,Taiwan,0.3197039178556724,0,2,cs,EAS,Asia
 '8abf2def70',extremes,Earthquake,#870007,usgs,zemětřesení sopečné ostrovy japonská oblast,2026-01-15T10:56:00+00:00,,0.319700423900342,0,2,cs,NPO,Pacific Ocean
 'da0b9741fb',extremes,Earthquake,#870007,usgs,zemětřesení rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.3196988252639028,0,2,cs,SCA,North-America
+'5bf34f285a',extremes,Earthquake,#870007,usgs,zemětřesení Itálie,2026-01-15T10:56:00+00:00,Italy,0.3196985807356531,0,2,cs,MED,Europe
+'505a53d28b',extremes,Earthquake,#870007,usgs,zemětřesení přístav vila,2026-01-15T10:56:00+00:00,Vanuatu,0.31969548031849543,0,2,cs,SPO,Oceania
+'8684156e57',extremes,Earthquake,#870007,usgs,zemětřesení isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,2,cs,SPO,Pacific Ocean
+'17b150a7a2',extremes,Earthquake,#870007,usgs,zemětřesení Tanzanie,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,2,cs,SEAF,Africa
+'95694d19cf',extremes,Earthquake,#870007,usgs,zemětřesení jemenu,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,2,cs,NEAF,Africa
+'cc449c3731',extremes,Earthquake,#870007,usgs,zemětřesení oblast kermadeckých ostrovů,2026-01-15T10:56:00+00:00,,0.31967654225515996,0,2,cs,SPO,Pacific Ocean
+'5484f48de4',extremes,Earthquake,#870007,usgs,zemětřesení středního indického hřebene,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,2,cs,SIO,Indian Ocean
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.3174884544373547,3,1,cs,WCE,Europe
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.2943274384112962,5,1,cs,WCE,Europe
@@ -65,7 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,cs,EAU,Oceania
 'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.2717640475243465,1,1,cs,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-01-15T10:56:00+00:00,Argentina,0.2717588389408521,1,1,cs,SWS,South-America
-'ad41fee440',extremes,Earthquake,#870007,usgs,zemětřesení lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.27175680016441467,1,1,cs,SPO,Oceania
+'ad41fee440',extremes,Earthquake,#870007,usgs,zemětřesení lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.2717568001644146,1,1,cs,SPO,Oceania
 'd46b5571fa',extremes,Tsunami,#690191,usgs,tsunami na Tchaj-wanu,2026-01-15T12:13:00+00:00,Taiwan,0.2717475379201979,1,1,cs,EAS,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
