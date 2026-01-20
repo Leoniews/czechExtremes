@@ -1,15 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.40864205212458155,3,1,cs,WCE,Europe
-'9de3c9007e',extremes,Earthquake,#870007,usgs,zemětřesení yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,2,cs,NWN,North-America
-'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,2,cs,NEAF,Africa
+'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-01-18T03:57:00+00:00,Czechia,0.4086420521245815,3,1,cs,WCE,Europe
+'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.38133017950369485,2,2,cs,EAS,Asia
 '90e6558608',extremes,Earthquake,#870007,usgs,zemětřesení jižní středoatlantický hřbet,2026-01-15T10:56:00+00:00,,0.3197141389002151,0,2,cs,SAO,Atlantic Ocean
-'ad41fee440',extremes,Earthquake,#870007,usgs,zemětřesení lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.3197138825463702,0,2,cs,SPO,Oceania
 '0b2fd57376',extremes,Earthquake,#870007,usgs,zemětřesení na Tchaj-wanu,2026-01-15T12:13:00+00:00,Taiwan,0.3197039178556724,0,2,cs,EAS,Asia
 '8abf2def70',extremes,Earthquake,#870007,usgs,zemětřesení sopečné ostrovy japonská oblast,2026-01-15T10:56:00+00:00,,0.319700423900342,0,2,cs,NPO,Pacific Ocean
 'da0b9741fb',extremes,Earthquake,#870007,usgs,zemětřesení rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.3196988252639028,0,2,cs,SCA,North-America
-'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.31748845443735474,3,1,cs,WCE,Europe
+'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.3174884544373547,3,1,cs,WCE,Europe
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,liják Tanzanie,2025-12-11T03:46:00+00:00,Tanzania,0.3065317723199374,0,2,cs,SEAF,Africa
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.29432743841129627,5,1,cs,WCE,Europe
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.2943274384112962,5,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-01-15T10:57:00+00:00,Czechia,0.2903008252423285,2,1,cs,WCE,Europe
 '6f7179aa00',extremes,Volcano,#b83202,eonet,sopka filipíny,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,cs,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,řeka zaplavující Austrálii,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,cs,EAU,Oceania
@@ -51,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c685705bbd',extremes,Earthquake,#870007,usgs,zemětřesení v Číně,2026-01-15T10:56:00+00:00,China,0.2718067156249892,1,1,cs,EAS,Asia
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,zemětřesení castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,cs,NZ,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,zemětřesení v oblasti jižních sendvičových ostrovů,2026-01-15T10:56:00+00:00,,0.2718016652419222,1,1,cs,SOO,Antarctica
-'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.2718001758866999,1,1,cs,EAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,zemětřesení Papua Nová Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,cs,SEA,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,zemětřesení chile,2026-01-15T10:56:00+00:00,Chile,0.2717925587436505,1,1,cs,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,zemětřesení diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.2717915023027328,1,1,cs,SWS,South-America
@@ -66,7 +63,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f6b56852d',extremes,Earthquake,#870007,usgs,zemětřesení baculin,2026-01-15T10:56:00+00:00,Philippines,0.2717712069553181,1,1,cs,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,zemětřesení Bolívie,2026-01-15T12:13:00+00:00,Bolivia,0.2717690503530537,1,1,cs,SES,South-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,povodeň boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,cs,EAU,Oceania
+'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.2717640475243465,1,1,cs,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-01-15T10:56:00+00:00,Argentina,0.2717588389408521,1,1,cs,SWS,South-America
+'ad41fee440',extremes,Earthquake,#870007,usgs,zemětřesení lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.27175680016441467,1,1,cs,SPO,Oceania
 'd46b5571fa',extremes,Tsunami,#690191,usgs,tsunami na Tchaj-wanu,2026-01-15T12:13:00+00:00,Taiwan,0.2717475379201979,1,1,cs,EAS,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
