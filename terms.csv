@@ -1,14 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.5734708939381095,8,2,cs,EAS,Asia
-'3ba62ce4f2',extremes,Earthquake,#870007,usgs,zemětřesení řecko,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,2,cs,MED,Europe
-'526ac614cf',extremes,Earthquake,#870007,usgs,zemětřesení sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,2,cs,CAR,North-America
-'909be204f9',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodně od ostrovů věrnosti,2026-01-15T10:56:00+00:00,,0.3196248459197977,0,2,cs,SPO,Pacific Ocean
-'7d68920b56',extremes,Earthquake,#870007,usgs,zemětřesení v Nikaragui,2026-01-15T10:56:00+00:00,Nicaragua,0.3196080006379447,0,2,cs,SCA,North-America
-'1f343ea703',extremes,Earthquake,#870007,usgs,zemětřesení doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.3195944349391952,0,2,cs,MED,Asia
+'17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.487450289847393,9,1,cs,EAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,zemětřesení morigaon,2026-01-15T10:56:00+00:00,India,0.3195753591829833,0,2,cs,SAS,Asia
 'cce4634973',extremes,Drought,#edc291,edo,suché období Keňa,2026-01-15T10:57:00+00:00,Kenya,0.3195427369737428,0,2,cs,SEAF,Africa
-'2725619969',extremes,Earthquake,#870007,usgs,zemětřesení hanawa,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,2,cs,EAS,Asia
-'74236bd182',extremes,Drought,#edc291,edo,nedostatek deště na Islandu,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,2,cs,GIC,Europe
 '40a849aef3',extremes,Earthquake,#870007,usgs,zemětřesení zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,2,cs,EAS,Asia
 'a6144d1f04',extremes,Earthquake,#870007,usgs,zemětřesení krysí ostrovy aleutské ostrovy Aljaška,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,2,cs,NPO,Pacific Ocean
 'f986f74559',extremes,Earthquake,#870007,usgs,zemětřesení yonakuni,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,2,cs,EAS,Asia
@@ -85,13 +78,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,zemětřesení kurilských ostrovů,2026-01-15T10:56:00+00:00,,0.2716937364745184,1,1,cs,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,sucho burundi,2026-01-15T10:57:00+00:00,Burundi,0.2716919451404975,1,1,cs,SEAF,Africa
 '485794e3d4',extremes,Earthquake,#870007,usgs,zemětřesení v Kanadě,2026-01-15T12:13:00+00:00,Canada,0.2716918559586505,1,1,cs,NWN,North-America
+'3ba62ce4f2',extremes,Earthquake,#870007,usgs,zemětřesení řecko,2026-01-15T10:56:00+00:00,Greece,0.27168916044629315,1,1,cs,MED,Europe
+'526ac614cf',extremes,Earthquake,#870007,usgs,zemětřesení sainte marie,2026-01-15T12:13:00+00:00,Martinique,0.27168725501800306,1,1,cs,CAR,North-America
+'909be204f9',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodně od ostrovů věrnosti,2026-01-15T10:56:00+00:00,,0.271681119031828,1,1,cs,SPO,Pacific Ocean
 '731557e0bc',extremes,Earthquake,#870007,usgs,zemětřesení Východní Timor,2026-01-15T10:56:00+00:00,Timor Leste,0.2716806369849336,1,1,cs,SEA,Asia
+'7d68920b56',extremes,Earthquake,#870007,usgs,zemětřesení v Nikaragui,2026-01-15T10:56:00+00:00,Nicaragua,0.271666800542253,1,1,cs,SCA,North-America
+'1f343ea703',extremes,Earthquake,#870007,usgs,zemětřesení doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.27165526969831594,1,1,cs,MED,Asia
 'c42e3feacc',extremes,Earthquake,#870007,usgs,zemětřesení severozápadně od Kurilských ostrovů,2026-01-15T10:56:00+00:00,,0.2716334907363343,1,1,cs,RFE,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,cs,WCA,Asia
 '22045a461a',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy izu Japonsko region,2026-01-15T10:56:00+00:00,,0.2716290924473013,1,1,cs,NPO,Pacific Ocean
 '08226562a9',extremes,Earthquake,#870007,usgs,zemětřesení fais,2026-01-15T10:56:00+00:00,Micronesia,0.2716085395687398,1,1,cs,NPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,zemětřesení akkeshi,2026-01-15T10:56:00+00:00,Japan,0.2716056354175713,1,1,cs,EAS,Asia
+'2725619969',extremes,Earthquake,#870007,usgs,zemětřesení hanawa,2026-01-15T12:13:00+00:00,Japan,0.2716052660652198,1,1,cs,EAS,Asia
 '982d97b8ec',extremes,Earthquake,#870007,usgs,zemětřesení susanville,2026-01-15T12:13:00+00:00,United States,0.2715730770590041,1,1,cs,WNA,North-America
 '0816dd344b',extremes,Earthquake,#870007,usgs,zemětřesení lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2715689707938774,1,1,cs,SEA,Asia
 '0e39632695',extremes,Drought,#edc291,edo,nedostatek deště Írán,2026-01-15T10:57:00+00:00,Iran,0.2715527142396545,1,1,cs,WCA,Asia
@@ -129,12 +128,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c605f8759a',extremes,Earthquake,#870007,usgs,zemětřesení guam,2026-01-15T10:56:00+00:00,Guam,0.2310574878715479,2,1,cs,NPO,Pacific Ocean
 '70773b5956',extremes,Earthquake,#870007,usgs,zemětřesení na Aljašce,2026-01-15T10:56:00+00:00,Alaska,0.2310567373305245,2,1,cs,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,zemětřesení v Íránu,2026-01-15T10:56:00+00:00,Iran,0.2310512282899902,2,1,cs,WCA,Asia
-'db5f39549c',extremes,Earthquake,#870007,usgs,zemětřesení v Indonésii,2026-01-15T10:56:00+00:00,Indonesia,0.23104666427394052,2,1,cs,SEA,Asia
+'db5f39549c',extremes,Earthquake,#870007,usgs,zemětřesení v Indonésii,2026-01-15T10:56:00+00:00,Indonesia,0.2310466642739405,2,1,cs,SEA,Asia
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,zemětřesení barma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2310449583093914,2,1,cs,SAS,Asia
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,zemětřesení Prince Edward Islands region,2026-01-15T10:56:00+00:00,,0.2310373784589867,2,1,cs,SOO,Antarctica
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,zemětřesení Papua Nová Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2310299970276849,2,1,cs,SEA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,zemětřesení mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.2310175934006946,2,1,cs,NEAF,Africa
-'eabe6169ab',extremes,Earthquake,#870007,usgs,zemětřesení tonga,2026-01-15T10:56:00+00:00,Tonga,0.23089536763071933,2,1,cs,SPO,Pacific Ocean
+'eabe6169ab',extremes,Earthquake,#870007,usgs,zemětřesení tonga,2026-01-15T10:56:00+00:00,Tonga,0.2308953676307193,2,1,cs,SPO,Pacific Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,zemětřesení colchane,2026-01-15T12:13:00+00:00,Chile,0.1964337937468667,3,1,cs,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,zemětřesení san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.19643020812667,3,1,cs,SES,South-America
 '73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.1964102739839464,3,1,cs,WCA,Asia
