@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,snow czechia,2026-01-26T04:09:00+00:00,Czechia,0.7375004460440391,0,2,cs,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2026-01-26T04:09:00+00:00,Czechia,0.7349003088811753,0,2,cs,WCE,Europe
+'9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2026-01-26T04:09:00+00:00,Czechia,0.73259693691461,0,2,cs,WCE,Europe
+'5bae82bb24',extremes,Snow&Ice,#d60d2b,wmo,mrazivý jihočeský kraj,2026-01-26T04:09:00+00:00,Czechia,0.6937713176796055,0,2,cs,WCE,Europe
 '17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.370335179503695,2,2,cs,EAS,Asia
 '4c395ac77e',extremes,Drought,#edc291,edo,sucho burkina faso,2026-01-15T10:57:00+00:00,Burkina Faso,0.3193771727241339,0,2,cs,WAF,Africa
 '1918ad6f9e',extremes,Drought,#edc291,edo,sucho tuvalu,2026-01-15T10:57:00+00:00,Tuvalu,0.3193771212827962,0,2,cs,EPO,Pacific Ocean
@@ -9,6 +13,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,zemětřesná kalama,2026-01-15T10:56:00+00:00,Chile,0.3193642581749714,0,2,cs,SWS,South-America
 '617402fc79',extremes,Drought,#edc291,edo,suchá eritrea,2026-01-15T10:57:00+00:00,Eritrea,0.3193608056086076,0,2,cs,SAH,Africa
 '22cdaf7557',extremes,Drought,#edc291,edo,sucho malawi,2026-01-15T10:57:00+00:00,Malawi,0.3193558219375216,0,2,cs,ESAF,Africa
+'c7be7a383d',extremes,Earthquake,#870007,usgs,zemětřesení sarangani,2026-01-15T10:56:00+00:00,Philippines,0.319346089176954,0,2,cs,SEA,Asia
+'02f4a27a12',extremes,Earthquake,#870007,usgs,zemětřesení mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.3193398428974148,0,2,cs,SEA,Oceania
+'cdbf3f27ef',extremes,Drought,#edc291,edo,suché období haiti,2026-01-15T10:57:00+00:00,Haiti,0.3193394836946488,0,2,cs,CAR,North-America
+'685995fcc4',extremes,Earthquake,#870007,usgs,zemětřesení západně od ostrova Macquarie,2026-01-15T10:56:00+00:00,,0.31933596240614476,0,2,cs,SOO,Antarctica
+'2072c25fd3',extremes,Drought,#edc291,edo,suché kouzlo guyana,2026-01-15T10:57:00+00:00,Guyana,0.31933181604829536,0,2,cs,NSA,South-America
+'925cc6c6e9',extremes,Drought,#edc291,edo,suché období Kostariky,2026-01-15T10:57:00+00:00,Costa Rica,0.3193315261263682,0,2,cs,SCA,South-America
 '072f41af80',extremes,Earthquake,#870007,usgs,zemětřesení aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,cs,NWS,South-America
 'e551102071',extremes,Earthquake,#870007,usgs,zemětřesení vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.2718364448910137,1,1,cs,SPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,zemětřesení centrální středoatlantický hřbet,2026-01-15T10:56:00+00:00,,0.2718320989482345,1,1,cs,EAO,Atlantic Ocean
@@ -157,7 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6628268bda',extremes,Earthquake,#870007,usgs,zemětřesení korla,2026-01-15T10:56:00+00:00,China,0.2310185235177888,2,1,cs,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,zemětřesení mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.2310175934006946,2,1,cs,NEAF,Africa
 '8bf8909453',extremes,Earthquake,#870007,usgs,zemětřesení levuka,2026-01-15T10:56:00+00:00,Fiji,0.2310114853417556,2,1,cs,SPO,Pacific Ocean
-'2fa9116266',extremes,Earthquake,#870007,usgs,zemětřesení port alsworth,2026-01-15T12:13:00+00:00,United States,0.23100786812631027,2,1,cs,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,zemětřesení port alsworth,2026-01-15T12:13:00+00:00,United States,0.2310078681263102,2,1,cs,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodní indický hřeben,2026-01-15T10:56:00+00:00,,0.2310071253959554,2,1,cs,SOO,Antarctica
 'daed8f4597',extremes,Earthquake,#870007,usgs,zemětřesení v Somálsku,2026-01-15T12:13:00+00:00,Somalia,0.2309994403956945,2,1,cs,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-01-15T10:56:00+00:00,Argentina,0.2309950130997242,2,1,cs,SWS,South-America
