@@ -1,30 +1,30 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a4faedae65',extremes,Snow&Ice,#d60d2b,wmo,ice kraj vysočina,2026-01-27T03:58:00+00:00,Czechia,0.4867160291792164,3,1,cs,WCE,Europe
-'210b57b04c',extremes,Snow&Ice,#d60d2b,wmo,mrazivý liberecký kraj,2026-01-27T03:58:00+00:00,Czechia,0.4845450501748473,2,1,cs,WCE,Europe
-'b5c3909a9a',extremes,Snow&Ice,#d60d2b,wmo,snow jihočeský kraj,2026-01-27T03:58:00+00:00,Czechia,0.4813179541760922,3,1,cs,WCE,Europe
-'f213e0955f',extremes,Snow&Ice,#d60d2b,wmo,mráz olomoucký kraj,2026-01-27T03:58:00+00:00,Czechia,0.4745970130692737,2,1,cs,WCE,Europe
-'a6eb9d8c3b',extremes,Snow&Ice,#d60d2b,wmo,mráz jihomoravský kraj,2026-01-27T03:58:00+00:00,Czechia,0.4634893718210308,3,1,cs,WCE,Europe
-'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2026-01-26T04:09:00+00:00,Czechia,0.45291746142679545,3,1,cs,WCE,Europe
+'a4faedae65',extremes,Snow&Ice,#d60d2b,wmo,ice kraj vysočina,2026-01-27T03:58:00+00:00,Czechia,0.4867160291792164,4,1,cs,WCE,Europe
+'210b57b04c',extremes,Snow&Ice,#d60d2b,wmo,mrazivý liberecký kraj,2026-01-27T03:58:00+00:00,Czechia,0.4845450501748473,3,1,cs,WCE,Europe
+'b5c3909a9a',extremes,Snow&Ice,#d60d2b,wmo,snow jihočeský kraj,2026-01-27T03:58:00+00:00,Czechia,0.4813179541760922,4,1,cs,WCE,Europe
+'f213e0955f',extremes,Snow&Ice,#d60d2b,wmo,mráz olomoucký kraj,2026-01-27T03:58:00+00:00,Czechia,0.4745970130692737,3,1,cs,WCE,Europe
+'a6eb9d8c3b',extremes,Snow&Ice,#d60d2b,wmo,mráz jihomoravský kraj,2026-01-27T03:58:00+00:00,Czechia,0.4634893718210308,4,1,cs,WCE,Europe
+'1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2026-01-26T04:09:00+00:00,Czechia,0.4529174614267954,4,1,cs,WCE,Europe
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2026-01-27T03:58:00+00:00,Czechia,0.4460444118726064,3,1,cs,WCE,Europe
-'5bae82bb24',extremes,Snow&Ice,#d60d2b,wmo,mrazivý jihočeský kraj,2026-01-26T04:09:00+00:00,Czechia,0.42606231046998766,4,1,cs,WCE,Europe
+'5bae82bb24',extremes,Snow&Ice,#d60d2b,wmo,mrazivý jihočeský kraj,2026-01-26T04:09:00+00:00,Czechia,0.4260623104699876,5,1,cs,WCE,Europe
 '287f1cdcf3',extremes,Snow&Ice,#d60d2b,wmo,snow ústecký kraj,2026-01-27T03:58:00+00:00,Czechia,0.4169261104343589,4,1,cs,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2026-01-26T04:09:00+00:00,Czechia,0.3836225543629039,4,1,cs,WCE,Europe
 '17c827a010',extremes,Earthquake,#870007,usgs,zemětřesení Japonsko,2026-01-15T10:56:00+00:00,Japan,0.370335179503695,2,2,cs,EAS,Asia
 '9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2026-01-26T04:09:00+00:00,Czechia,0.3250571528302398,5,1,cs,WCE,Europe
-'a6144d1f04',extremes,Earthquake,#870007,usgs,zemětřesení krysí ostrovy aleutské ostrovy Aljaška,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,2,cs,NPO,Pacific Ocean
-'e9560fc8a0',extremes,Drought,#edc291,edo,sucho niue,2026-01-15T10:57:00+00:00,Niue,0.3192742070001885,0,2,cs,SPO,Oceania
+'a6144d1f04',extremes,Earthquake,#870007,usgs,zemětřesení krysí ostrovy aleutské ostrovy Aljaška,2026-01-15T10:56:00+00:00,,0.3194963093664921,1,1,cs,NPO,Pacific Ocean
+'e9560fc8a0',extremes,Drought,#edc291,edo,sucho niue,2026-01-15T10:57:00+00:00,Niue,0.3192742070001885,1,1,cs,SPO,Oceania
 'b17a7abcd9',extremes,Drought,#edc291,edo,sucho grenada,2026-01-15T10:57:00+00:00,Grenada,0.3192614350452899,0,2,cs,CAR,North-America
 '6b46d821ab',extremes,Drought,#edc291,edo,sucho svatý Barthelemy,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.3192558238951208,0,2,cs,CAR,North-America
-'3ab16eefc6',extremes,Earthquake,#870007,usgs,zemětřesení shiojiri,2026-01-15T12:13:00+00:00,Japan,0.3192396439535396,0,2,cs,EAS,Asia
+'3ab16eefc6',extremes,Earthquake,#870007,usgs,zemětřesení shiojiri,2026-01-15T12:13:00+00:00,Japan,0.31923964395353954,1,1,cs,EAS,Asia
 'd3bdc49581',extremes,Drought,#edc291,edo,nedostatek deště Grónsko,2026-01-15T10:57:00+00:00,Greenland,0.3192263277926996,0,2,cs,GIC,North-America
 '8ed666f950',extremes,Earthquake,#870007,usgs,zemětřesení végueta,2026-01-15T10:56:00+00:00,Peru,0.3192086216999426,0,2,cs,NWS,South-America
 'a1afcda67a',extremes,Earthquake,#870007,usgs,zemětřesení campo verde,2026-01-15T12:13:00+00:00,Peru,0.3192069888218432,0,2,cs,NWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,zemětřesení Tádžikistán,2026-01-15T10:56:00+00:00,Tajikistan,0.2718240888930743,2,1,cs,WCA,Asia
-'53e17b7a15',extremes,Earthquake,#870007,usgs,zemětřesení houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,cs,SPO,Pacific Ocean
+'53e17b7a15',extremes,Earthquake,#870007,usgs,zemětřesení houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,2,1,cs,SPO,Pacific Ocean
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,zemětřesení kurilských ostrovů,2026-01-15T10:56:00+00:00,,0.2716937364745184,1,1,cs,RFE,Asia
 '731557e0bc',extremes,Earthquake,#870007,usgs,zemětřesení Východní Timor,2026-01-15T10:56:00+00:00,Timor Leste,0.2716806369849336,1,1,cs,SEA,Asia
 'c42e3feacc',extremes,Earthquake,#870007,usgs,zemětřesení severozápadně od Kurilských ostrovů,2026-01-15T10:56:00+00:00,,0.2716334907363343,2,1,cs,RFE,Asia
-'cce4634973',extremes,Drought,#edc291,edo,suché období Keňa,2026-01-15T10:57:00+00:00,Kenya,0.2716113264276814,1,1,cs,SEAF,Africa
+'cce4634973',extremes,Drought,#edc291,edo,suché období Keňa,2026-01-15T10:57:00+00:00,Kenya,0.2716113264276814,2,1,cs,SEAF,Africa
 '2725619969',extremes,Earthquake,#870007,usgs,zemětřesení hanawa,2026-01-15T12:13:00+00:00,Japan,0.2716052660652198,2,1,cs,EAS,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,zemětřesení yonakuni,2026-01-15T10:56:00+00:00,Japan,0.2715646409960104,2,1,cs,EAS,Asia
 '958e326b08',extremes,Earthquake,#870007,usgs,zemětřesení Boninské ostrovy japonská oblast,2026-01-15T10:56:00+00:00,,0.2715410952954409,1,1,cs,NPO,Pacific Ocean
@@ -58,9 +58,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fada59714f',extremes,Drought,#edc291,edo,nedostatek deště zambie,2026-01-15T10:57:00+00:00,Zambia,0.2714606854769112,1,1,cs,ESAF,Africa
 '8daec4f52d',extremes,Earthquake,#870007,usgs,zemětřesení jihovýchodně od Velikonočního ostrova,2026-01-15T10:56:00+00:00,,0.2714604295863527,1,1,cs,SPO,Pacific Ocean
 '617402fc79',extremes,Drought,#edc291,edo,suchá eritrea,2026-01-15T10:57:00+00:00,Eritrea,0.2714566847673164,1,1,cs,SAH,Africa
-'22cdaf7557',extremes,Drought,#edc291,edo,sucho malawi,2026-01-15T10:57:00+00:00,Malawi,0.2714524486468933,1,1,cs,ESAF,Africa
+'22cdaf7557',extremes,Drought,#edc291,edo,sucho malawi,2026-01-15T10:57:00+00:00,Malawi,0.2714524486468933,2,1,cs,ESAF,Africa
 '02f4a27a12',extremes,Earthquake,#870007,usgs,zemětřesení mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2714388664628026,1,1,cs,SEA,Oceania
-'cdbf3f27ef',extremes,Drought,#edc291,edo,suché období haiti,2026-01-15T10:57:00+00:00,Haiti,0.2714385611404515,1,1,cs,CAR,North-America
+'cdbf3f27ef',extremes,Drought,#edc291,edo,suché období haiti,2026-01-15T10:57:00+00:00,Haiti,0.2714385611404515,2,1,cs,CAR,North-America
 '685995fcc4',extremes,Earthquake,#870007,usgs,zemětřesení západně od ostrova Macquarie,2026-01-15T10:56:00+00:00,,0.271435568045223,1,1,cs,SOO,Antarctica
 '2072c25fd3',extremes,Drought,#edc291,edo,suché kouzlo guyana,2026-01-15T10:57:00+00:00,Guyana,0.271432043641051,1,1,cs,NSA,South-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,suché období Kostariky,2026-01-15T10:57:00+00:00,Costa Rica,0.271431797207413,1,1,cs,SCA,South-America
@@ -77,7 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c08305ef9e',extremes,Drought,#edc291,edo,sucho martinique,2026-01-15T10:57:00+00:00,Martinique,0.2713976768100819,1,1,cs,CAR,North-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,zemětřesení san marcos,2026-01-15T10:56:00+00:00,Mexico,0.2713880958626502,1,1,cs,SCA,North-America
 '8d4d1faca9',extremes,Drought,#edc291,edo,nedostatek deště dominica,2026-01-15T10:57:00+00:00,Dominica,0.2713839030534642,1,1,cs,CAR,North-America
-'3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-01-15T10:57:00+00:00,Australia,0.27131668062698394,1,1,cs,EAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-01-15T10:57:00+00:00,Australia,0.2713166806269839,1,1,cs,EAU,Oceania
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-01-19T04:03:00+00:00,Czechia,0.2698651862717515,4,1,cs,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-01-17T03:44:00+00:00,Czechia,0.2647968040839843,4,1,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-01-24T03:49:00+00:00,Czechia,0.2587354161233124,3,1,cs,WCE,Europe
@@ -121,7 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85a135fac3',extremes,Earthquake,#870007,usgs,zemětřesení ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.2310465589370461,2,1,cs,RFE,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,zemětřesení kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2310450639604185,2,1,cs,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,zemětřesení barma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2310449583093914,2,1,cs,SAS,Asia
-'066ed457ed',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy Severní Mariany,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2310426680769775,2,1,cs,NPO,Pacific Ocean
+'066ed457ed',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy Severní Mariany,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2310426680769775,3,1,cs,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,zemětřesení Prince Edward Islands region,2026-01-15T10:56:00+00:00,,0.2310373784589867,2,1,cs,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,zemětřesení viljuchinsk,2026-01-15T10:56:00+00:00,Russia,0.231036363343908,2,1,cs,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,zemětřesení Kostariky,2026-01-15T12:13:00+00:00,Costa Rica,0.2310360320616764,2,1,cs,SCA,South-America
@@ -172,7 +172,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d68920b56',extremes,Earthquake,#870007,usgs,zemětřesení v Nikaragui,2026-01-15T10:56:00+00:00,Nicaragua,0.230916780460915,2,1,cs,SCA,North-America
 '1f343ea703',extremes,Earthquake,#870007,usgs,zemětřesení doğanyol,2026-01-15T12:13:00+00:00,Turkey,0.2309069792435684,2,1,cs,MED,Asia
 'eabe6169ab',extremes,Earthquake,#870007,usgs,zemětřesení tonga,2026-01-15T10:56:00+00:00,Tonga,0.2308953676307193,2,1,cs,SPO,Pacific Ocean
-'f199635353',extremes,Earthquake,#870007,usgs,zemětřesení morigaon,2026-01-15T10:56:00+00:00,India,0.2308931970097054,2,1,cs,SAS,Asia
+'f199635353',extremes,Earthquake,#870007,usgs,zemětřesení morigaon,2026-01-15T10:56:00+00:00,India,0.2308931970097054,3,1,cs,SAS,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-01-15T10:57:00+00:00,Somalia,0.2308861455986,2,1,cs,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,suché období Tádžikistán,2026-01-15T10:57:00+00:00,Tajikistan,0.2308850237033942,2,1,cs,WCA,Asia
 '22045a461a',extremes,Earthquake,#870007,usgs,zemětřesení ostrovy izu Japonsko region,2026-01-15T10:56:00+00:00,,0.2308847285802061,2,1,cs,NPO,Pacific Ocean
@@ -185,7 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e39632695',extremes,Drought,#edc291,edo,nedostatek deště Írán,2026-01-15T10:57:00+00:00,Iran,0.2308198071037063,2,1,cs,WCA,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,nedostatek deště kuvajt,2026-01-15T10:57:00+00:00,Kuwait,0.2308192611156805,2,1,cs,ARP,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,zemětřesení tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2308166685931882,2,1,cs,SEA,Asia
-'c29a12e099',extremes,Earthquake,#870007,usgs,zemětřesení san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.23081042609994962,2,1,cs,NWS,South-America
+'c29a12e099',extremes,Earthquake,#870007,usgs,zemětřesení san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.2308104260999496,2,1,cs,NWS,South-America
 '0ca87424f0',extremes,Drought,#edc291,edo,sucho maroko,2026-01-15T10:57:00+00:00,Morocco,0.2308057172308661,2,1,cs,MED,Africa
 '34799f2163',extremes,Drought,#edc291,edo,suchá republika Konga,2026-01-15T10:57:00+00:00,Republic of the Congo,0.2308037723077384,2,1,cs,CAF,Africa
 '06532967b8',extremes,Drought,#edc291,edo,nedostatek deště Brazílie,2026-01-15T10:57:00+00:00,Brazil,0.2308004627133839,2,1,cs,SAM,South-America
@@ -193,7 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16348a6786',extremes,Drought,#edc291,edo,sucho Tunisko,2026-01-15T10:57:00+00:00,Tunisia,0.2307942356227156,2,1,cs,MED,Africa
 'a627698ed3',extremes,Earthquake,#870007,usgs,zemětřesení santiago,2026-01-15T10:56:00+00:00,Philippines,0.2307909301368217,2,1,cs,SEA,Asia
 'f1493fbbc1',extremes,Drought,#edc291,edo,nedostatek deště bouvet island,2026-01-15T10:57:00+00:00,Bouvet Island,0.2307765598080459,2,1,cs,SOO,Antarctica
-'49e564d95b',extremes,Drought,#edc291,edo,sucho ostrovy svalbard a jan mayen,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.23077514521841727,2,1,cs,ARO,Arctica
+'49e564d95b',extremes,Drought,#edc291,edo,sucho ostrovy svalbard a jan mayen,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.2307751452184172,2,1,cs,ARO,Arctica
 '63aea37e6c',extremes,Earthquake,#870007,usgs,zemětřesení mutsu,2026-01-15T10:56:00+00:00,Japan,0.230766085199169,2,1,cs,EAS,Asia
 'c7be7a383d',extremes,Earthquake,#870007,usgs,zemětřesení sarangani,2026-01-15T10:56:00+00:00,Philippines,0.2307275494303492,2,1,cs,SEA,Asia
 '07babddb74',extremes,Drought,#edc291,edo,sucho sint maarten,2026-01-15T10:57:00+00:00,Sint Maarten,0.2306760635681345,2,1,cs,CAR,North-America
@@ -206,7 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73d01d320c',extremes,Earthquake,#870007,usgs,zemětřesení v Afghánistánu,2026-01-15T12:13:00+00:00,Afghanistan,0.1964102739839464,3,1,cs,WCA,Asia
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,zemětřesení kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.1964037987690065,3,1,cs,EAS,Asia
 '70773b5956',extremes,Earthquake,#870007,usgs,zemětřesení na Aljašce,2026-01-15T10:56:00+00:00,Alaska,0.1963982267309458,3,1,cs,NWN,North-America
-'29aa7b93c5',extremes,Earthquake,#870007,usgs,zemětřesení jižně od ostrovů Fidži,2026-01-15T10:56:00+00:00,,0.19636413433338715,3,1,cs,SPO,Pacific Ocean
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,zemětřesení jižně od ostrovů Fidži,2026-01-15T10:56:00+00:00,,0.1963641343333871,3,1,cs,SPO,Pacific Ocean
 '505a53d28b',extremes,Earthquake,#870007,usgs,zemětřesení přístav vila,2026-01-15T10:56:00+00:00,Vanuatu,0.1963329868505958,4,1,cs,SPO,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,zemětřesná kalama,2026-01-15T10:56:00+00:00,Chile,0.1961295750517042,3,1,cs,SWS,South-America
 '6f7179aa00',extremes,Volcano,#b83202,eonet,sopka filipíny,2026-01-15T10:56:00+00:00,Philippines,0.1670302460434891,4,1,cs,SEA,Asia
