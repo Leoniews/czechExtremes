@@ -9,6 +9,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5df0d65452',extremes,Storm,#b3b2b1,wmo,bouře nenets autonomní okrsek,2026-01-15T10:56:00+00:00,Russia,0.3119972004544595,0,2,cs,ESB,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,bouře norsko,2026-01-15T10:56:00+00:00,Norway,0.3119971916494243,0,2,cs,NEU,Europe
 '9bd72fda02',extremes,Storm,#b3b2b1,wmo,bouřková republika Dagestánu,2026-01-15T10:56:00+00:00,Russia,0.3119969493346846,0,2,cs,ESB,Europe
+'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst costa pobřežní orientální asturiano,2026-01-15T10:56:00+00:00,Spain,0.3119966103707573,0,2,cs,MED,Europe
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,bouře مملكة البحرين والمناطق المحيطة بها,2026-01-15T10:56:00+00:00,Bahrain,0.31199654151975403,0,2,cs,ARP,Asia
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,bouře katar,2026-01-15T10:56:00+00:00,Qatar,0.3119964896279206,0,2,cs,ARP,Asia
+'696dbd33eb',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí chukotka autonomní okr,2026-01-15T10:56:00+00:00,Russia,0.3119963515511468,0,2,cs,ESB,Europe
+'4849f40074',extremes,Storm,#b3b2b1,wmo,bouře linyou kraj,2026-01-15T10:56:00+00:00,China,0.31199631465555816,0,2,cs,EAS,Asia
+'144c06bc4c',extremes,Storm,#b3b2b1,wmo,bouře froeya banka,2026-01-15T10:56:00+00:00,Norway,0.31199627818438036,0,2,cs,NEU,Europe
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,bouře Kanada,2026-01-15T10:56:00+00:00,Canada,0.31199621089852236,0,2,cs,NEN,North-America
+'91cb77b937',extremes,Storm,#b3b2b1,wmo,bouře huguan county,2026-01-15T10:56:00+00:00,China,0.31199584327917007,0,2,cs,EAS,Asia
+'ee82dd8cd9',extremes,Storm,#b3b2b1,wmo,bouře přepětí habahe kraj,2026-01-15T10:56:00+00:00,China,0.3119958171754676,0,2,cs,EAS,Asia
+'c42aeb42e1',extremes,Storm,#b3b2b1,wmo,bouře luqu county,2026-01-15T10:56:00+00:00,China,0.31199535186933636,0,2,cs,EAS,Asia
 '287f1cdcf3',extremes,Snow&Ice,#d60d2b,wmo,snow ústecký kraj,2026-01-27T03:58:00+00:00,Czechia,0.3012291147888242,7,1,cs,WCE,Europe
 '210b57b04c',extremes,Snow&Ice,#d60d2b,wmo,mrazivý liberecký kraj,2026-01-27T03:58:00+00:00,Czechia,0.297571228938628,6,1,cs,WCE,Europe
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2026-01-27T03:58:00+00:00,Czechia,0.2739270244412644,6,1,cs,WCE,Europe
@@ -43,16 +53,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón ewetse,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,cs,MDG,Africa
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,povodňové srážky a záplavy queensland únor březen 2022,2026-01-15T10:57:00+00:00,Australia,0.2655045836091719,1,1,cs,EAU,Oceania
 'f5b7e0886f',extremes,Precipitation,#d60d2b,wmo,liják santarém,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
+'4ab07339f4',extremes,Precipitation,#d60d2b,wmo,srážky kalimantan timur,2026-01-15T10:56:00+00:00,Indonesia,0.2652064152251043,1,1,cs,SEA,Asia
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,srážky Indonésie,2026-01-15T10:56:00+00:00,Indonesia,0.2652064152251043,1,1,cs,SEA,Asia
+'64cbc1eb6b',extremes,Precipitation,#d60d2b,wmo,srážení papua selatan,2026-01-15T10:56:00+00:00,Indonesia,0.2652064152251043,1,1,cs,SEA,Asia
+'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,déšť dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.2652064152251043,1,1,cs,MED,Europe
+'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,srážkové porto,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
+'8efdebc0e4',extremes,Precipitation,#d60d2b,wmo,déšť lisboa,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
+'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,liják rusko,2026-01-15T10:56:00+00:00,Russia,0.2652064152251043,1,1,cs,ESB,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,přívalové deště španělsko,2026-01-15T10:56:00+00:00,Spain,0.2652064152251043,2,1,cs,MED,Europe
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,drsné počasí Austrálie,2026-01-15T10:56:00+00:00,Australia,0.2652064152251043,2,1,cs,CAU,Oceania
-'4ab07339f4',extremes,Precipitation,#d60d2b,wmo,srážky kalimantan timur,2026-01-15T10:56:00+00:00,Indonesia,0.2652064152251043,1,1,cs,SEA,Asia
 'a7b2b0d667',extremes,Precipitation,#d60d2b,wmo,přívalový déšť braga,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
-'a14f66dc67',extremes,Precipitation,#d60d2b,wmo,srážkové porto,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
-'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,liják rusko,2026-01-15T10:56:00+00:00,Russia,0.2652064152251043,1,1,cs,ESB,Europe
-'8efdebc0e4',extremes,Precipitation,#d60d2b,wmo,déšť lisboa,2026-01-15T10:56:00+00:00,Portugal,0.2652064152251043,1,1,cs,MED,Europe
-'bec5ab9e20',extremes,Precipitation,#d60d2b,wmo,déšť dobrich varna silistra,2026-01-15T10:56:00+00:00,Bulgaria,0.2652064152251043,1,1,cs,MED,Europe
-'64cbc1eb6b',extremes,Precipitation,#d60d2b,wmo,srážení papua selatan,2026-01-15T10:56:00+00:00,Indonesia,0.2652064152251043,1,1,cs,SEA,Asia
 'c589684ff6',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí portugalsko,2026-01-15T10:56:00+00:00,Portugal,0.2651980009512621,1,1,cs,MED,Europe
 'e9e61e7cb8',extremes,Storm,#b3b2b1,wmo,bouře aveiro,2026-01-15T10:56:00+00:00,Portugal,0.2651979866693432,1,1,cs,MED,Europe
 '568378a997',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst okres huinong,2026-01-15T10:56:00+00:00,China,0.2651978327087132,1,1,cs,EAS,Asia
