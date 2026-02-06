@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.5329191158745197,2,1,cs,WCE,Europe
 'cf2bc28245',extremes,Snow&Ice,#d60d2b,wmo,led nitra,2026-01-15T10:56:00+00:00,Slovakia,0.503192457193156,2,2,cs,WCE,Europe
-'57c3ca9f77',extremes,Earthquake,#870007,usgs,zemětřesení v Antarktidě,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,2,cs,EAN,
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.4534312934933417,3,1,cs,WCE,Europe
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,zemětřesení hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,2,cs,SPO,Pacific Ocean
 '40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.3150398318435446,0,2,cs,NPO,Pacific Ocean
 '4fa26f3509',extremes,Snow&Ice,#d60d2b,wmo,sněhová oblast jiaocheng,2026-01-15T10:56:00+00:00,China,0.3119928674396529,0,2,cs,EAS,Asia
@@ -32,7 +31,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón 17s,2026-01-24T03:48:00+00:00,,0.2679484859511865,1,1,cs,NAU,Oceania
 '255621cc4c',extremes,Earthquake,#870007,usgs,zemětřesení panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.2679457138356712,1,1,cs,EPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,zemětřesení akureyri,2026-01-25T04:05:00+00:00,Iceland,0.2678761207801062,1,1,cs,GIC,Europe
-'924236ebf8',extremes,Earthquake,#870007,usgs,zemětřesení yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.26786323649512755,1,1,cs,SAS,Asia
+'924236ebf8',extremes,Earthquake,#870007,usgs,zemětřesení yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2678632364951275,1,1,cs,SAS,Asia
+'57c3ca9f77',extremes,Earthquake,#870007,usgs,zemětřesení v Antarktidě,2026-02-04T04:21:00+00:00,,0.26783177194472174,1,1,cs,EAN,
 '351e201a6d',extremes,Earthquake,#870007,usgs,zemětřesení ‘ohonua,2026-01-19T04:02:00+00:00,Tonga,0.2677894536312979,1,1,cs,SPO,Pacific Ocean
 'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón ewetse,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,cs,MDG,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,teplé kouzlo nový jižní Wales,2026-02-02T04:37:00+00:00,Australia,0.2655294680960365,1,1,cs,EAU,Oceania
