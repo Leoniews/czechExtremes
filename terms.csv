@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.4534312934933417,3,1,cs,WCE,Europe
 'cf2bc28245',extremes,Snow&Ice,#d60d2b,wmo,led nitra,2026-01-15T10:56:00+00:00,Slovakia,0.4278636036141826,3,2,cs,WCE,Europe
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-01-18T03:57:00+00:00,Czechia,0.38586664446934044,4,1,cs,WCE,Europe
 '5c7fcfcede',extremes,Earthquake,#870007,usgs,zemětřesení hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,2,cs,SPO,Pacific Ocean
 '40726d14cc',extremes,Tsunami,#690191,usgs,tsunami adak,2026-01-30T04:21:00+00:00,Alaska,0.3150398318435446,0,2,cs,NPO,Pacific Ocean
 '22ea11191f',extremes,Earthquake,#870007,usgs,zemětřesení batagay,2026-01-31T04:16:00+00:00,Russia,0.3148579802727754,0,2,cs,RAR,Europe
