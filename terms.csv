@@ -38,9 +38,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd21e7e3d87',extremes,Fog,#d60d2b,wmo,mlha bahrajn,2026-02-09T04:39:00+00:00,Bahrain,0.3045112043934996,0,2,cs,ARP,Asia
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,bouře v Alžírsku,2026-02-11T04:41:00+00:00,Algeria,0.3045074305673341,0,2,cs,SAH,Africa
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,lavinová vesta telemark,2026-02-08T04:43:00+00:00,Norway,0.3045031448169841,0,2,cs,NEU,Europe
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,přepětí bouře Kanada,2026-02-12T04:37:00+00:00,Canada,0.3044957595463902,0,2,cs,NEN,North-America
+'c3de494b12',extremes,Wildfire,#d60d2b,wmo,wildfire yongsheng county,2026-02-05T04:27:00+00:00,China,0.304492292479601,0,2,cs,EAS,Asia
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,déšť Tanzanie,2026-02-23T04:37:00+00:00,Tanzania,0.30449034604276926,0,2,cs,SEAF,Africa
+'6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,lavinová republika Ingušska,2026-02-06T04:27:00+00:00,Russia,0.30448510218271585,0,2,cs,ESB,Europe
+'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,sníh na jihovýchodním Islandu,2026-02-23T04:37:00+00:00,Iceland,0.30447716272833175,0,2,cs,GIC,Europe
+'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,sníh severní poloostrov východ,2026-02-12T04:37:00+00:00,Canada,0.3044742581541223,0,2,cs,NEN,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,wildfire spojené státy,2026-02-06T04:27:00+00:00,United States,0.30446045977390185,0,2,cs,ENA,North-America
+'286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,lavina isère savoie haute savoie,2026-02-17T04:31:00+00:00,France,0.3044599296524248,0,2,cs,WCE,Europe
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,divoký požár madhjapradéš,2026-02-12T04:37:00+00:00,India,0.3044598554761285,0,2,cs,SAS,Asia
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,bouře vanuatu,2026-02-18T04:34:00+00:00,Vanuatu,0.3044508270846068,0,2,cs,SPO,Oceania
 '302e5ee660',extremes,Flood,#030ba1,wmo,flashflood czechia,2026-02-22T04:30:00+00:00,Czechia,0.2993342833002094,4,1,cs,WCE,Europe
 'd862ab1a40',extremes,Flood,#030ba1,wmo,povodeň čech,2026-02-22T04:30:00+00:00,Czechia,0.2990343516427937,4,1,cs,WCE,Europe
-'3f515cf497',extremes,Flood,#030ba1,wmo,záplava česka,2026-02-22T04:30:00+00:00,Czechia,0.29776201653534434,4,1,cs,WCE,Europe
+'3f515cf497',extremes,Flood,#030ba1,wmo,záplava česka,2026-02-22T04:30:00+00:00,Czechia,0.2977620165353443,4,1,cs,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-02-06T04:28:00+00:00,Czechia,0.2950195276574405,7,1,cs,WCE,Europe
 '5ea801d5f7',extremes,Snow&Ice,#d60d2b,wmo,mrznoucí čeština,2026-02-17T04:31:00+00:00,Czechia,0.2810064007431603,7,1,cs,WCE,Europe
 '9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2026-02-15T04:35:00+00:00,Czechia,0.2769684400219162,7,1,cs,WCE,Europe
