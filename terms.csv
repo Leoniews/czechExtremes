@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2026-02-15T04:35:00+00:00,Czechia,0.7393727928394519,0,2,cs,WCE,Europe
+'a2fde82a26',extremes,Snow&Ice,#d60d2b,wmo,mrazivý moravskoslezský kraj,2026-02-15T04:35:00+00:00,Czechia,0.6274791203091954,0,2,cs,WCE,Europe
+'3f64027867',extremes,Snow&Ice,#d60d2b,wmo,mrazivý olomoucký kraj,2026-02-15T04:35:00+00:00,Czechia,0.5972692862613311,0,2,cs,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-03-05T04:24:00+00:00,Czechia,0.5237299911800898,0,2,cs,WCE,Europe
 '1bb9c937df',extremes,Snow&Ice,#d60d2b,wmo,sníh czechia,2026-02-15T04:35:00+00:00,Czechia,0.4604432895764365,4,1,cs,WCE,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,lavina často,2026-02-09T04:39:00+00:00,Norway,0.3261398076093159,4,1,cs,NEU,Europe
+'30406c7856',extremes,Flood,#030ba1,cmeter,brazilské záplavy,2026-03-07T04:13:00+00:00,Brazil,0.31883397024540744,0,2,cs,SES,South-America
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,ledovec b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,2,cs,EAN,
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón urmil,2026-03-06T04:21:00+00:00,,0.314400593964061,2,1,cs,SPO,Pacific Ocean
+'a1fcc33dde',extremes,Drought,#edc291,edo,suché období Hong Kong,2026-02-25T04:33:00+00:00,Hong Kong,0.30962978688200127,0,2,cs,EAS,Asia
+'945465874b',extremes,Drought,#edc291,edo,sucho Džibutsko,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,2,cs,NEAF,Africa
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,déšť Brazílie,2026-02-26T04:29:00+00:00,Brazil,0.30645881650206214,0,2,cs,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,přívalové deště Brazílie,2026-02-28T04:07:00+00:00,Brazil,0.30633606179389083,0,2,cs,SAM,South-America
 '8b08f49c36',extremes,Snow&Ice,#d60d2b,wmo,frost moravskoslezský kraj,2026-02-15T04:35:00+00:00,Czechia,0.3047535320445602,4,1,cs,WCE,Europe
 '5c843bde01',extremes,Precipitation,#d60d2b,wmo,liják Hawke's Bay,2026-02-13T04:34:00+00:00,New Zealand,0.3033647449091978,2,1,cs,NZ,Oceania
 '72543c90cb',extremes,Earthquake,#870007,usgs,zemětřesení bambus plochý,2026-02-24T04:30:00+00:00,India,0.3033624358184708,2,1,cs,BOB,Indian Ocean
