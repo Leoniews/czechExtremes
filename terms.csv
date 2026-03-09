@@ -1,14 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-03-07T04:13:00+00:00,Czechia,0.48513265039545045,2,1,cs,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2026-02-15T04:35:00+00:00,Czechia,0.3280636361008266,5,1,cs,WCE,Europe
-'a2fde82a26',extremes,Snow&Ice,#d60d2b,wmo,mrazivý moravskoslezský kraj,2026-02-15T04:35:00+00:00,Czechia,0.3275480225459018,4,1,cs,WCE,Europe
-'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,lavina často,2026-02-09T04:39:00+00:00,Norway,0.3261398076093159,4,1,cs,NEU,Europe
-'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklón cyklón yasi queensland 2011,2026-02-26T04:29:00+00:00,,0.3056764374419178,0,2,cs,NAU,Oceania
-'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,lavina čečenská republika,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,2,cs,ESB,Europe
-'7d18855c05',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst v salah,2026-02-22T04:30:00+00:00,Algeria,0.3031649577777724,2,1,cs,SAH,Africa
-'995cde4bd7',extremes,Storm,#b3b2b1,wmo,kanály bouřkových vln a jižní vody.,2026-02-17T04:31:00+00:00,Vanuatu,0.3030928116198643,0,2,cs,SPO,Oceania
+'103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-03-07T04:13:00+00:00,Czechia,0.41236275283613283,3,1,cs,WCE,Europe
 'b36d6347fa',extremes,Storm,#b3b2b1,wmo,bouře norman bay to lodge bay,2026-02-21T04:18:00+00:00,Canada,0.3030181279382626,0,2,cs,NEN,North-America
 'c8b725911f',extremes,Precipitation,#d60d2b,wmo,déšť krabi pang nga phuket satun trang,2026-02-19T04:32:00+00:00,Thailand,0.3030029570560759,0,2,cs,SEA,Asia
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost czechia,2026-02-15T04:35:00+00:00,Czechia,0.2788540906857026,6,1,cs,WCE,Europe
+'a2fde82a26',extremes,Snow&Ice,#d60d2b,wmo,mrazivý moravskoslezský kraj,2026-02-15T04:35:00+00:00,Czechia,0.27841581916401653,5,1,cs,WCE,Europe
 '9dde14ce15',extremes,Snow&Ice,#d60d2b,wmo,led czechia,2026-02-15T04:35:00+00:00,Czechia,0.2769074958187913,6,1,cs,WCE,Europe
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire new south wales,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,cs,EAU,Oceania
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,ledovec d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,cs,EAN,
@@ -25,24 +20,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0511e6ef31',extremes,Drought,#edc291,edo,suché období Estonsko,2026-02-28T04:07:00+00:00,Estonia,0.2605779371206412,2,1,cs,NEU,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,déšť Brazílie,2026-02-26T04:29:00+00:00,Brazil,0.2604899940267527,1,1,cs,SAM,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,liják Argentina,2026-02-27T04:26:00+00:00,Argentina,0.2604434417060022,1,1,cs,SES,South-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,déšť Argentina,2026-02-26T04:29:00+00:00,Argentina,0.26041949812276177,1,1,cs,SES,South-America
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,liják Brazílie,2026-02-25T04:32:00+00:00,Brazil,0.2602785192256816,1,1,cs,SAM,South-America
-'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,srážky brazílie,2026-02-28T04:07:00+00:00,Brazil,0.2602308641890627,1,1,cs,SAM,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,déšť Argentina,2026-02-26T04:29:00+00:00,Argentina,0.2604194981227617,1,1,cs,SES,South-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,blesková povodeň v Austrálii,2026-02-26T04:29:00+00:00,Australia,0.2598587438684172,1,1,cs,EAU,Oceania
+'d4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,cyklón cyklón yasi queensland 2011,2026-02-26T04:29:00+00:00,,0.25982497182563014,1,1,cs,NAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.2594496405797281,1,1,cs,SAU,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,povodeň zaplavující nový jižní Wales 2022,2026-02-23T04:37:00+00:00,Australia,0.2592853651244594,1,1,cs,EAU,Oceania
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,lavina čečenská republika,2026-02-26T04:29:00+00:00,Russia,0.2592691266038304,1,1,cs,ESB,Europe
 '8b08f49c36',extremes,Snow&Ice,#d60d2b,wmo,frost moravskoslezský kraj,2026-02-15T04:35:00+00:00,Czechia,0.2590405022378761,5,1,cs,WCE,Europe
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,bouře chile,2026-02-25T04:32:00+00:00,Chile,0.25898719418215577,1,1,cs,SWS,South-America
-'2180c0c4a1',extremes,Drought,#edc291,edo,nedostatek deště polsko,2026-03-04T04:21:00+00:00,Poland,0.2589481099940288,1,1,cs,WCE,Europe
-'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,lavinová vesta telemark,2026-02-08T04:43:00+00:00,Norway,0.2588276730944365,1,1,cs,NEU,Europe
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,bouře chile,2026-02-25T04:32:00+00:00,Chile,0.2589871941821557,1,1,cs,SWS,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,mlha Spojené státy americké,2026-02-26T04:29:00+00:00,United States,0.2588021963733669,1,1,cs,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst Argentina,2026-02-25T04:32:00+00:00,Argentina,0.2587422616145572,1,1,cs,SES,South-America
-'654261891c',extremes,Precipitation,#d60d2b,wmo,déšť sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.2585681327964045,3,1,cs,NWS,South-America
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,lavina lyngen,2026-02-25T04:32:00+00:00,Norway,0.2584950652221935,1,1,cs,NEU,Europe
 '1613eab3ee',extremes,Drought,#edc291,edo,nedostatek deště etiopie,2026-03-04T04:21:00+00:00,Ethiopia,0.258380550391284,1,1,cs,NEAF,Africa
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,divoký požár telangana,2026-02-21T04:18:00+00:00,India,0.2580863137393802,1,1,cs,SAS,Asia
 '0aea61081d',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí na jižních ostrovech vanuatu.,2026-02-21T04:18:00+00:00,Vanuatu,0.258052018901498,2,1,cs,SPO,Oceania
-'cbd6322038',extremes,Precipitation,#d60d2b,wmo,přívalový déšť Bahrajn,2026-02-14T04:21:00+00:00,Bahrain,0.2580349074496217,2,1,cs,ARP,Asia
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,srážky Saúdská Arábie,2026-02-27T04:26:00+00:00,Saudi Arabia,0.2579884952209774,2,1,cs,ARP,Asia
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,wildfire harvey,2026-02-16T04:38:00+00:00,United States,0.2579557844124873,1,1,cs,CNA,North-America
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,liják vanuatu,2026-03-04T04:20:00+00:00,Vanuatu,0.2578993625595115,1,1,cs,SPO,Oceania
@@ -53,18 +44,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c1d20afc9',extremes,Fog,#d60d2b,wmo,mlha sv. vodní cesty Andrews Bay,2026-02-19T04:32:00+00:00,United States,0.2577146152771025,1,1,cs,CNA,North-America
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,drsné počasí v jižní Africe,2026-03-01T04:35:00+00:00,South Africa,0.2577086515371516,1,1,cs,WSAF,Africa
 '687310ea7d',extremes,Wildfire,#d60d2b,wmo,kraj požáru xiangyun,2026-02-13T04:34:00+00:00,China,0.2576955208464249,2,1,cs,EAS,Asia
+'7d18855c05',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst v salah,2026-02-22T04:30:00+00:00,Algeria,0.25769021411110654,3,1,cs,SAH,Africa
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,studená vlna joshimath,2026-02-18T04:34:00+00:00,India,0.2576831230581798,3,1,cs,SAS,Asia
 'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,lavina heiane,2026-02-26T04:29:00+00:00,Norway,0.2576426552330342,1,1,cs,NEU,Europe
 '2efc827093',extremes,Flood,#030ba1,wmo,flashflood slovinsko,2026-02-18T04:34:00+00:00,Slovenia,0.2576336945620462,2,1,cs,WCE,Europe
+'995cde4bd7',extremes,Storm,#b3b2b1,wmo,kanály bouřkových vln a jižní vody.,2026-02-17T04:31:00+00:00,Vanuatu,0.25762888987688465,1,1,cs,SPO,Oceania
 '302e5ee660',extremes,Flood,#030ba1,wmo,flashflood czechia,2026-02-22T04:30:00+00:00,Czechia,0.2544341408051779,8,1,cs,WCE,Europe
 'd862ab1a40',extremes,Flood,#030ba1,wmo,povodeň čech,2026-02-22T04:30:00+00:00,Czechia,0.2541791988963746,5,1,cs,WCE,Europe
 'cd0d26fa1c',extremes,Snow&Ice,#d60d2b,wmo,led karlovarský kraj,2026-02-16T04:38:00+00:00,Czechia,0.2476134891497654,6,1,cs,WCE,Europe
-'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-03-05T04:24:00+00:00,Czechia,0.23238177940218394,5,1,cs,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-03-05T04:24:00+00:00,Czechia,0.2323817794021839,5,1,cs,WCE,Europe
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,teplé kouzlo tasmánie,2026-03-05T04:24:00+00:00,Australia,0.230652603936787,3,1,cs,SAU,Oceania
 '30406c7856',extremes,Flood,#030ba1,cmeter,brazilské záplavy,2026-03-07T04:13:00+00:00,Brazil,0.2303575435023067,2,1,cs,SES,South-America
-'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,vlhká tasmánie,2026-03-05T04:24:00+00:00,Australia,0.2303480960383102,2,1,cs,SAU,Oceania
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón horacio,2026-02-21T04:17:00+00:00,,0.2301897736014971,2,1,cs,SIO,Indian Ocean
-'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón 25s,2026-03-06T04:21:00+00:00,,0.22961572788907236,2,1,cs,SIO,Indian Ocean
+'67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón 25s,2026-03-06T04:21:00+00:00,,0.2296157278890723,2,1,cs,SIO,Indian Ocean
 'eba0dae408',extremes,Iceberg,#d60d2b,eonet,ledovec b15ab,2026-03-06T04:21:00+00:00,,0.2285212421631566,3,1,cs,EAN,
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-02-27T04:26:00+00:00,Czechia,0.228327353158998,5,1,cs,WCE,Europe
 'ebe314dd99',extremes,Flood,#030ba1,aidr,vydatné srážky a záplavy queensland únor 2020,2026-03-01T04:35:00+00:00,Australia,0.2271470452721007,3,1,cs,EAU,Oceania
@@ -72,13 +64,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropický cyklón na Madagaskaru,2026-02-20T04:28:00+00:00,Madagascar,0.2258266328989518,2,1,cs,MDG,Africa
 '8143644bfb',extremes,Drought,#edc291,edo,suché období Džibutsko,2026-02-12T04:37:00+00:00,Djibouti,0.2252782141115135,2,1,cs,NEAF,Africa
 'e873273000',extremes,Storm,#b3b2b1,emdat,bouře malawi,2026-02-20T04:28:00+00:00,Malawi,0.2252383476666434,2,1,cs,ESAF,Africa
-'bb9a490561',extremes,Drought,#edc291,edo,suché období německo,2026-02-14T04:22:00+00:00,Germany,0.2245312218728084,2,1,cs,WCE,Europe
 '1a89155ed1',extremes,Drought,#edc291,edo,nedostatek deště Svatý Tomáš a princip,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.2242783494989661,2,1,cs,WAF,Africa
 '0de7f7e548',extremes,Drought,#edc291,edo,sucho keňa,2026-02-22T04:31:00+00:00,Kenya,0.2240010749419954,3,1,cs,SEAF,Africa
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,povodeň kolumbie,2026-02-22T04:31:00+00:00,Colombia,0.2237475879867695,2,1,cs,NWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,sucho belgie,2026-02-06T04:28:00+00:00,Belgium,0.2237353669491803,2,1,cs,WCE,Europe
 'a1fcc33dde',extremes,Drought,#edc291,edo,suché období Hong Kong,2026-02-25T04:33:00+00:00,Hong Kong,0.2237075210222458,2,1,cs,EAS,Asia
-'e431c24ff6',extremes,Heat Wave,#c40202,wmo,vlna horka chile,2026-02-25T04:32:00+00:00,Chile,0.22326413227111186,2,1,cs,SWS,South-America
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,vlna horka chile,2026-02-25T04:32:00+00:00,Chile,0.2232641322711118,2,1,cs,SWS,South-America
 'd3353562c0',extremes,Drought,#edc291,edo,sucho Džibutsko,2026-02-06T04:28:00+00:00,Djibouti,0.2232190919178754,2,1,cs,NEAF,Africa
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,vlna veder corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.2229630435761272,2,1,cs,SES,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sucho rovníková guinea,2026-02-15T04:35:00+00:00,Equatorial Guinea,0.2227794940887278,2,1,cs,WAF,Africa
@@ -110,6 +101,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,oblasti s přívalovými dešti v oblasti ruvuma.,2026-02-18T04:34:00+00:00,Tanzania,0.2213752143449389,2,1,cs,SEAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,přívalové deště Brazílie,2026-02-28T04:07:00+00:00,Brazil,0.221327804646086,2,1,cs,SAM,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst pobřežní provincie de huasco,2026-02-07T04:19:00+00:00,Chile,0.2212768928970296,2,1,cs,SWS,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,liják Brazílie,2026-02-25T04:32:00+00:00,Brazil,0.22123674134182938,2,1,cs,SAM,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,srážky brazílie,2026-02-28T04:07:00+00:00,Brazil,0.2211962345607033,2,1,cs,SAM,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,bouře trinidad a tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.2211416968747905,2,1,cs,NSA,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,bouře Brazílie,2026-02-08T04:43:00+00:00,Brazil,0.2210532158529248,2,1,cs,SAM,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,déšť jižní Afrika,2026-02-23T04:37:00+00:00,South Africa,0.2209702368488187,2,1,cs,WSAF,Africa
@@ -186,6 +179,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,bouře chathamských ostrovů,2026-02-16T04:38:00+00:00,New Zealand,0.2201135920681473,2,1,cs,NZ,Oceania
 '9fe5b0338d',extremes,Fog,#d60d2b,wmo,mlha chorvatsko,2026-03-01T04:35:00+00:00,Croatia,0.2201134388914697,2,1,cs,WCE,Europe
 'b4e660db49',extremes,Drought,#edc291,edo,sucho Uruguay,2026-02-12T04:37:00+00:00,Uruguay,0.220108670118372,2,1,cs,SES,South-America
+'2180c0c4a1',extremes,Drought,#edc291,edo,nedostatek deště polsko,2026-03-04T04:21:00+00:00,Poland,0.22010589349492446,2,1,cs,WCE,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,bouřkové přepětí oblast 1 – mírné,2026-02-20T04:27:00+00:00,Paraguay,0.2201036904197146,2,1,cs,SES,South-America
 '75828940c9',extremes,Storm,#b3b2b1,wmo,přepětí bouře Ekvádor kontinentální,2026-02-12T04:37:00+00:00,Ecuador,0.2201011724342895,2,1,cs,NWS,South-America
 '2e0a87f8c0',extremes,Thunderstorm,#53785a,wmo,krupobití jižní ostrovy vanuatu,2026-02-16T04:38:00+00:00,Vanuatu,0.2200984407532761,2,1,cs,SPO,Oceania
@@ -196,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,bouře seychely,2026-02-19T04:32:00+00:00,Seychelles,0.2200311300243434,2,1,cs,EIO,Africa
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,bouřková oblast 1 – silná,2026-02-14T04:21:00+00:00,Paraguay,0.2200274659178169,2,1,cs,SES,South-America
 'd21e7e3d87',extremes,Fog,#d60d2b,wmo,mlha bahrajn,2026-02-09T04:39:00+00:00,Bahrain,0.2200093451743033,2,1,cs,ARP,Asia
+'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,lavinová vesta telemark,2026-02-08T04:43:00+00:00,Norway,0.22000352213027102,2,1,cs,NEU,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,přepětí bouře Kanada,2026-02-12T04:37:00+00:00,Canada,0.2199981862722669,2,1,cs,NEN,North-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,déšť Tanzanie,2026-02-23T04:37:00+00:00,Tanzania,0.2199942750159007,3,1,cs,SEAF,Africa
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,lavinová republika Ingušska,2026-02-06T04:27:00+00:00,Russia,0.2199904863270121,2,1,cs,ESB,Europe
@@ -223,6 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,bouře pobřežní provincie de huasco,2026-02-10T04:43:00+00:00,Chile,0.2197945171579147,3,1,cs,SWS,South-America
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst trinidad a tobago,2026-02-20T04:27:00+00:00,Trinidad and Tobago,0.219792274723356,2,1,cs,NSA,North-America
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Alžírsko,2026-02-14T04:21:00+00:00,Algeria,0.2197842405894345,2,1,cs,SAH,Africa
+'654261891c',extremes,Precipitation,#d60d2b,wmo,déšť sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.21978291287694382,4,1,cs,NWS,South-America
 '8fa3dac96d',extremes,Precipitation,#d60d2b,wmo,liják sierra,2026-02-19T04:32:00+00:00,Ecuador,0.2197706827704786,2,1,cs,NWS,South-America
 'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,déšť sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.2197459708153658,2,1,cs,NWS,South-America
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,lavina indre sogn,2026-02-10T04:43:00+00:00,Norway,0.2197321682732172,2,1,cs,NEU,Europe
@@ -258,10 +254,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58193d11dc',extremes,Storm,#b3b2b1,wmo,bouře taupo,2026-02-15T04:35:00+00:00,New Zealand,0.2193770931239182,3,1,cs,NZ,Oceania
 '7747997246',extremes,Fog,#d60d2b,wmo,mlha rusko,2026-02-25T04:32:00+00:00,Russia,0.2193624266779799,2,2,cs,ESB,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,lavina rusko,2026-02-25T04:32:00+00:00,Russia,0.2193469256629959,2,1,cs,ESB,Europe
+'cbd6322038',extremes,Precipitation,#d60d2b,wmo,přívalový déšť Bahrajn,2026-02-14T04:21:00+00:00,Bahrain,0.21932967133217846,3,1,cs,ARP,Asia
 '27212c802e',extremes,Wildfire,#d60d2b,wmo,divoký požár yangbi,2026-02-13T04:34:00+00:00,China,0.2193199611844077,2,1,cs,EAS,Asia
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,divoký požár Austrálie,2026-02-25T04:32:00+00:00,Australia,0.2193082471512072,2,1,cs,CAU,Oceania
 '5032c3d748',extremes,Wildfire,#d60d2b,wmo,lesní požár hongta,2026-02-12T04:37:00+00:00,China,0.2192906420698296,2,1,cs,EAS,Asia
-'1073537f95',extremes,Landslide,#572c03,wmo,skalní sesuv části vestland fylke,2026-02-26T04:29:00+00:00,Norway,0.21925782538501795,3,1,cs,NEU,Europe
+'1073537f95',extremes,Landslide,#572c03,wmo,skalní sesuv části vestland fylke,2026-02-26T04:29:00+00:00,Norway,0.2192578253850179,3,1,cs,NEU,Europe
 'cc1379f311',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst avalonský poloostrov jihovýchod,2026-02-17T04:31:00+00:00,Canada,0.2192400036868638,2,1,cs,NEN,North-America
 'bf84083cec',extremes,Landslide,#572c03,wmo,sesuv půdy norsko,2026-02-26T04:29:00+00:00,Norway,0.2192220847510227,2,1,cs,NEU,Europe
 'e7c015237c',extremes,Wildfire,#d60d2b,wmo,lesní požár longyang,2026-02-20T04:27:00+00:00,China,0.2191705366621507,2,1,cs,EAS,Asia
@@ -271,6 +268,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1846944bd',extremes,Landslide,#572c03,wmo,sesuvné části vestland fylke,2026-02-25T04:32:00+00:00,Norway,0.2190740817653137,3,1,cs,NEU,Europe
 '49e564d95b',extremes,Drought,#edc291,edo,sucho ostrovy svalbard a jan mayen,2026-03-02T04:27:00+00:00,Svalbard and Jan Mayen Islands,0.2190484894771332,2,1,cs,ARO,Arctica
 '3f515cf497',extremes,Flood,#030ba1,wmo,záplava česka,2026-02-22T04:30:00+00:00,Czechia,0.2154105846967862,6,1,cs,WCE,Europe
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,vlhká tasmánie,2026-03-05T04:24:00+00:00,Australia,0.19579588163256365,3,1,cs,SAU,Oceania
+'bb9a490561',extremes,Drought,#edc291,edo,suché období německo,2026-02-14T04:22:00+00:00,Germany,0.19085153859188714,3,1,cs,WCE,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,vlna veder argentina,2026-02-10T04:43:00+00:00,Argentina,0.1906176469465158,3,1,cs,SES,South-America
 '27ff8af872',extremes,Drought,#edc291,edo,sucho dánsko,2026-02-16T04:38:00+00:00,Denmark,0.1901629465176857,3,1,cs,NEU,Europe
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,oblast veder 2 – mírná,2026-02-17T04:31:00+00:00,Paraguay,0.1880336169357069,3,1,cs,SES,South-America
@@ -287,10 +286,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4886dfdf6',extremes,Wildfire,#d60d2b,wmo,divoký požár lanping,2026-02-09T04:39:00+00:00,China,0.1871188638559899,3,1,cs,EAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,divoký požár madhjapradéš,2026-02-12T04:37:00+00:00,India,0.1869764087442773,3,1,cs,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,bouřka Indie,2026-02-18T04:34:00+00:00,India,0.1867994670177154,3,1,cs,SAS,Asia
-'3353502ff9',extremes,Thunderstorm,#53785a,wmo,bouřka jižní ostrovy vanuatu.,2026-02-22T04:30:00+00:00,Vanuatu,0.18678235200341345,3,1,cs,SPO,Oceania
+'3353502ff9',extremes,Thunderstorm,#53785a,wmo,bouřka jižní ostrovy vanuatu.,2026-02-22T04:30:00+00:00,Vanuatu,0.1867823520034134,3,1,cs,SPO,Oceania
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,přepětí bouře Alžírsko,2026-02-15T04:35:00+00:00,Algeria,0.1867160007501732,4,1,cs,SAH,Africa
 '156c18e469',extremes,Storm,#b3b2b1,wmo,bouřkový král sabata dalindyebo mthatha,2026-02-23T04:37:00+00:00,South Africa,0.1867010948631549,3,1,cs,WSAF,Africa
 'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,wildfire yunlong county,2026-02-13T04:34:00+00:00,China,0.1866725271473895,3,1,cs,EAS,Asia
 '8f4c353f58',extremes,Flood,#030ba1,emdat,záplava narino,2026-02-20T04:28:00+00:00,Colombia,0.1865569452227974,3,1,cs,NWS,South-America
 'dadf3ad301',extremes,Thunderstorm,#53785a,wmo,krupobití jižní ostrovy vanuatu.,2026-02-18T04:34:00+00:00,Vanuatu,0.1864063005982991,3,1,cs,SPO,Oceania
-'c528204ef7',extremes,Wildfire,#d60d2b,wmo,divoký požár lekwa teemane bloemhof,2026-03-01T04:35:00+00:00,South Africa,0.15845011119355687,5,1,cs,WSAF,Africa
+'c528204ef7',extremes,Wildfire,#d60d2b,wmo,divoký požár lekwa teemane bloemhof,2026-03-01T04:35:00+00:00,South Africa,0.1584501111935568,5,1,cs,WSAF,Africa
