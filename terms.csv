@@ -1,10 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'feb1dafabf',extremes,Heat Wave,#c40202,acwe,mírná zima nový jižní wales,2026-03-10T04:22:00+00:00,Australia,0.31829929838732934,0,2,cs,EAU,Oceania
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,tropický cyklón 26s,2026-03-07T04:12:00+00:00,,0.31544182195904896,0,2,cs,NAU,Oceania
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,vlna veder argentina,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,2,cs,SES,South-America
+'1a89155ed1',extremes,Drought,#edc291,edo,nedostatek deště Svatý Tomáš a princip,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.30821520196593816,0,2,cs,WAF,Africa
+'d98aa38709',extremes,Fog,#d60d2b,wmo,mlha Saúdská Arábie,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3072302130859599,0,2,cs,ARP,Asia
+'f6ff301646',extremes,Drought,#edc291,edo,sucho Somálsko,2026-02-28T04:07:00+00:00,Somalia,0.3069600000485408,0,2,cs,NEAF,Africa
+'7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,přívalové deště sierra,2026-03-08T04:24:00+00:00,Ecuador,0.3052542487106331,0,2,cs,NWS,South-America
+'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,liják santa elena.,2026-03-10T04:22:00+00:00,Ecuador,0.30481958642989115,0,2,cs,NWS,South-America
+'c6083600a3',extremes,Flood,#030ba1,acwe,vysoká hladina vody v západní Austrálii,2026-03-10T04:22:00+00:00,Australia,0.30476318065144037,0,2,cs,CAU,Oceania
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst Saúdská Arábie,2026-02-25T04:32:00+00:00,Saudi Arabia,0.3033300712431648,1,1,cs,ARP,Asia
 '3ea76ed422',extremes,Drought,#edc291,edo,sucho v Jižní Koreji,2026-02-28T04:07:00+00:00,South Korea,0.3033194472539436,1,1,cs,EAS,Asia
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,avalanche voss,2026-02-26T04:29:00+00:00,Norway,0.3031819740053127,1,1,cs,NEU,Europe
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,lavinová republika Khakassia,2026-02-25T04:32:00+00:00,Russia,0.3029349769441142,0,2,cs,ESB,Europe
 '2ed3e5a7db',extremes,Snow Avalanche,#deddd5,wmo,lavinové západní losí a sawatchové hory,2026-02-20T04:27:00+00:00,United States,0.3028995296548735,0,2,cs,CNA,North-America
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,přívalové deště Saúdská Arábie,2026-02-27T04:26:00+00:00,Saudi Arabia,0.3028804152028399,0,2,cs,ARP,Asia
+'12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,otužilec laviny,2026-02-25T04:32:00+00:00,Norway,0.30284858792330427,0,2,cs,NEU,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-03-07T04:13:00+00:00,Czechia,0.2979320889241059,6,1,cs,WCE,Europe
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,zákaz požárů v novém jižním Walesu,2026-03-09T04:31:00+00:00,Australia,0.2713955307260379,2,1,cs,EAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire new south wales,2026-03-08T04:25:00+00:00,Australia,0.271173363740418,1,1,cs,EAU,Oceania
@@ -27,7 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,lavina jotunheimen,2026-02-25T04:32:00+00:00,Norway,0.2581978649167788,1,1,cs,NEU,Europe
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,bouře v jižní Africe,2026-02-28T04:07:00+00:00,South Africa,0.2581760845255673,1,1,cs,WSAF,Africa
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,divoký požár telangana,2026-02-21T04:18:00+00:00,India,0.2580863137393802,1,1,cs,SAS,Asia
-'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,lavina norsko,2026-02-25T04:32:00+00:00,Norway,0.25802912180629634,2,1,cs,NEU,Europe
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,lavina norsko,2026-02-25T04:32:00+00:00,Norway,0.2580291218062963,2,1,cs,NEU,Europe
 '3229be0606',extremes,Snow Avalanche,#deddd5,wmo,lavina karachay cherkess republic,2026-02-26T04:29:00+00:00,Russia,0.2579850751719744,1,1,cs,ESB,Europe
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,wildfire harvey,2026-02-16T04:38:00+00:00,United States,0.2579557844124873,1,1,cs,CNA,North-America
 '5c843bde01',extremes,Precipitation,#d60d2b,wmo,liják Hawke's Bay,2026-02-13T04:34:00+00:00,New Zealand,0.2578600331728181,3,1,cs,NZ,Oceania
