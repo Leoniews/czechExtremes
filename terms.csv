@@ -22,12 +22,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db9244a045',extremes,Drought,#edc291,acwe,suché období victoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,2,cs,SAU,Oceania
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,chladné počasí Austrálie,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,2,cs,CAU,Oceania
 'dba9977fc1',extremes,Drought,#edc291,edo,nedostatek deště Faerské ostrovy,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,2,cs,NEU,Europe
+'6fde59a3a9',extremes,Drought,#edc291,acwe,sucho queensland,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,2,cs,CAU,Oceania
 'ed806b22f8',extremes,Drought,#edc291,edo,sucho Bhútán,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,2,cs,TIB,Asia
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,bouře silná bouře melbourne victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,2,cs,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,sucho Austrálie,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,2,cs,SAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,chladné počasí Queensland,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,2,cs,CAU,Oceania
 'af5e4ac005',extremes,Drought,#edc291,edo,sucho dánsko,2026-03-23T04:42:00+00:00,Denmark,0.3100632347004806,0,2,cs,NEU,Europe
 '4508810067',extremes,Storm,#b3b2b1,wmo,bouře litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,2,cs,NWS,South-America
+'ca64be4528',extremes,Storm,#b3b2b1,wmo,bouře bělorusko,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,2,cs,WCE,Europe
 '7e68dc4baa',extremes,Drought,#edc291,edo,sucho Bhútán,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,2,cs,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,suché období surinam,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,2,cs,NSA,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst Argentina,2026-03-17T04:30:00+00:00,Argentina,0.307700103450387,0,2,cs,SES,South-America
@@ -57,20 +59,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39afca9687',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst skopje region,2026-03-26T04:56:00+00:00,North Macedonia,0.3062516929422517,0,2,cs,MED,Europe
 'eff78b7be8',extremes,Drought,#edc291,edo,sucho Bangladéš,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,2,cs,SAS,Asia
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,snow Canada,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,2,cs,NEN,North-America
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,bouře sierra norte y centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,2,cs,NWS,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,přívalové deště sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,2,cs,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,bouře jihovýchodní oblast,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,2,cs,MED,Europe
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,liják Amazonie,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,2,cs,NWS,South-America
-'07f5003376',extremes,Storm,#b3b2b1,wmo,bouře Ekvádor kontinentální,2026-03-12T04:26:00+00:00,Ecuador,0.30581995734597217,0,2,cs,NWS,South-America
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,liják Amazonie,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,2,cs,NWS,South-America
+'07f5003376',extremes,Storm,#b3b2b1,wmo,bouře Ekvádor kontinentální,2026-03-12T04:26:00+00:00,Ecuador,0.3058199573459721,0,2,cs,NWS,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,vlna horka chile,2026-03-17T04:30:00+00:00,Chile,0.3056438465953644,0,2,cs,SWS,South-America
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,lavina franc,2026-03-17T04:30:00+00:00,France,0.3056138850173815,0,2,cs,WCE,Europe
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,2,cs,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,flashflood Etiopie,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,2,cs,NEAF,Africa
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,bouře izrael,2026-03-31T04:59:00+00:00,Israel,0.30546674713786515,0,2,cs,MED,Asia
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,bouře izrael,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,2,cs,MED,Asia
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,lavina jotunheimen,2026-03-17T04:30:00+00:00,Norway,0.305435834979508,0,2,cs,NEU,Europe
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,liják sierra norte y centro,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,2,cs,NWS,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,přívalové deště Ekvádor,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,2,cs,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,vlna veder corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,2,cs,SES,South-America
 '5b66901fd7',extremes,Wildfire,#d60d2b,wmo,divoký požár kareeberg vanwyksvlei,2026-03-31T04:59:00+00:00,South Africa,0.305339804916354,0,2,cs,WSAF,Africa
-'d98aa38709',extremes,Fog,#d60d2b,wmo,mlha Saúdská Arábie,2026-03-20T04:26:00+00:00,Saudi Arabia,0.30513297202568945,0,2,cs,ARP,Asia
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,déšť Ekvádor,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,2,cs,NWS,South-America
+'2840754e5c',extremes,Storm,#b3b2b1,wmo,bouře přepětí libye,2026-04-01T05:12:00+00:00,Libya,0.30514012217002623,0,2,cs,SAH,Africa
+'d98aa38709',extremes,Fog,#d60d2b,wmo,mlha Saúdská Arábie,2026-03-20T04:26:00+00:00,Saudi Arabia,0.3051329720256894,0,2,cs,ARP,Asia
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,divoký požár telangana,2026-03-29T05:00:00+00:00,India,0.3049376652607233,0,2,cs,SAS,Asia
+'4a4191209b',extremes,Heat Wave,#c40202,wmo,vlna veder smolenská oblast,2026-04-01T05:12:00+00:00,Russia,0.30488711207355423,0,2,cs,ESB,Europe
+'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,přívalové deště litoral norte e vnitrozemí,2026-04-01T05:12:00+00:00,Ecuador,0.3046660862365147,0,2,cs,NWS,South-America
+'7c39867b86',extremes,Flood,#030ba1,wmo,flashflood vladimírský kraj,2026-03-28T04:33:00+00:00,Russia,0.3046584160208917,0,2,cs,ESB,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,liják Brazílie,2026-03-17T04:30:00+00:00,Brazil,0.3042726383441025,0,2,cs,SAM,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,bouře chile,2026-03-17T04:30:00+00:00,Chile,0.3038176339132825,0,2,cs,SWS,South-America
 'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,mráz černá hora,2026-03-26T04:56:00+00:00,Montenegro,0.3037078038480194,0,2,cs,MED,Europe
