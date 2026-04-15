@@ -1,0 +1,4 @@
+,phrase,label,sentiment,subjectivity,language,count
+Teplice,Teplice,ORG,0.0,0.0,en,1
+the US Northeast,the US Northeast,ORG,-0.03787878787878788,0.0,en,1
+Narelle,Narelle,ORG,0.0,0.0,en,1
