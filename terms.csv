@@ -49,12 +49,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a93354f3b',extremes,Drought,#edc291,edo,suchá angola,2026-04-05T05:01:00+00:00,Angola,0.3020126833960758,0,2,cs,WSAF,Africa
 '66dde132e2',extremes,Landslide,#572c03,wmo,sesuv bahna okres Xiajiang,2026-04-13T05:28:00+00:00,China,0.3019863758775407,1,1,cs,EAS,Asia
 '24b660695f',extremes,Landslide,#572c03,wmo,sesuv půdy čína,2026-04-11T04:34:00+00:00,China,0.30196296131368,0,2,cs,EAS,Asia
+'fa06cd330a',extremes,Landslide,#572c03,wmo,sesuv půdy čína,2026-04-13T05:28:00+00:00,China,0.30196034596426213,0,2,cs,EAS,Asia
 '34fbbb4741',extremes,Storm,#b3b2b1,wmo,bouře wien rudolfsheim fünfhaus,2026-03-25T04:33:00+00:00,Austria,0.3019560860716966,1,1,cs,WCE,Europe
 'd6d33020fa',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí wien hietzing,2026-03-25T04:33:00+00:00,Austria,0.30191934463366,1,1,cs,WCE,Europe
 'debdbdb81a',extremes,Flood,#030ba1,wmo,povodeň mahoning oh trumbull oh,2026-04-02T04:42:00+00:00,United States,0.3019181240249782,2,1,cs,CNA,North-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,sníh Nový Zéland,2026-04-19T05:16:00+00:00,New Zealand,0.301901162845295,0,2,cs,NZ,Oceania
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst northland,2026-04-11T04:34:00+00:00,New Zealand,0.3018863080576587,1,1,cs,NZ,Oceania
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst katar,2026-04-22T05:13:00+00:00,Qatar,0.3018743583707812,0,2,cs,ARP,Asia
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,mlha spojené státy,2026-04-11T04:34:00+00:00,United States,0.3018695578114575,0,2,cs,CNA,North-America
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,mlha omská oblast,2026-03-22T04:33:00+00:00,Russia,0.3018568262562553,0,2,cs,ESB,Europe
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,sněhová pevnost naděje lansdowne dům ogoki,2026-04-09T04:58:00+00:00,Canada,0.301837122026619,0,2,cs,NEN,North-America
 '99219a1971',extremes,Storm,#b3b2b1,wmo,bouře wiener neustadt land,2026-03-25T04:33:00+00:00,Austria,0.3018338617970283,0,2,cs,WCE,Europe
@@ -116,6 +118,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9231cf4ea',extremes,Landslide,#572c03,wmo,sesuv půdy město ganzhou,2026-04-06T05:11:00+00:00,China,0.30088737241978,0,2,cs,EAS,Asia
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,flashflood cooper mo,2026-04-02T04:42:00+00:00,United States,0.3008786179711333,0,2,cs,CNA,North-America
 'e1754e3cea',extremes,Flood,#030ba1,wmo,flashflood crawford wi,2026-04-05T05:01:00+00:00,United States,0.3008532908497143,0,2,cs,CNA,North-America
+'612ef3a548',extremes,Wildfire,#d60d2b,wmo,divoký požár maharashtra,2026-04-10T05:13:00+00:00,India,0.3008348398177131,0,2,cs,SAS,Asia
+'75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,lavina romsdal,2026-04-11T04:34:00+00:00,Norway,0.30082421858007874,0,2,cs,NEU,Europe
+'dffd2a8eb4',extremes,Flood,#030ba1,wmo,záplava vladimírského kraje,2026-04-08T05:01:00+00:00,Russia,0.30079476972050195,0,2,cs,ESB,Europe
+'4d446959e2',extremes,Drought,#edc291,edo,sucho estonsko,2026-04-11T04:34:00+00:00,Estonia,0.30078893275712726,0,2,cs,NEU,Europe
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst island,2026-04-09T04:58:00+00:00,Iceland,0.3007421241192694,0,2,cs,GIC,Europe
+'49e564d95b',extremes,Drought,#edc291,edo,sucho ostrovy svalbard a jan mayen,2026-04-12T05:12:00+00:00,Svalbard and Jan Mayen Islands,0.30074098972456914,0,2,cs,ARO,Arctica
+'7a89dffcb0',extremes,Flood,#030ba1,wmo,zaplavení jezera il kenosha wi,2026-04-04T04:30:00+00:00,United States,0.300731517975731,0,2,cs,CNA,North-America
+'c1cdcd78fa',extremes,Landslide,#572c03,wmo,sesuv skály fuzhou město,2026-04-11T04:34:00+00:00,China,0.30071241854576863,0,2,cs,EAS,Asia
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2026-04-11T04:34:00+00:00,Czechia,0.2959658360025796,7,1,cs,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-04-21T05:15:00+00:00,Czechia,0.2811047478654267,6,1,cs,WCE,Europe
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,neznámý orlando,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,cs,ENA,North-America
@@ -326,7 +336,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aab7909052',extremes,Fog,#d60d2b,wmo,mlha izrael,2026-04-03T04:43:00+00:00,Israel,0.2580326600122601,2,1,cs,MED,Asia
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,divoký požár uttar pradesh,2026-04-03T04:43:00+00:00,India,0.2580166651981656,1,1,cs,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,divoký požár madhjapradéš,2026-04-03T04:43:00+00:00,India,0.2580141806079202,2,1,cs,SAS,Asia
-'2f5808d63b',extremes,Storm,#b3b2b1,wmo,bouře přepětí Spojené království,2026-04-04T04:30:00+00:00,United Kingdom,0.25801067726990246,3,1,cs,NEU,Europe
+'2f5808d63b',extremes,Storm,#b3b2b1,wmo,bouře přepětí Spojené království,2026-04-04T04:30:00+00:00,United Kingdom,0.2580106772699024,3,1,cs,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,lavina norsko,2026-04-10T05:13:00+00:00,Norway,0.2579710186528242,2,1,cs,NEU,Europe
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,tropický cyklón Šalamounovy ostrovy,2026-04-05T05:01:00+00:00,Solomon Islands,0.257944332013073,1,1,cs,EPO,Oceania
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,sníh argentina,2026-04-11T04:34:00+00:00,Argentina,0.2579232553752091,1,1,cs,SES,South-America
@@ -436,7 +446,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ce867cc3f',extremes,Landslide,#572c03,wmo,sesuv půdy město Lušan,2026-03-24T04:31:00+00:00,China,0.2566014945994187,1,1,cs,EAS,Asia
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,led salzburg umgebung,2026-03-25T04:33:00+00:00,Austria,0.2565738260091794,1,1,cs,WCE,Europe
 '6d73764800',extremes,Earthquake,#870007,usgs,zemětřesení stříbrné prameny,2026-04-14T05:10:00+00:00,United States,0.2565491652930308,1,1,cs,WNA,North-America
-'5484f48de4',extremes,Earthquake,#870007,usgs,zemětřesení středního indického hřebene,2026-03-21T04:17:00+00:00,,0.25653824977662654,1,1,cs,SIO,Indian Ocean
+'5484f48de4',extremes,Earthquake,#870007,usgs,zemětřesení středního indického hřebene,2026-03-21T04:17:00+00:00,,0.2565382497766265,1,1,cs,SIO,Indian Ocean
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,bouřkové přepětí oblast 2 – mírné,2026-03-23T04:42:00+00:00,Paraguay,0.2565077193197252,1,1,cs,SES,South-America
 '7a020e86c6',extremes,Storm,#b3b2b1,wmo,bouřkové přepětí wien alsergrund,2026-03-25T04:33:00+00:00,Austria,0.2564957025665794,1,1,cs,WCE,Europe
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,mráz rumunsko,2026-03-30T05:12:00+00:00,Romania,0.2564951872706902,1,1,cs,WCE,Europe
