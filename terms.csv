@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,lavina norsko,2026-04-30T05:46:00+00:00,Norway,0.2191693685253295,3,1,cs,NEU,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,déšť Rusko,2026-04-19T05:16:00+00:00,Russia,0.2191381614232552,3,1,cs,ESB,Europe
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,sníh v jižní Africe,2026-05-06T05:43:00+00:00,South Africa,0.2190672998565808,3,1,cs,WSAF,Africa
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,vlna veder izrael,2026-05-09T05:36:00+00:00,Israel,0.2189209601976798,4,1,cs,MED,Asia
@@ -126,11 +125,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,bouře Maledivy,2026-05-03T05:44:00+00:00,Maldives,0.1865222459108568,3,1,cs,EIO,Indian Ocean
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,bouřkové přepětí área 1 – silné,2026-05-02T05:24:00+00:00,Paraguay,0.1864865184016684,5,1,cs,SES,South-America
 'b977149cad',extremes,Storm,#b3b2b1,wmo,bouře fiordland severně od pochybného zvuku,2026-05-07T05:46:00+00:00,New Zealand,0.1864609539174744,3,1,cs,NZ,Oceania
-'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,liják Nový Zéland,2026-04-23T05:16:00+00:00,New Zealand,0.18645167184553535,4,1,cs,NZ,Oceania
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,liják Nový Zéland,2026-04-23T05:16:00+00:00,New Zealand,0.1864516718455353,4,1,cs,NZ,Oceania
 'd8a981c851',extremes,Earthquake,#870007,usgs,zemětřesení lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.1864459537387322,3,1,cs,EPO,Pacific Ocean
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,lavina norsko,2026-04-30T05:46:00+00:00,Norway,0.18644397824653008,4,1,cs,NEU,Europe
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,ledové Finsko,2026-04-24T05:22:00+00:00,Finland,0.1864411106744579,3,1,cs,NEU,Europe
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,lavinová republika Ingušska,2026-04-28T05:45:00+00:00,Russia,0.186399663888577,3,1,cs,ESB,Europe
-'fadc367829',extremes,Thunderstorm,#53785a,wmo,kroupy oran,2026-04-24T05:22:00+00:00,Algeria,0.18634046158523607,4,1,cs,SAH,Africa
+'fadc367829',extremes,Thunderstorm,#53785a,wmo,kroupy oran,2026-04-24T05:22:00+00:00,Algeria,0.186340461585236,4,1,cs,SAH,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,povodeň Kanada,2026-04-25T05:00:00+00:00,Canada,0.1862950088212308,3,1,cs,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,liják Kanada,2026-04-22T05:13:00+00:00,Canada,0.1862745054997746,3,1,cs,NEN,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,bouře Nový Zéland,2026-05-07T05:46:00+00:00,New Zealand,0.1862348566005864,5,1,cs,NZ,Oceania
@@ -161,10 +161,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e873273000',extremes,Storm,#b3b2b1,wmo,bouře malawi,2026-04-23T05:16:00+00:00,Malawi,0.185348918653494,3,1,cs,ESAF,Africa
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,sucho demokratická republika Konga,2026-05-02T05:24:00+00:00,Democratic Republic of the Congo,0.1852987654593937,3,1,cs,CAF,Africa
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,vlna veder rusko,2026-05-01T05:54:00+00:00,Russia,0.1851564058981155,3,1,cs,ESB,Europe
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,zaplavení Kanady,2026-04-26T05:25:00+00:00,Canada,0.18510034051437516,4,1,cs,NEN,North-America
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,zaplavení Kanady,2026-04-26T05:25:00+00:00,Canada,0.1851003405143751,4,1,cs,NEN,North-America
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,lavina soči,2026-04-19T05:16:00+00:00,Russia,0.1850784650009139,3,1,cs,ESB,Europe
-'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mlha východní Flandry,2026-04-25T05:00:00+00:00,Belgium,0.18501879240610344,3,1,cs,WCE,Europe
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mlha východní Flandry,2026-04-25T05:00:00+00:00,Belgium,0.1850187924061034,3,1,cs,WCE,Europe
 '02f56319a7',extremes,Flood,#030ba1,aidr,povodeň v Austrálii,2026-04-26T05:26:00+00:00,Australia,0.1849320120316682,3,1,cs,EAU,Oceania
-'fa762f5750',extremes,Drought,#edc291,edo,nedostatek deště lesotho,2026-04-22T05:13:00+00:00,Lesotho,0.18463034409528348,3,1,cs,ESAF,Africa
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,déšť Saúdská Arábie,2026-04-28T05:45:00+00:00,Saudi Arabia,0.16037643541027602,5,1,cs,ARP,Asia
+'fa762f5750',extremes,Drought,#edc291,edo,nedostatek deště lesotho,2026-04-22T05:13:00+00:00,Lesotho,0.1846303440952834,3,1,cs,ESAF,Africa
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,déšť Saúdská Arábie,2026-04-28T05:45:00+00:00,Saudi Arabia,0.160376435410276,5,1,cs,ARP,Asia
 'a4dce3db5b',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí islas galapágy.,2026-04-22T05:13:00+00:00,Ecuador,0.1570629491938573,4,1,cs,NWS,South-America
