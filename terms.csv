@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,déšť bechar,2026-05-10T05:51:00+00:00,Algeria,0.136066131177008,6,1,cs,SAH,Africa
-'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gatineau,2026-05-08T05:16:00+00:00,Canada,0.135085624573472,5,1,cs,NEN,North-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,drsné počasí nigérie,2026-05-08T05:16:00+00:00,Nigeria,0.1347892453471528,7,1,cs,WAF,Africa
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst Brazílie,2026-05-08T05:16:00+00:00,Brazil,0.1347860277835212,5,1,cs,SAM,South-America
-'2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,liják jižní afrika,2026-05-05T05:29:00+00:00,South Africa,0.1345383075065608,5,1,cs,WSAF,Africa
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,sníh v jižní Africe,2026-05-06T05:43:00+00:00,South Africa,0.1345347055244226,6,1,cs,WSAF,Africa
-'e9816a8a17',extremes,Snow&Ice,#d60d2b,wmo,led Jižní Afrika,2026-05-05T05:29:00+00:00,South Africa,0.1344915309228436,5,1,cs,WSAF,Africa
 'a7692ca80d',extremes,Snow Avalanche,#deddd5,wmo,lavina jižně od kamčatského kraje,2026-05-05T05:29:00+00:00,Russia,0.134486589519622,5,1,cs,ESB,Europe
 '475ba7d4ed',extremes,Heat Wave,#c40202,wmo,vlna veder v Bělorusku,2026-05-06T05:43:00+00:00,Belarus,0.1344785736789159,5,1,cs,WCE,Europe
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,vlna veder izrael,2026-05-09T05:36:00+00:00,Israel,0.1344448346814,7,1,cs,MED,Asia
@@ -14,5 +11,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,mráz Jižní Afrika,2026-05-06T05:43:00+00:00,South Africa,0.1159797095772521,6,1,cs,WSAF,Africa
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,rain Buller okr,2026-05-08T05:16:00+00:00,New Zealand,0.1159201898445696,6,1,cs,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,bouře Jamajka,2026-05-06T05:43:00+00:00,Jamaica,0.1145740345842423,6,1,cs,CAR,North-America
-'b977149cad',extremes,Storm,#b3b2b1,wmo,bouře fiordland severně od pochybného zvuku,2026-05-07T05:46:00+00:00,New Zealand,0.11451033332456892,6,1,cs,NZ,Oceania
+'b977149cad',extremes,Storm,#b3b2b1,wmo,bouře fiordland severně od pochybného zvuku,2026-05-07T05:46:00+00:00,New Zealand,0.1145103333245689,6,1,cs,NZ,Oceania
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.1143144419102819,6,1,cs,NZ,Oceania
