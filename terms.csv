@@ -1,9 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,vlna veder izrael,2026-05-09T05:36:00+00:00,Israel,0.1581703937428236,6,1,cs,MED,Asia
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře hagupit,2026-05-07T05:46:00+00:00,,0.1412267922596984,6,1,cs,EPO,Pacific Ocean
-'f6774fb5b2',extremes,Drought,#edc291,acwe,nedostatek deště victoria,2026-05-04T05:50:00+00:00,Australia,0.1382118783798285,5,1,cs,SAU,Oceania
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,déšť jižní Afrika,2026-05-06T05:43:00+00:00,South Africa,0.1363465659574107,6,1,cs,WSAF,Africa
-'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,přívalové deště westland okr,2026-05-06T05:43:00+00:00,New Zealand,0.1361876426625865,6,1,cs,NZ,Oceania
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,liják fiordland severně od pochybného zvuku,2026-05-05T05:29:00+00:00,New Zealand,0.1361220402079074,5,1,cs,NZ,Oceania
 '983c5f75d7',extremes,Precipitation,#d60d2b,wmo,déšť bechar,2026-05-10T05:51:00+00:00,Algeria,0.136066131177008,6,1,cs,SAH,Africa
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,frost gatineau,2026-05-08T05:16:00+00:00,Canada,0.135085624573472,5,1,cs,NEN,North-America
@@ -15,9 +12,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9816a8a17',extremes,Snow&Ice,#d60d2b,wmo,led Jižní Afrika,2026-05-05T05:29:00+00:00,South Africa,0.1344915309228436,5,1,cs,WSAF,Africa
 'a7692ca80d',extremes,Snow Avalanche,#deddd5,wmo,lavina jižně od kamčatského kraje,2026-05-05T05:29:00+00:00,Russia,0.134486589519622,5,1,cs,ESB,Europe
 '475ba7d4ed',extremes,Heat Wave,#c40202,wmo,vlna veder v Bělorusku,2026-05-06T05:43:00+00:00,Belarus,0.1344785736789159,5,1,cs,WCE,Europe
+'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,vlna veder izrael,2026-05-09T05:36:00+00:00,Israel,0.13444483468140006,7,1,cs,MED,Asia
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,bouře renbel makira temotu vody .,2026-05-08T05:16:00+00:00,Solomon Islands,0.1344429079273853,5,1,cs,EPO,Oceania
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,srážková republika Moldavsko,2026-05-09T05:36:00+00:00,Republic of Moldova,0.1161740014671907,7,1,cs,WCE,Europe
-'1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,mráz Jižní Afrika,2026-05-06T05:43:00+00:00,South Africa,0.11597970957725215,6,1,cs,WSAF,Africa
+'1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,mráz Jižní Afrika,2026-05-06T05:43:00+00:00,South Africa,0.1159797095772521,6,1,cs,WSAF,Africa
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,rain Buller okr,2026-05-08T05:16:00+00:00,New Zealand,0.1159201898445696,6,1,cs,NZ,Oceania
-'829105287e',extremes,Storm,#b3b2b1,wmo,bouře Jamajka,2026-05-06T05:43:00+00:00,Jamaica,0.11457403458424233,6,1,cs,CAR,North-America
+'829105287e',extremes,Storm,#b3b2b1,wmo,bouře Jamajka,2026-05-06T05:43:00+00:00,Jamaica,0.1145740345842423,6,1,cs,CAR,North-America
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.1143144419102819,6,1,cs,NZ,Oceania
