@@ -1,9 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-05-15T06:09:00+00:00,Czechia,0.7368019312456552,0,2,cs,WCE,Europe
+'162f54cd91',extremes,Drought,#edc291,wmo,drought hlavní město praha,2026-05-26T06:31:00+00:00,Czechia,0.7347855753509281,0,2,cs,WCE,Europe
 '77a2b59d94',extremes,Drought,#edc291,wmo,sucho liberecký kraj česká lípa,2026-05-25T06:53:00+00:00,Czechia,0.7018296040400537,0,2,cs,WCE,Europe
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-05-31T06:40:00+00:00,Czechia,0.6851285495524524,0,2,cs,WCE,Europe
 'fb87f7b1be',extremes,Heat Wave,#c40202,wmo,vlna veder hlavní město praha,2026-05-26T06:31:00+00:00,Czechia,0.6747621365554997,0,2,cs,WCE,Europe
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-05-31T06:40:00+00:00,Czechia,0.6738208861310354,0,2,cs,WCE,Europe
 '8884ed166d',extremes,Storm,#b3b2b1,wmo,bouřka karlovarský kraj,2026-05-31T06:40:00+00:00,Czechia,0.6433800774596927,0,2,cs,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-05-27T06:46:00+00:00,Czechia,0.6415901914765855,0,2,cs,WCE,Europe
+'4bafd35cda',extremes,Precipitation,#d60d2b,wmo,srážky česko,2026-05-16T05:40:00+00:00,Czechia,0.6392815045532783,0,2,cs,WCE,Europe
 'a116d76fcf',extremes,Heat Wave,#c40202,wmo,vlna veder czechia,2026-05-26T06:31:00+00:00,Czechia,0.6260782774131332,1,1,cs,WCE,Europe
 '3cbc6bed71',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Česko,2026-05-31T06:40:00+00:00,Czechia,0.6193805296364683,1,1,cs,WCE,Europe
+'cfc43cfb63',extremes,Precipitation,#d60d2b,wmo,přívalové deště česko,2026-05-16T05:40:00+00:00,Czechia,0.6189603246115206,0,2,cs,WCE,Europe
+'103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-05-17T06:01:00+00:00,Czechia,0.6157382297416637,0,2,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2026-05-30T06:01:00+00:00,Czechia,0.6079337859536684,1,2,cs,WCE,Europe
+'886a9ce58b',extremes,Thunderstorm,#53785a,wmo,bouřka czechia,2026-05-31T06:40:00+00:00,Czechia,0.5771194951796835,0,2,cs,WCE,Europe
+'1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-05-31T06:40:00+00:00,Czechia,0.5677615215526122,0,2,cs,WCE,Europe
+'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,studené kouzlo západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.319318399336074,0,2,cs,CAU,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,chladné počasí západní Austrálie,2026-05-28T06:38:00+00:00,Australia,0.3190270171634262,0,2,cs,CAU,Oceania
