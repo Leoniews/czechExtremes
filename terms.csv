@@ -2,10 +2,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-05-31T06:40:00+00:00,Czechia,0.6851285495524524,0,2,cs,WCE,Europe
 'fb87f7b1be',extremes,Heat Wave,#c40202,wmo,vlna veder hlavní město praha,2026-05-26T06:31:00+00:00,Czechia,0.6747621365554997,0,2,cs,WCE,Europe
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-05-31T06:40:00+00:00,Czechia,0.6738208861310354,0,2,cs,WCE,Europe
-'8884ed166d',extremes,Storm,#b3b2b1,wmo,bouřka karlovarský kraj,2026-05-31T06:40:00+00:00,Czechia,0.6433800774596927,0,2,cs,WCE,Europe
 '4bafd35cda',extremes,Precipitation,#d60d2b,wmo,srážky česko,2026-05-16T05:40:00+00:00,Czechia,0.6392815045532783,0,2,cs,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-05-15T06:09:00+00:00,Czechia,0.626281641558807,1,1,cs,WCE,Europe
-'a116d76fcf',extremes,Heat Wave,#c40202,wmo,vlna veder czechia,2026-05-26T06:31:00+00:00,Czechia,0.6260782774131332,1,1,cs,WCE,Europe
 '162f54cd91',extremes,Drought,#edc291,wmo,drought hlavní město praha,2026-05-26T06:31:00+00:00,Czechia,0.6245677390482889,1,1,cs,WCE,Europe
 '3cbc6bed71',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Česko,2026-05-31T06:40:00+00:00,Czechia,0.6193805296364683,1,1,cs,WCE,Europe
 'cfc43cfb63',extremes,Precipitation,#d60d2b,wmo,přívalové deště česko,2026-05-16T05:40:00+00:00,Czechia,0.6189603246115206,0,2,cs,WCE,Europe
@@ -14,16 +12,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77a2b59d94',extremes,Drought,#edc291,wmo,sucho liberecký kraj česká lípa,2026-05-25T06:53:00+00:00,Czechia,0.5965551634340456,1,1,cs,WCE,Europe
 '886a9ce58b',extremes,Thunderstorm,#53785a,wmo,bouřka czechia,2026-05-31T06:40:00+00:00,Czechia,0.5771194951796835,0,2,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-05-31T06:40:00+00:00,Czechia,0.5677615215526122,0,2,cs,WCE,Europe
-'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-05-27T06:46:00+00:00,Czechia,0.5453516627550976,1,1,cs,WCE,Europe
+'8884ed166d',extremes,Storm,#b3b2b1,wmo,bouřka karlovarský kraj,2026-05-31T06:40:00+00:00,Czechia,0.5468730658407388,1,1,cs,WCE,Europe
+'a116d76fcf',extremes,Heat Wave,#c40202,wmo,vlna veder czechia,2026-05-26T06:31:00+00:00,Czechia,0.5321665358011631,2,1,cs,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-05-27T06:46:00+00:00,Czechia,0.46354891334183296,2,1,cs,WCE,Europe
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,studené kouzlo západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.319318399336074,0,2,cs,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,chladné počasí západní Austrálie,2026-05-28T06:38:00+00:00,Australia,0.3190270171634262,0,2,cs,CAU,Oceania
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře jangmi,2026-05-30T06:01:00+00:00,,0.3190210246836887,0,2,cs,NPO,Pacific Ocean
-'fec57a6213',extremes,Heat Wave,#c40202,cmeter,evropská vlna veder v Paříži,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,2,cs,,
-'3dc98006fe',extremes,Drought,#edc291,acwe,nedostatek deště západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.31873552676385936,0,2,cs,CAU,Oceania
+'3dc98006fe',extremes,Drought,#edc291,acwe,nedostatek deště západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.3187355267638593,0,2,cs,CAU,Oceania
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,vlna veder v Paříži,2026-05-29T06:39:00+00:00,France,0.3184455293375499,0,2,cs,,
-'efa91cca03',extremes,Drought,#edc291,acwe,nízká hladina vody v západní Austrálii,2026-05-28T06:38:00+00:00,Australia,0.31712202113584387,0,2,cs,CAU,Oceania
+'efa91cca03',extremes,Drought,#edc291,acwe,nízká hladina vody v západní Austrálii,2026-05-28T06:38:00+00:00,Australia,0.3171220211358438,0,2,cs,CAU,Oceania
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,studená vlna západní Austrálie,2026-05-29T06:39:00+00:00,Australia,0.3170272289400485,0,2,cs,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,zaplavení Austrálie,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,2,cs,EAU,Oceania
-'3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-05-17T06:01:00+00:00,Australia,0.31407843669705415,0,2,cs,SAU,Oceania
-'02f56319a7',extremes,Flood,#030ba1,aidr,povodeň v Austrálii,2026-05-17T06:01:00+00:00,Australia,0.31257993323002375,0,2,cs,EAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-05-17T06:01:00+00:00,Australia,0.3140784366970541,0,2,cs,SAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,aidr,povodeň v Austrálii,2026-05-17T06:01:00+00:00,Australia,0.3125799332300237,0,2,cs,EAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,povodeň hobart blesková povodeň tasmánie 2018,2026-06-01T07:30:00+00:00,Australia,0.312143027517479,0,2,cs,SAU,Oceania
+'fec57a6213',extremes,Heat Wave,#c40202,cmeter,evropská vlna veder v Paříži,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,cs,,
