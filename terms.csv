@@ -17,3 +17,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-05-27T06:46:00+00:00,Czechia,0.5453516627550976,1,1,cs,WCE,Europe
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,studené kouzlo západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.319318399336074,0,2,cs,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,chladné počasí západní Austrálie,2026-05-28T06:38:00+00:00,Australia,0.3190270171634262,0,2,cs,CAU,Oceania
+'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře jangmi,2026-05-30T06:01:00+00:00,,0.3190210246836887,0,2,cs,NPO,Pacific Ocean
+'fec57a6213',extremes,Heat Wave,#c40202,cmeter,evropská vlna veder v Paříži,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,2,cs,,
+'3dc98006fe',extremes,Drought,#edc291,acwe,nedostatek deště západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.31873552676385936,0,2,cs,CAU,Oceania
+'2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,vlna veder v Paříži,2026-05-29T06:39:00+00:00,France,0.3184455293375499,0,2,cs,,
+'efa91cca03',extremes,Drought,#edc291,acwe,nízká hladina vody v západní Austrálii,2026-05-28T06:38:00+00:00,Australia,0.31712202113584387,0,2,cs,CAU,Oceania
+'100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,studená vlna západní Austrálie,2026-05-29T06:39:00+00:00,Australia,0.3170272289400485,0,2,cs,CAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,aidr,zaplavení Austrálie,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,2,cs,EAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-05-17T06:01:00+00:00,Australia,0.31407843669705415,0,2,cs,SAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,aidr,povodeň v Austrálii,2026-05-17T06:01:00+00:00,Australia,0.31257993323002375,0,2,cs,EAU,Oceania
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,povodeň hobart blesková povodeň tasmánie 2018,2026-06-01T07:30:00+00:00,Australia,0.312143027517479,0,2,cs,SAU,Oceania
