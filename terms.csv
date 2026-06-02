@@ -26,4 +26,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,přívalový déšť Austrálie,2026-05-17T06:01:00+00:00,Australia,0.3140784366970541,0,2,cs,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,aidr,povodeň v Austrálii,2026-05-17T06:01:00+00:00,Australia,0.3125799332300237,0,2,cs,EAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,povodeň hobart blesková povodeň tasmánie 2018,2026-06-01T07:30:00+00:00,Australia,0.312143027517479,0,2,cs,SAU,Oceania
+'6c34512524',extremes,Drought,#edc291,edo,nedostatek deště na Srí Lance,2026-05-16T05:40:00+00:00,Sri Lanka,0.3116385734827698,0,2,cs,BOB,Asia
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,evropská vlna veder bordeaux,2026-05-30T06:01:00+00:00,France,0.31098016415853824,0,2,cs,,
+'9f05eaaf90',extremes,Drought,#edc291,edo,sucho na Islandu,2026-05-21T06:35:00+00:00,Iceland,0.3083985333345354,0,2,cs,GIC,Europe
+'6636b82ba3',extremes,Thunderstorm,#53785a,wmo,bouřka libye,2026-05-25T06:53:00+00:00,Libya,0.3079997501082523,0,2,cs,SAH,Africa
+'70bf96ce01',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí v Libyi,2026-05-26T06:31:00+00:00,Libya,0.30769024611637186,0,2,cs,SAH,Africa
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,déšť Brazílie,2026-05-24T06:22:00+00:00,Brazil,0.3075301606579164,0,2,cs,SAM,South-America
+'5b34407f4a',extremes,Wildfire,#d60d2b,acwe,divoká tasmánie,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,2,cs,SAU,Oceania
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,liják Brazílie,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,2,cs,SAM,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,přívalové deště Ekvádor,2026-05-23T05:53:00+00:00,Ecuador,0.30740102528815866,0,2,cs,NWS,South-America
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,déšť Ekvádor,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,2,cs,NWS,South-America
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,evropská vlna veder v Paříži,2026-05-28T06:38:00+00:00,France,0.271043232462277,1,1,cs,,
