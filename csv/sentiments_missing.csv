@@ -1,20 +1,26 @@
 ,phrase,label,sentiment,subjectivity,language,count
 one,one,CARDINAL,,,en,1.9
-the 19th century,the 19th century,DATE,,,en,1.8
 50,50,CARDINAL,,,en,1.8
+the 19th century,the 19th century,DATE,,,en,1.8
 Saharan,Saharan,NORP,,,en,1.0
-240,240,QUANTITY,,,en,1.0
+thousands,thousands,CARDINAL,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+up to 90 kilometers per hour,up to 90 kilometers per hour,QUANTITY,,,en,1.0
+more than two centimeters,more than two centimeters,QUANTITY,,,en,1.0
+Up to 40 millimeters,Up to 40 millimeters,QUANTITY,,,en,1.0
+Wednesday,Wednesday,DATE,,,en,1.0
+Up to 1.3 meters,Up to 1.3 meters,QUANTITY,,,en,1.0
 March,March,DATE,,,en,1.0
 this week,this week,DATE,,,en,1.0
 the weekend,the weekend,DATE,,,en,1.0
 Friday,Friday,DATE,,,en,1.0
 recent days,recent days,DATE,,,en,1.0
-thousands,thousands,CARDINAL,,,en,1.0
-up to 240 km/h and downpours,up to 240 km/h and downpours,QUANTITY,,,en,1.0
 the end of last week,the end of last week,DATE,,,en,1.0
-Bloody Falls,Bloody Falls,WORK_OF_ART,,,en,1.0
-up to,up to,QUANTITY,,,en,1.0
+up to 240 km/h and downpours,up to 240 km/h and downpours,QUANTITY,,,en,1.0
 "Wednesday, December 3rd","Wednesday, December 3rd",DATE,,,en,1.0
+240,240,QUANTITY,,,en,1.0
+up to,up to,QUANTITY,,,en,1.0
+Bloody Falls,Bloody Falls,WORK_OF_ART,,,en,1.0
 winter,winter,DATE,,,en,1.0
 Fifty below zero,Fifty below zero,CARDINAL,,,en,1.0
 early January,early January,DATE,,,en,1.0
@@ -23,4 +29,4 @@ summer,summer,DATE,,,en,1.0
 6.4,6.4,CARDINAL,,,en,1.0
 Tuesday,Tuesday,DATE,,,en,1.0
 evening,evening,TIME,,,en,1.0
-Up to 1.3 meters,Up to 1.3 meters,QUANTITY,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
