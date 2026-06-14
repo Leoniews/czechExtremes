@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '77a2b59d94',extremes,Drought,#edc291,wmo,sucho liberecký kraj česká lípa,2026-05-25T06:53:00+00:00,Czechia,0.5070718889189387,3,1,cs,WCE,Europe
+'244b4adc07',extremes,Landslide,#572c03,aidr,sesuv půdy austrálie,2026-06-10T06:49:00+00:00,Australia,0.30846016552502953,0,2,cs,EAU,Oceania
+'9c446693a2',extremes,Precipitation,#d60d2b,wmo,déšť Alžírsko,2026-06-10T06:49:00+00:00,Algeria,0.3070985292974553,0,2,cs,SAH,Africa
+'628c73fc75',extremes,Drought,#edc291,edo,sucho polsko,2026-05-25T06:53:00+00:00,Poland,0.3058849596463933,0,2,cs,WCE,Europe
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,déšť Nový Zéland,2026-05-29T06:38:00+00:00,New Zealand,0.30040967221087034,0,2,cs,NZ,Oceania
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,liják Nový Zéland,2026-05-30T06:01:00+00:00,New Zealand,0.3003400815922979,0,2,cs,NZ,Oceania
+'c502575656',extremes,Wildfire,#d60d2b,wmo,divoký požár Jaroslavlská oblast,2026-05-26T06:31:00+00:00,Russia,0.3002339872733748,0,2,cs,ESB,Europe
+'ed5655acf2',extremes,Flood,#030ba1,wmo,povodeň jižní austrálie warburton,2026-05-29T06:38:00+00:00,Australia,0.3002211358829874,0,2,cs,CAU,Oceania
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,vlna horka chile,2026-05-25T06:53:00+00:00,Chile,0.3001866271130127,0,2,cs,SWS,South-America
+'a715281618',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí vanuatu,2026-06-09T06:32:00+00:00,Vanuatu,0.30017895730807936,0,2,cs,SPO,Oceania
+'3a67915e02',extremes,Earthquake,#870007,usgs,zemětřesení peru,2026-06-06T06:08:00+00:00,Peru,0.3001715933219893,0,2,cs,NWS,South-America
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-05-31T06:40:00+00:00,Czechia,0.2989779068497978,5,1,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-05-31T06:40:00+00:00,Czechia,0.2966168897165441,5,1,cs,WCE,Europe
 '103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-06-07T06:48:00+00:00,Czechia,0.2800755071339971,8,1,cs,WCE,Europe
