@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-05-31T06:40:00+00:00,Czechia,0.4207545704938998,4,1,cs,WCE,Europe
 'd1f23017c8',extremes,Thunderstorm,#53785a,wmo,prudké počasí pardubický kraj,2026-06-21T07:16:00+00:00,Czechia,0.419888886224876,1,1,cs,WCE,Europe
 '0d84152660',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí liberecký kraj,2026-06-21T07:16:00+00:00,Czechia,0.4130668768912682,1,1,cs,WCE,Europe
-'3cbc6bed71',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Česko,2026-06-20T06:47:00+00:00,Czechia,0.3986839799710971,3,1,cs,WCE,Europe
 '126fe766f8',extremes,Thunderstorm,#53785a,wmo,vážné počasí hlavní město praha,2026-06-20T06:47:00+00:00,Czechia,0.3818039044375566,2,1,cs,WCE,Europe
 'a8bc728e9d',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí olomoucký kraj,2026-06-21T07:16:00+00:00,Czechia,0.3808322188280545,3,1,cs,WCE,Europe
 'f863f22447',extremes,Storm,#b3b2b1,wmo,bouřkové přepětí plzeňský kraj,2026-06-21T07:16:00+00:00,Czechia,0.3755109759760439,3,1,cs,WCE,Europe
@@ -23,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,bouře Austrálie,2026-06-06T06:08:00+00:00,Australia,0.367565776521325,2,2,cs,CAU,Oceania
 'fc5da5099a',extremes,Heat Wave,#c40202,wmo,vlna veder olomoucký kraj konice prostějov,2026-06-18T07:16:00+00:00,Czechia,0.3647209097254335,5,1,cs,WCE,Europe
 'ce4c27f947',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí královéhradecký kraj,2026-06-21T07:16:00+00:00,Czechia,0.3597807687822854,2,1,cs,WCE,Europe
+'3cbc6bed71',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Česko,2026-06-20T06:47:00+00:00,Czechia,0.3390313979754325,4,1,cs,WCE,Europe
 'fb87f7b1be',extremes,Heat Wave,#c40202,wmo,vlna veder hlavní město praha,2026-06-18T07:16:00+00:00,Czechia,0.3381812714031397,6,1,cs,WCE,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ledovec Antarktida,2026-06-06T06:08:00+00:00,,0.3181531280106593,0,2,cs,,
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,ledovec d33a,2026-06-24T06:29:00+00:00,,0.3177282142465205,0,2,cs,EAN,
@@ -98,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dc98006fe',extremes,Drought,#edc291,acwe,nedostatek deště západní Austrálie,2026-05-27T06:46:00+00:00,Australia,0.2302864180868883,2,1,cs,CAU,Oceania
 '100e8ab2b6',extremes,Cold Wave,#a7e9fa,acwe,studená vlna západní Austrálie,2026-05-29T06:39:00+00:00,Australia,0.229052172909185,2,1,cs,CAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,silný déšť Nový Jižní Wales,2026-06-14T07:07:00+00:00,Australia,0.2280100982543229,2,1,cs,EAU,Oceania
-'acd0e1409b',extremes,Flood,#030ba1,acwe,zaplavení nového jižního Walesu,2026-06-13T06:38:00+00:00,Australia,0.22745569381347,2,1,cs,EAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,mírná zima jižní Austrálie,2026-06-19T07:39:00+00:00,Australia,0.2269717427370962,2,1,cs,CAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,zaplavení jižní Austrálie,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,cs,SAU,Oceania
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,povodeň Tasmánie červen červenec 2016,2026-06-02T07:08:00+00:00,Australia,0.2263139786777642,2,1,cs,SAU,Oceania
@@ -253,6 +252,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,vlna veder v Paříži,2026-05-29T06:39:00+00:00,France,0.1959512742919228,3,2,cs,,
 'cfd153353e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře jangmi,2026-05-30T06:01:00+00:00,,0.1959187867838702,3,1,cs,NPO,Pacific Ocean
 'efa91cca03',extremes,Drought,#edc291,acwe,nízká hladina vody v západní Austrálii,2026-05-28T06:38:00+00:00,Australia,0.19475256123005,3,1,cs,CAU,Oceania
+'acd0e1409b',extremes,Flood,#030ba1,acwe,zaplavení nového jižního Walesu,2026-06-13T06:38:00+00:00,Australia,0.19333733974144948,3,1,cs,EAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,povodeň hobart blesková povodeň tasmánie 2018,2026-06-01T07:30:00+00:00,Australia,0.1916948367741717,3,1,cs,SAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,záplava victoria,2026-06-15T08:36:00+00:00,Australia,0.1914270787796,3,1,cs,SAU,Oceania
 'ecd6c72a27',extremes,Drought,#edc291,edo,nedostatek deště na Madagaskaru,2026-06-01T07:30:00+00:00,Madagascar,0.1902611538768211,3,1,cs,MDG,Africa
