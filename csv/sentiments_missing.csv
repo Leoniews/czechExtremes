@@ -1,23 +1,26 @@
 ,phrase,label,sentiment,subjectivity,language,count
 one,one,CARDINAL,,,en,1.9
 the 19th century,the 19th century,DATE,,,en,1.8
+the weekend,the weekend,DATE,,,en,1.8
+Saturday,Saturday,DATE,,,en,1.8
 50,50,CARDINAL,,,en,1.8
-Saharan,Saharan,NORP,,,en,1.0
-Up to 1.3 meters,Up to 1.3 meters,QUANTITY,,,en,1.0
-Friday,Friday,DATE,,,en,1.0
-the weekend,the weekend,DATE,,,en,1.0
+Up to 40 millimeters,Up to 40 millimeters,QUANTITY,,,en,1.0
 this week,this week,DATE,,,en,1.0
 March,March,DATE,,,en,1.0
+Up to 1.3 meters,Up to 1.3 meters,QUANTITY,,,en,1.0
 Wednesday,Wednesday,DATE,,,en,1.0
-thousands,thousands,CARDINAL,,,en,1.0
-Up to 40 millimeters,Up to 40 millimeters,QUANTITY,,,en,1.0
-more than two centimeters,more than two centimeters,QUANTITY,,,en,1.0
+Saharan,Saharan,NORP,,,en,1.0
+Friday,Friday,DATE,,,en,1.0
 up to 90 kilometers per hour,up to 90 kilometers per hour,QUANTITY,,,en,1.0
 Sunday,Sunday,DATE,,,en,1.0
-Saturday,Saturday,DATE,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+Sunday night,Sunday night,TIME,,,en,1.0
+more than two centimeters,more than two centimeters,QUANTITY,,,en,1.0
+thousands,thousands,CARDINAL,,,en,1.0
 recent days,recent days,DATE,,,en,1.0
-up to 240 km/h and downpours,up to 240 km/h and downpours,QUANTITY,,,en,1.0
 "Wednesday, December 3rd","Wednesday, December 3rd",DATE,,,en,1.0
+up to 240 km/h and downpours,up to 240 km/h and downpours,QUANTITY,,,en,1.0
 the end of last week,the end of last week,DATE,,,en,1.0
 240,240,QUANTITY,,,en,1.0
 up to,up to,QUANTITY,,,en,1.0
