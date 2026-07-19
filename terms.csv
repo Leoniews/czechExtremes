@@ -61,6 +61,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,reg. 3 kordillery,2026-07-15T05:15:00+00:00,Chile,0.3023051772637745,0,2,cs,SWS,South-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,bouřka moosonee,2026-07-14T05:14:00+00:00,Canada,0.3022893278624632,0,2,cs,NEN,North-America
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,vlna horka basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.3022129823394761,0,2,cs,WCE,Europe
+'8db658717e',extremes,Flood,#030ba1,wmo,flashflood Austrálie,2026-07-17T05:27:00+00:00,Australia,0.3021497769831705,0,2,cs,CAU,Oceania
+'195341cfcf',extremes,Wildfire,#d60d2b,wmo,divoký požár tomská oblast,2026-07-15T05:15:00+00:00,Russia,0.3020085425281754,0,2,cs,ESB,Europe
+'96fce9e739',extremes,Flood,#030ba1,wmo,záplava Trinidadu a Tobaga,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.3020076375943224,0,2,cs,NSA,North-America
+'fb2669902d',extremes,Wildfire,#d60d2b,wmo,divoký požár samara region,2026-07-08T05:37:00+00:00,Russia,0.30197300814386985,0,2,cs,ESB,Europe
+'53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,divoký požár irkutská oblast,2026-07-05T06:25:00+00:00,Russia,0.3019547423495157,0,2,cs,ESB,Europe
+'0ad538a863',extremes,Heat Wave,#c40202,wmo,vlna veder ve Švýcarsku,2026-07-08T05:37:00+00:00,Switzerland,0.3019529151667335,0,2,cs,WCE,Europe
+'b923131e8f',extremes,Wildfire,#d60d2b,wmo,divoký požár volgogradská oblast,2026-07-04T05:59:00+00:00,Russia,0.3018790708961645,0,2,cs,ESB,Europe
+'95694d19cf',extremes,Earthquake,#870007,usgs,zemětřesení jemenu,2026-07-18T05:10:00+00:00,Yemen,0.3018323421983234,0,2,cs,ARS,Indian Ocean
+'a23d616ae5',extremes,Wildfire,#d60d2b,wmo,centrum lesních požárů republiky sakha,2026-07-09T06:27:00+00:00,Russia,0.3018267154961766,0,2,cs,ESB,Europe
+'6208652221',extremes,Wildfire,#d60d2b,wmo,divoký požár tuva republika,2026-07-14T05:14:00+00:00,Russia,0.30180168276722974,0,2,cs,ESB,Europe
 '888cff93e9',extremes,Storm,#b3b2b1,wmo,storm surge královéhradecký kraj,2026-06-30T06:39:00+00:00,Czechia,0.3016196612128602,6,1,cs,WCE,Europe
 'a828348731',extremes,Storm,#b3b2b1,wmo,bouře Kostarika,2026-06-30T06:39:00+00:00,Costa Rica,0.3001269790883764,0,2,cs,SCA,North-America
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-07-14T05:14:00+00:00,Czechia,0.2961951134907438,5,1,cs,WCE,Europe
