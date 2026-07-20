@@ -11,7 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5288bbd1c2',extremes,Storm,#b3b2b1,wmo,bouřková přepětí pardubický kraj,2026-07-17T05:27:00+00:00,Czechia,0.4321271726414205,4,1,cs,WCE,Europe
 'c166f3de6c',extremes,Storm,#b3b2b1,wmo,bouřka ústecký kraj,2026-07-14T05:14:00+00:00,Czechia,0.4306965063347067,2,1,cs,WCE,Europe
 '53a80d5e4a',extremes,Thunderstorm,#53785a,wmo,kroupy olomoucký kraj,2026-07-15T05:15:00+00:00,Czechia,0.4264051418005185,1,2,cs,WCE,Europe
-'f509acf827',extremes,Storm,#b3b2b1,wmo,bouře středočeský kraj,2026-06-30T06:39:00+00:00,Czechia,0.42439919422196754,2,1,cs,WCE,Europe
+'f509acf827',extremes,Storm,#b3b2b1,wmo,bouře středočeský kraj,2026-06-30T06:39:00+00:00,Czechia,0.4243991942219675,2,1,cs,WCE,Europe
 '77af13695c',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí liberecký kraj,2026-06-29T07:13:00+00:00,Czechia,0.4240395817128263,2,1,cs,WCE,Europe
 'ca9a25e0aa',extremes,Storm,#b3b2b1,wmo,storm surge jihočeský kraj,2026-06-29T07:13:00+00:00,Czechia,0.4213160550227746,2,1,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-07-14T05:14:00+00:00,Czechia,0.4013904603621951,2,1,cs,WCE,Europe
@@ -41,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5098cb588',extremes,Heat Wave,#c40202,wmo,vlna veder pardubický kraj vysoké mýto,2026-06-30T06:39:00+00:00,Czechia,0.3255328496628617,5,1,cs,WCE,Europe
 '24200eeb75',extremes,Heat Wave,#c40202,wmo,vlna veder zlínský kraj kroměříž,2026-06-28T06:44:00+00:00,Czechia,0.3238111653502378,4,1,cs,WCE,Europe
 '23e255edb1',extremes,Heat Wave,#c40202,wmo,vlna veder jihomoravský kraj,2026-07-16T05:25:00+00:00,Czechia,0.319779757996797,4,1,cs,WCE,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,sucho na Madagaskaru,2026-07-11T05:27:00+00:00,Madagascar,0.30757129103647823,0,2,cs,MDG,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,liják Argentina,2026-07-09T06:27:00+00:00,Argentina,0.306824563456158,0,2,cs,SES,South-America
 '17065d269f',extremes,Drought,#edc291,edo,nedostatek deště Honduras,2026-07-07T06:30:00+00:00,Honduras,0.3067505104862458,2,1,cs,SCA,North-America
 '1956cfff74',extremes,Wildfire,#d60d2b,acwe,zákaz ohně victoria,2026-07-17T05:27:00+00:00,Australia,0.3060521038620575,1,1,cs,SAU,Oceania
@@ -55,9 +56,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,vlna horka val d'hérens,2026-07-14T05:14:00+00:00,Switzerland,0.303357478607527,1,1,cs,WCE,Europe
 '2f1db11aee',extremes,Storm,#b3b2b1,wmo,storm hlavní město praha,2026-06-30T06:39:00+00:00,Czechia,0.3033010776360191,4,1,cs,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,liják Brazílie,2026-07-15T05:15:00+00:00,Brazil,0.3032068301792467,0,2,cs,SAM,South-America
+'95d130fbc5',extremes,Storm,#b3b2b1,wmo,bouře uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.30314900352347246,0,2,cs,SES,South-America
+'de55985e54',extremes,Earthquake,#870007,usgs,zemětřesení hadibu,2026-07-19T05:37:00+00:00,Yemen,0.3030079123335545,0,2,cs,ARS,Indian Ocean
+'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,ledové chile,2026-07-13T05:53:00+00:00,Chile,0.3026289729656364,0,2,cs,SWS,South-America
 '5fbb195efb',extremes,Wildfire,#d60d2b,wmo,divoký požár ulyanovská oblast,2026-07-09T06:27:00+00:00,Russia,0.3026101593462735,1,1,cs,ESB,Europe
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,mlha sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,1,1,cs,NEN,North-America
+'0f045e33e1',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí reg. 4 kordillery,2026-07-19T05:37:00+00:00,Chile,0.30245781711396047,0,2,cs,SWS,South-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,bouře Kanada,2026-07-06T06:52:00+00:00,Canada,0.3024165021571614,0,2,cs,NEN,North-America
+'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,divoký požár saratovský kraj,2026-07-09T06:27:00+00:00,Russia,0.3023464380328074,0,2,cs,ESB,Europe
+'be4e178bab',extremes,Storm,#b3b2b1,wmo,přepětí bouře uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.3022839086417576,0,2,cs,SES,South-America
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,vlna horka basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.302212982339476,1,1,cs,WCE,Europe
+'d19a2e53e5',extremes,Heat Wave,#c40202,wmo,vlna veder moldavsko,2026-07-19T05:37:00+00:00,Moldova,0.3021714540775291,0,2,cs,WCE,Europe
+'d3a5887247',extremes,Storm,#b3b2b1,wmo,zabouří všechny vody vanuatu.,2026-07-15T05:15:00+00:00,Vanuatu,0.3021575191258532,0,2,cs,SPO,Oceania
 '8db658717e',extremes,Flood,#030ba1,wmo,flashflood Austrálie,2026-07-17T05:27:00+00:00,Australia,0.3021497769831705,1,1,cs,CAU,Oceania
 '195341cfcf',extremes,Wildfire,#d60d2b,wmo,divoký požár tomská oblast,2026-07-15T05:15:00+00:00,Russia,0.3020085425281754,0,2,cs,ESB,Europe
 '96fce9e739',extremes,Flood,#030ba1,wmo,záplava Trinidadu a Tobaga,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.3020076375943223,1,1,cs,NSA,North-America
@@ -100,7 +110,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '493c7ff6fb',extremes,Wildfire,#d60d2b,wmo,Moldavská republika s lesními požáry,2026-07-13T05:53:00+00:00,Republic of Moldova,0.2577632520003031,2,1,cs,WCE,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,bouře chile,2026-07-07T06:30:00+00:00,Chile,0.2576938484368667,1,1,cs,SWS,South-America
 '6852666385',extremes,Earthquake,#870007,usgs,zemětřesení přístav mathurin,2026-07-07T06:30:00+00:00,Mauritius,0.2576910676244306,1,1,cs,SIO,Indian Ocean
-'08945238c8',extremes,Snow&Ice,#d60d2b,wmo,sníh chile,2026-07-14T05:14:00+00:00,Chile,0.25763899759277203,2,1,cs,SWS,South-America
+'08945238c8',extremes,Snow&Ice,#d60d2b,wmo,sníh chile,2026-07-14T05:14:00+00:00,Chile,0.257638997592772,2,1,cs,SWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,bouře paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.2575144315135009,1,1,cs,SES,South-America
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,vlna horka val de ruz colombier,2026-07-11T05:27:00+00:00,Switzerland,0.2574126284725409,1,1,cs,WCE,Europe
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst všech vod vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.2573392022497748,1,1,cs,SPO,Oceania
