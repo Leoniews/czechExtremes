@@ -44,6 +44,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1350baf605',extremes,Heat Wave,#c40202,wmo,vlna horka lyss grenchen,2026-07-09T06:27:00+00:00,Switzerland,0.3010878076595841,0,2,cs,WCE,Europe
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,bouře belize,2026-07-15T05:15:00+00:00,Belize,0.3010756463784764,0,2,cs,SCA,North-America
 'faf74e1444',extremes,Drought,#edc291,edo,nedostatek deště republika Kongo,2026-07-13T05:53:00+00:00,Republic of the Congo,0.3010586389323914,0,2,cs,CAF,Africa
+'62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,wildfire penza region,2026-07-09T06:27:00+00:00,Russia,0.3009989176410653,0,2,cs,ESB,Europe
+'ca8d37e30d',extremes,Wildfire,#d60d2b,wmo,wildfire slovinsko severovýchod,2026-07-09T06:27:00+00:00,Slovenia,0.30097696039133887,0,2,cs,WCE,Europe
+'4424a7edaf',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí zátoka sv. george,2026-07-19T05:37:00+00:00,Canada,0.30097431303063027,0,2,cs,NEN,North-America
+'e9fca89019',extremes,Storm,#b3b2b1,wmo,bouře v pobřežních a pobřežních oblastech.,2026-07-13T05:53:00+00:00,Belize,0.30091950969625414,0,2,cs,SCA,North-America
+'520d37d7b0',extremes,Fog,#d60d2b,wmo,mlha bělorusko,2026-07-12T05:43:00+00:00,Belarus,0.3008852245950444,0,2,cs,WCE,Europe
+'213b1f3ceb',extremes,Heat Wave,#c40202,wmo,vlna horka limmattal,2026-07-09T06:27:00+00:00,Switzerland,0.30083740787514196,0,2,cs,WCE,Europe
+'5877d58b55',extremes,Fog,#d60d2b,wmo,mlha ivanovo region,2026-07-12T05:43:00+00:00,Russia,0.30082377658830906,0,2,cs,ESB,Europe
+'97863af4d6',extremes,Earthquake,#870007,usgs,zemětřesení kapitán kuchař,2026-07-11T05:27:00+00:00,Hawaii,0.30081756606635324,0,2,cs,NPO,Pacific Ocean
+'0c65536a96',extremes,Heat Wave,#c40202,wmo,oblast pelagonie vlny veder,2026-07-16T05:25:00+00:00,North Macedonia,0.30080592647960824,0,2,cs,MED,Europe
+'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,mlha čečenská republika,2026-07-13T05:53:00+00:00,Russia,0.3007945731852654,0,2,cs,ESB,Europe
 '472e49482f',extremes,Thunderstorm,#53785a,wmo,bouřka královéhradecký kraj,2026-07-14T05:14:00+00:00,Czechia,0.3006788600637012,3,1,cs,WCE,Europe
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-07-14T05:14:00+00:00,Czechia,0.2961951134907438,5,1,cs,WCE,Europe
 'a116d76fcf',extremes,Heat Wave,#c40202,wmo,vlna veder czechia,2026-07-14T05:14:00+00:00,Czechia,0.2942078520998892,5,1,cs,WCE,Europe
@@ -143,7 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,bouře Jamajka,2026-07-09T06:27:00+00:00,Jamaica,0.2562854966617771,1,1,cs,CAR,North-America
 '184472a9b7',extremes,Heat Wave,#c40202,wmo,vlna veder polog region,2026-07-16T05:25:00+00:00,North Macedonia,0.2562760637859007,1,1,cs,MED,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,bouřka alžírsko,2026-07-05T06:25:00+00:00,Algeria,0.2561845267158186,1,1,cs,SAH,Africa
-'0308bedb90',extremes,Fog,#d60d2b,wmo,mlha černá hora,2026-07-23T05:40:00+00:00,Montenegro,0.25617122651130725,1,1,cs,MED,Europe
+'0308bedb90',extremes,Fog,#d60d2b,wmo,mlha černá hora,2026-07-23T05:40:00+00:00,Montenegro,0.2561712265113072,1,1,cs,MED,Europe
 'c779108988',extremes,Wildfire,#d60d2b,wmo,wildfire slovenia central,2026-07-11T05:27:00+00:00,Slovenia,0.2561457090938657,1,1,cs,WCE,Europe
 '87ce5fed51',extremes,Drought,#edc291,edo,sucho Černá hora,2026-07-18T05:10:00+00:00,Montenegro,0.2560410363762533,1,1,cs,MED,Europe
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst westfjords,2026-07-12T05:43:00+00:00,Iceland,0.2559979402103829,1,1,cs,GIC,Europe
@@ -294,7 +304,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76ad379230',extremes,Earthquake,#870007,usgs,zemětřesení petropavlovsk kamčatskij,2026-06-27T06:08:00+00:00,Russia,0.2180850794948835,3,1,cs,RFE,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,zemětřesení jemenu,2026-07-18T05:10:00+00:00,Yemen,0.2180738672382886,2,1,cs,ARS,Indian Ocean
 'a042df04f6',extremes,Precipitation,#d60d2b,wmo,přívalové deště Thajsko,2026-07-12T05:43:00+00:00,Thailand,0.2180447300436101,2,1,cs,SEA,Asia
-'cf99db758d',extremes,Fog,#d60d2b,wmo,mlha lotyšsko,2026-07-12T05:43:00+00:00,Latvia,0.21803690170419848,2,1,cs,WCE,Europe
+'cf99db758d',extremes,Fog,#d60d2b,wmo,mlha lotyšsko,2026-07-12T05:43:00+00:00,Latvia,0.2180369017041984,2,1,cs,WCE,Europe
 'ce884fadc9',extremes,Earthquake,#870007,usgs,zemětřesení guadeloupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.2180125810070264,2,1,cs,NAO,Atlantic Ocean
 '6d9824bbc0',extremes,Wildfire,#d60d2b,wmo,požár západně od republiky sakha,2026-07-02T06:24:00+00:00,Russia,0.2179843419390205,2,1,cs,ESB,Europe
 'd40e85899a',extremes,Heat Wave,#c40202,wmo,Moldavská republika vlny veder,2026-06-27T06:08:00+00:00,Republic of Moldova,0.2179811869781584,3,1,cs,WCE,Europe
