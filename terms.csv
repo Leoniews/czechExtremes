@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c166f3de6c',extremes,Storm,#b3b2b1,wmo,bouřka ústecký kraj,2026-07-14T05:14:00+00:00,Czechia,0.3111782258268255,6,1,cs,WCE,Europe
+'9d3d1e5f58',extremes,Thunderstorm,#53785a,wmo,drsné počasí Súdán,2026-07-28T05:31:00+00:00,Sudan,0.3088905115052195,0,2,cs,NEAF,Africa
+'563b781620',extremes,Thunderstorm,#53785a,wmo,drsné počasí nigérie,2026-07-28T05:31:00+00:00,Nigeria,0.3085548059572512,0,2,cs,WAF,Africa
+'8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,bouře v Nigérii,2026-07-28T05:31:00+00:00,Nigeria,0.3051908125972906,0,2,cs,WAF,Africa
+'9044bc0335',extremes,Earthquake,#870007,usgs,zemětřesení georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.3046608233045473,0,2,cs,EAO,Atlantic Ocean
+'027da6a4db',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí clarence úžina,2026-07-28T05:31:00+00:00,United States,0.3042186970039595,0,2,cs,CNA,North-America
+'1b98918e9b',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst severní voda.,2026-07-28T05:31:00+00:00,Vanuatu,0.3041574826734187,0,2,cs,SPO,Oceania
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst brazílie,2026-07-18T05:10:00+00:00,Brazil,0.3026515848645918,0,2,cs,SAM,South-America
+'ade1211f3d',extremes,Flood,#030ba1,wmo,záplavové centrum republiky sakha,2026-07-21T05:36:00+00:00,Russia,0.30226936431270324,0,2,cs,ESB,Europe
+'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,wildfire části agder a telemark,2026-07-27T06:05:00+00:00,Norway,0.3022279218269266,0,2,cs,NEU,Europe
 '584710ade2',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí pribilof ostrovy nearshore waters,2026-07-21T05:36:00+00:00,United States,0.3019541755234831,2,1,cs,CNA,North-America
+'6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,mrazivá Austrálie,2026-07-18T05:10:00+00:00,Australia,0.30188638540749524,0,2,cs,CAU,Oceania
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,divoký požár Kemerovo region,2026-07-18T05:10:00+00:00,Russia,0.3018784320610052,1,1,cs,ESB,Europe
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,bouře adak do kiska bering strany,2026-07-10T06:27:00+00:00,United States,0.3018653448887767,1,1,cs,CNA,North-America
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,divoký požár rusko,2026-07-17T05:27:00+00:00,Russia,0.3017721780191439,1,1,cs,ESB,Europe
@@ -164,7 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,mlha spojené státy,2026-06-27T06:08:00+00:00,United States,0.2557928406273203,1,1,cs,CNA,North-America
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,mlha bělorusko,2026-07-12T05:43:00+00:00,Belarus,0.2557524409057877,1,1,cs,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,vlna horka limmattal,2026-07-09T06:27:00+00:00,Switzerland,0.2557117966938706,1,1,cs,WCE,Europe
-'5877d58b55',extremes,Fog,#d60d2b,wmo,mlha ivanovo region,2026-07-12T05:43:00+00:00,Russia,0.25570021010006266,2,1,cs,ESB,Europe
+'5877d58b55',extremes,Fog,#d60d2b,wmo,mlha ivanovo region,2026-07-12T05:43:00+00:00,Russia,0.2557002101000626,2,1,cs,ESB,Europe
 '97863af4d6',extremes,Earthquake,#870007,usgs,zemětřesení kapitán kuchař,2026-07-11T05:27:00+00:00,Hawaii,0.2556949311564002,2,1,cs,NPO,Pacific Ocean
 '0c65536a96',extremes,Heat Wave,#c40202,wmo,oblast pelagonie vlny veder,2026-07-16T05:25:00+00:00,North Macedonia,0.2556850375076669,1,1,cs,MED,Europe
 '630b164795',extremes,Wildfire,#d60d2b,wmo,divoký požár izrael,2026-07-25T05:29:00+00:00,Israel,0.2556841352354816,1,1,cs,MED,Asia
