@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,bouře v Nigérii,2026-07-28T05:31:00+00:00,Nigeria,0.3051908125972906,0,2,cs,WAF,Africa
 '9044bc0335',extremes,Earthquake,#870007,usgs,zemětřesení georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.3046608233045473,0,2,cs,EAO,Atlantic Ocean
+'027da6a4db',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí clarence úžina,2026-07-28T05:31:00+00:00,United States,0.3042186970039595,0,2,cs,CNA,North-America
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst severní voda.,2026-07-28T05:31:00+00:00,Vanuatu,0.3041574826734187,0,2,cs,SPO,Oceania
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst brazílie,2026-07-18T05:10:00+00:00,Brazil,0.3026515848645918,0,2,cs,SAM,South-America
 'ade1211f3d',extremes,Flood,#030ba1,wmo,záplavové centrum republiky sakha,2026-07-21T05:36:00+00:00,Russia,0.3022693643127032,0,2,cs,ESB,Europe
@@ -8,16 +9,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '584710ade2',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí pribilof ostrovy nearshore waters,2026-07-21T05:36:00+00:00,United States,0.3019541755234831,2,1,cs,CNA,North-America
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,mrazivá Austrálie,2026-07-18T05:10:00+00:00,Australia,0.3018863854074952,0,2,cs,CAU,Oceania
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,bouře adak do kiska bering strany,2026-07-10T06:27:00+00:00,United States,0.3018653448887767,1,1,cs,CNA,North-America
+'0077950340',extremes,Wildfire,#d60d2b,wmo,lesní požár norsko,2026-07-18T05:10:00+00:00,Norway,0.30182354580040655,0,2,cs,NEU,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,divoký požár rusko,2026-07-17T05:27:00+00:00,Russia,0.3017721780191439,1,1,cs,ESB,Europe
 '1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,tajfun Hong Kong,2026-07-27T06:05:00+00:00,Hong Kong,0.3015629958812107,1,1,cs,EAS,Asia
+'04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,hurikán hong kong sar čína,2026-07-25T05:29:00+00:00,Hong Kong,0.30145338837697344,0,2,cs,EAS,Asia
+'288e7f4724',extremes,Wildfire,#d60d2b,wmo,divoký požár turukhanskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.3014187854833378,0,2,cs,ESB,Europe
+'7ba1677e33',extremes,Wildfire,#d60d2b,wmo,divoký požár Evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.3013954553330185,0,2,cs,ESB,Europe
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,srážky منطقة منطقة مكة المكرمة الطائف,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3012255510132959,0,2,cs,ARP,Asia
 '5295642073',extremes,Flood,#030ba1,wmo,zaplavení Ruska,2026-07-10T06:27:00+00:00,Russia,0.3011695281338877,1,1,cs,ESB,Europe
+'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,lesní požár novosibirská oblast,2026-07-18T05:10:00+00:00,Russia,0.3011360051359034,0,2,cs,ESB,Europe
 '62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,wildfire penza region,2026-07-09T06:27:00+00:00,Russia,0.3009989176410652,1,1,cs,ESB,Europe
 '44b85ec39d',extremes,Flood,#030ba1,wmo,povodňové centrum republiky sakha,2026-07-19T05:37:00+00:00,Russia,0.3009413319598319,1,1,cs,ESB,Europe
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,bouře v pobřežních a pobřežních oblastech.,2026-07-13T05:53:00+00:00,Belize,0.3009195096962541,1,1,cs,SCA,North-America
 '4edc7586ed',extremes,Flood,#030ba1,wmo,flashflood centrum republiky sakha,2026-07-23T05:40:00+00:00,Russia,0.3009052781189423,0,2,cs,ESB,Europe
+'0006615477',extremes,Precipitation,#d60d2b,wmo,přívalové deště Kanada,2026-07-14T05:14:00+00:00,Canada,0.30076529182128037,0,2,cs,NEN,North-America
+'f3a830d97f',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst severně a západně od ostrova nunivak,2026-07-12T05:43:00+00:00,United States,0.30075814160104164,0,2,cs,CNA,North-America
+'8a947734a5',extremes,Fog,#d60d2b,wmo,mlha vologdská oblast,2026-07-28T05:31:00+00:00,Russia,0.3007563685394777,0,2,cs,ESB,Europe
 '60b2c23708',extremes,Flood,#030ba1,wmo,povodeň tyumenská oblast,2026-07-27T06:05:00+00:00,Russia,0.3006596970210016,0,2,cs,ESB,Europe
 'c9de150e59',extremes,Fog,#d60d2b,wmo,mlha chukotka autonomní okr,2026-07-25T05:29:00+00:00,Russia,0.30062057406855,0,2,cs,ESB,Europe
+'30dd1a71a3',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst saint Matthew island waters,2026-07-21T05:36:00+00:00,United States,0.3005545633680057,0,2,cs,CNA,North-America
 '404a3ce925',extremes,Fog,#d60d2b,wmo,mlha kaliningradská oblast,2026-07-16T05:25:00+00:00,Russia,0.3005502722810017,0,2,cs,ESB,Europe
 '136338a1d6',extremes,Precipitation,#d60d2b,wmo,přívalové deště coah nl,2026-07-12T05:43:00+00:00,Mexico,0.3003765054498438,0,2,cs,NCA,North-America
 'f82258495e',extremes,Flood,#030ba1,wmo,záplava sverdlovské oblasti,2026-07-11T05:27:00+00:00,Russia,0.3003729932274663,0,2,cs,ESB,Europe
