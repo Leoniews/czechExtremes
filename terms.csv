@@ -24,6 +24,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,snow crown range road,2026-07-31T05:51:00+00:00,New Zealand,0.3029868844868537,0,2,cs,NZ,Oceania
 '9f50f80ea2',extremes,Drought,#edc291,edo,období sucha Černá Hora,2026-07-11T05:27:00+00:00,Montenegro,0.3028788775702595,0,2,cs,MED,Europe
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,mrazivý lewis pass sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,2,cs,NZ,Oceania
+'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,mrazivá pouštní cesta sh1,2026-07-31T05:51:00+00:00,New Zealand,0.3027548496479729,0,2,cs,NZ,Oceania
+'d57776053a',extremes,Thunderstorm,#53785a,wmo,bouřka Spojené státy,2026-07-21T05:36:00+00:00,United States,0.30251296654377546,0,2,cs,CNA,North-America
+'02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,wildfire østlandet a části agder,2026-07-27T06:05:00+00:00,Norway,0.30249276373447115,0,2,cs,NEU,Europe
+'1a2c0a270b',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst východní fjordy,2026-07-31T05:51:00+00:00,Iceland,0.3024608720677776,0,2,cs,GIC,Europe
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,bouře přepětí paraguay,2026-07-29T05:37:00+00:00,Paraguay,0.302328227907078,0,2,cs,SES,South-America
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,bouře přepětí Austrálie,2026-07-21T05:36:00+00:00,Australia,0.30232624009176634,0,2,cs,CAU,Oceania
+'c703558933',extremes,Snow&Ice,#d60d2b,wmo,ice dunedin to waitati dálnice sh1,2026-07-31T05:51:00+00:00,New Zealand,0.30220064501606414,0,2,cs,NZ,Oceania
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,mlha spojené státy,2026-07-26T05:46:00+00:00,United States,0.30215581184455353,0,2,cs,CNA,North-America
+'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,mrazivý porters pass sh73,2026-07-31T05:51:00+00:00,New Zealand,0.3021515508876744,0,2,cs,NZ,Oceania
+'bab5de556b',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí wellington,2026-07-29T05:37:00+00:00,New Zealand,0.3020084302866917,0,2,cs,NZ,Oceania
 '584710ade2',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí pribilof ostrovy nearshore waters,2026-07-21T05:36:00+00:00,United States,0.3019541755234831,2,1,cs,CNA,North-America
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,divoký požár rusko,2026-07-17T05:27:00+00:00,Russia,0.3017721780191439,1,1,cs,ESB,Europe
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,srážky منطقة منطقة مكة المكرمة الطائف,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3012255510132959,0,2,cs,ARP,Asia
@@ -251,7 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4be795f03',extremes,Drought,#edc291,edo,nedostatek deště rovníková guinea,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.2203346861334099,2,1,cs,WAF,Africa
 'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,drsné počasí v Bělorusku,2026-07-13T05:53:00+00:00,Belarus,0.2202936227001216,3,1,cs,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst Nový Zéland,2026-07-03T06:09:00+00:00,New Zealand,0.2202696688183308,2,1,cs,NZ,Oceania
-'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,vlna veder na Kypru,2026-07-12T05:43:00+00:00,Cyprus,0.22026926752780981,2,1,cs,MED,Europe
+'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,vlna veder na Kypru,2026-07-12T05:43:00+00:00,Cyprus,0.2202692675278098,2,1,cs,MED,Europe
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,bouře vanuatu,2026-07-02T06:24:00+00:00,Vanuatu,0.2202137129770267,2,1,cs,SPO,Oceania
 '31919931b3',extremes,Landslide,#572c03,wmo,rockslide čína,2026-07-03T06:09:00+00:00,China,0.2201724836667038,2,1,cs,EAS,Asia
 '9044bc0335',extremes,Earthquake,#870007,usgs,zemětřesení georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.2201174448375354,2,1,cs,EAO,Atlantic Ocean
