@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc
-the Czech Republic,the Czech Republic,GPE,0.42066667,0.79066667,en,5.00000000,,6986495,T,28.44912000,56.84917000,ASIA,Iran,WCA
+the Czech Republic,the Czech Republic,GPE,0.29343434,0.84646465,en,6.60000000,,6986495,T,28.44912000,56.84917000,ASIA,Iran,WCA
 Australia,Australia,GPE,0.10277778,0.55000000,en,4.20000000,4003900-6,2077456,A,-25.00000000,135.00000000,OCEANIA,Australia,CAU
 Japan,Japan,GPE,0.11282051,0.21282051,en,2.60000000,4028495-5,1861060,A,35.68536000,139.75309000,ASIA,Japan,EAS
 US,US,GPE,0.03846154,0.15384615,en,2.60000000,,0,,,,,,
