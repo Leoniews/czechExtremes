@@ -1,9 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ff2f7489b5',extremes,Heat Wave,#c40202,wmo,vlna veder plzeňský kraj,2026-07-29T05:37:00+00:00,Czechia,0.6548830387881316,0,2,cs,WCE,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,sucho czechia,2026-08-03T05:58:00+00:00,Czechia,0.5425491314420156,3,1,cs,WCE,Europe
 '4f5d37065f',extremes,Heat Wave,#c40202,wmo,vlna veder pardubický kraj,2026-07-29T05:37:00+00:00,Czechia,0.5415850559590866,2,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho česko,2026-08-07T09:56:00+00:00,Czechia,0.3259236817189649,7,1,cs,WCE,Europe
 'e4d935496a',extremes,Heat Wave,#c40202,wmo,vlna veder středočeský kraj,2026-07-29T05:37:00+00:00,Czechia,0.3253134512531155,3,1,cs,WCE,Europe
 'a116d76fcf',extremes,Heat Wave,#c40202,wmo,vlna veder czechia,2026-08-03T05:57:00+00:00,Czechia,0.3211401298966361,6,1,cs,WCE,Europe
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,divoký požár turecký mardin,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,2,cs,WCA,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,bushfire n.a. Tunisko,2026-08-07T11:06:00+00:00,Tunisia,0.3197562353166394,1,1,cs,MED,Africa
 '0f5047d744',extremes,Wildfire,#d60d2b,effis,bushfire tulcea rumunsko,2026-08-07T09:56:00+00:00,Romania,0.3197561865609822,1,1,cs,MED,Europe
 '8fac42b03a',extremes,Wildfire,#d60d2b,effis,divoký požár kahramanmaraş krůta,2026-08-07T11:06:00+00:00,Turkey,0.3197560818932606,1,1,cs,MED,Asia
@@ -14,13 +16,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71c228acb5',extremes,Wildfire,#d60d2b,effis,divoký ohnivý krocan,2026-08-07T09:56:00+00:00,Turkey,0.3197550392879362,1,1,cs,MED,Asia
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,bushfire chorvatsko,2026-08-07T11:06:00+00:00,Croatia,0.3197541634697096,2,1,cs,WCE,Europe
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,krůtí krůta,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,1,1,cs,MED,Asia
+'51639203d2',extremes,Wildfire,#d60d2b,effis,divoký požár denizli krůta,2026-08-07T11:06:00+00:00,Turkey,0.31975366421896445,0,2,cs,MED,Asia
+'44e28cc926',extremes,Wildfire,#d60d2b,effis,bushfire portugalsko,2026-08-07T09:56:00+00:00,Portugal,0.31975249171020353,0,2,cs,MED,Europe
+'3ca745d421',extremes,Wildfire,#d60d2b,effis,Bushfire Alžírsko,2026-08-07T09:56:00+00:00,Algeria,0.31975221254248537,0,2,cs,MED,Africa
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,divoký požár Tunisko,2026-08-07T09:56:00+00:00,Tunisia,0.31975213354155363,0,2,cs,MED,Africa
+'5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildfire španělsko,2026-08-07T09:56:00+00:00,Spain,0.3197520416149289,0,2,cs,MED,Europe
+'66954ee37f',extremes,Wildfire,#d60d2b,effis,lesní požár v Bosně a Hercegovině,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.31975183535011564,0,2,cs,MED,Europe
+'4595f49a65',extremes,Wildfire,#d60d2b,effis,divoký oheň španělsko,2026-08-07T11:06:00+00:00,Spain,0.3197515722327485,0,2,cs,MED,Europe
+'c759e791c4',extremes,Wildfire,#d60d2b,effis,požár v maďarsku,2026-08-07T11:06:00+00:00,Hungary,0.31975136838617346,0,2,cs,WCE,Europe
 '3cbc6bed71',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí Česko,2026-08-06T05:33:00+00:00,Czechia,0.3164829722636205,5,1,cs,WCE,Europe
 '699a4ff715',extremes,Wildfire,#d60d2b,meteo,lesní požár czechia,2026-08-08T03:51:00+00:00,Czechia,0.3156143768634415,8,1,cs,WCE,Europe
 'fe07b8547c',extremes,Drought,#edc291,edo,sucho czechia,2026-07-22T05:35:00+00:00,Czechia,0.3148552458486925,6,1,cs,WCE,Europe
 '51c90d8cfd',extremes,Heat Wave,#c40202,meteo,vysokoteplotní Česko,2026-08-09T03:59:00+00:00,Czechia,0.3142006824260013,4,1,cs,WCE,Europe
 'ce4c27f947',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí královéhradecký kraj,2026-08-06T05:33:00+00:00,Czechia,0.3025054117311767,5,1,cs,WCE,Europe
 'aab7909052',extremes,Fog,#d60d2b,wmo,mlha izrael,2026-07-24T05:36:00+00:00,Israel,0.3024430833995157,4,1,cs,MED,Asia
-'7c01041a39',extremes,Wildfire,#d60d2b,meteo,wildfire czechia,2026-08-11T04:01:00+00:00,Czechia,0.30023857991425407,6,1,cs,WCE,Europe
+'7c01041a39',extremes,Wildfire,#d60d2b,meteo,wildfire czechia,2026-08-11T04:01:00+00:00,Czechia,0.300238579914254,6,1,cs,WCE,Europe
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-08-06T05:33:00+00:00,Czechia,0.2995944998208122,5,1,cs,WCE,Europe
 '2c2f0593b1',extremes,Thunderstorm,#53785a,wmo,bouřka zlínský kraj,2026-07-15T05:15:00+00:00,Czechia,0.2910108356588408,3,1,cs,WCE,Europe
 'd79a2c26b2',extremes,Heat Wave,#c40202,wmo,vlna veder plzeňský kraj tachov,2026-07-31T05:51:00+00:00,Czechia,0.2900509897043033,7,1,cs,WCE,Europe
@@ -31,7 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e57a0bdbc',extremes,Heat Wave,#c40202,wmo,vlna veder plzeňský kraj domažlice tachov,2026-07-29T05:37:00+00:00,Czechia,0.2775467459375852,5,1,cs,WCE,Europe
 '886a9ce58b',extremes,Thunderstorm,#53785a,wmo,bouřka czechia,2026-08-06T05:33:00+00:00,Czechia,0.277450816035294,4,1,cs,WCE,Europe
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,divoký požár nabi youcheaa libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2717928057572668,1,1,cs,MED,Asia
-'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,divoký požár habbouche libanon,2026-08-07T11:06:00+00:00,Lebanon,0.27179280255300614,2,1,cs,MED,Asia
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,divoký požár habbouche libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2717928025530061,2,1,cs,MED,Asia
 '71f51c063c',extremes,Wildfire,#d60d2b,effis,wildfire bazouriat libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2717927927611001,1,1,cs,MED,Asia
 'e2fcf07849',extremes,Wildfire,#d60d2b,effis,divoký požár elazığ krůta,2026-08-07T11:06:00+00:00,Turkey,0.2717927887349829,1,1,cs,MED,Asia
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,divoký požár tulcea rumunsko,2026-08-07T09:56:00+00:00,Romania,0.2717927879560476,2,1,cs,MED,Europe
@@ -95,7 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,vlna veder nidau ins,2026-07-10T06:27:00+00:00,Switzerland,0.2551075034743495,1,1,cs,WCE,Europe
 '3e1f1cf827',extremes,Fog,#d60d2b,wmo,mlha brjanská oblast,2026-07-15T05:15:00+00:00,Russia,0.2550899510880935,2,1,cs,ESB,Europe
 'aefe75f424',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí jihočeský kraj,2026-07-17T05:27:00+00:00,Czechia,0.2530716793540274,4,1,cs,WCE,Europe
-'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-08-06T05:33:00+00:00,Czechia,0.24984734764987815,6,1,cs,WCE,Europe
+'5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-08-06T05:33:00+00:00,Czechia,0.2498473476498781,6,1,cs,WCE,Europe
 '2fa0d3dc61',extremes,Thunderstorm,#53785a,wmo,nepříznivé počasí zlínský kraj,2026-07-19T05:37:00+00:00,Czechia,0.248733843150659,4,1,cs,WCE,Europe
 '554bbaf512',extremes,Heat Wave,#c40202,wmo,vlna veder liberecký kraj česká lípa,2026-08-03T05:57:00+00:00,Czechia,0.2482494916113531,7,1,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-06T05:33:00+00:00,Czechia,0.2454491240969434,5,1,cs,WCE,Europe
@@ -135,7 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8cbdb17397',extremes,Wildfire,#d60d2b,effis,divoký oheň médio tejo portugal,2026-08-07T11:06:00+00:00,Portugal,0.2310238549317666,2,1,cs,MED,Europe
 '718485342e',extremes,Wildfire,#d60d2b,effis,wildfire konjic bosna and hercegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2310238397153456,2,1,cs,MED,Europe
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,divoký požár ankoune libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2310238190180766,3,1,cs,MED,Asia
-'3617de9e43',extremes,Wildfire,#d60d2b,effis,divoký požár Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.23102188933209003,2,1,cs,MED,Asia
+'3617de9e43',extremes,Wildfire,#d60d2b,effis,divoký požár Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.23102188933209,2,1,cs,MED,Asia
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,bouře silný vítr a srážky victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2280163502552294,3,1,cs,SAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,supertajfun delfín,2026-07-30T05:24:00+00:00,,0.2261474460217122,3,1,cs,NPO,Pacific Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,tasmánský požár,2026-07-30T05:24:00+00:00,Australia,0.2260472785390222,2,1,cs,SAU,Oceania
@@ -243,7 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,divoký požár khanty mansi autonomní oblast,2026-07-20T05:54:00+00:00,Russia,0.2179996536599756,2,1,cs,ESB,Europe
 'd98aa38709',extremes,Fog,#d60d2b,wmo,mlha Saúdská Arábie,2026-07-18T05:10:00+00:00,Saudi Arabia,0.2179941543896176,2,1,cs,ARP,Asia
 '516cca4753',extremes,Storm,#b3b2b1,wmo,bouřkový nárůst canterbury high country,2026-07-29T05:37:00+00:00,New Zealand,0.2179837970619648,3,1,cs,NZ,Oceania
-'997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-07-18T05:10:00+00:00,Argentina,0.21798205289981545,2,1,cs,SOO,Antarctica
+'997a2e2157',extremes,Earthquake,#870007,usgs,zemětřesení v Argentině,2026-07-18T05:10:00+00:00,Argentina,0.2179820528998154,2,1,cs,SOO,Antarctica
 '5bbe9f422e',extremes,Thunderstorm,#53785a,wmo,krupobití tomská oblast,2026-07-25T05:29:00+00:00,Russia,0.217975870082638,3,1,cs,ESB,Europe
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,pevnost vlny veder region dobré naděje,2026-07-21T05:36:00+00:00,Canada,0.2179222531895282,2,1,cs,NEN,North-America
 '5670a1ef99',extremes,Wildfire,#d60d2b,wmo,divoký požár Altajský kraj,2026-07-17T05:27:00+00:00,Russia,0.2179156031832715,3,1,cs,ESB,Europe
@@ -295,7 +305,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b28cc14529',extremes,Heat Wave,#c40202,wmo,vlna veder jihočeský kraj,2026-08-02T05:42:00+00:00,Czechia,0.1985829432086169,8,1,cs,WCE,Europe
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,divoký požár sarafend libanon,2026-08-07T11:06:00+00:00,Lebanon,0.1963703059181898,3,1,cs,MED,Asia
 '9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,bushfire bab berred maroko,2026-08-07T09:56:00+00:00,Morocco,0.1963702979953197,3,1,cs,MED,Africa
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,bouře melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.19356492896808866,3,1,cs,SAU,Oceania
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,bouře melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.1935649289680886,3,1,cs,SAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2026-07-22T05:35:00+00:00,Australia,0.1932275771289079,3,1,cs,EAU,Oceania
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,mráz Argentina,2026-07-21T05:36:00+00:00,Argentina,0.1902421194833994,3,1,cs,SES,South-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,bouřka ghana,2026-07-23T05:40:00+00:00,Ghana,0.1897837414332525,3,1,cs,WAF,Africa
