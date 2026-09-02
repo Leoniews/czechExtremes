@@ -29,8 +29,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8539144296',extremes,Wildfire,#d60d2b,effis,wild fire црна гора montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.3154730564244714,0,2,cs,MED,Europe
 '2f03e0c694',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.3154689456568504,0,2,cs,MED,Africa
 'e7b18ddef5',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Ukrajina,2026-08-27T13:00:00+00:00,Ukraine,0.3154555051772442,0,2,cs,WCE,Europe
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,wildfire rumunsko,2026-08-27T13:00:00+00:00,Romania,0.31543381786825375,0,2,cs,WCE,Europe
 '92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.3154083392908405,0,2,cs,MED,Europe
 '632add50e7',extremes,Wildfire,#d60d2b,effis,lesní požár јабланичка област srbsko,2026-08-14T04:24:00+00:00,Serbia,0.315402892174005,0,2,cs,MED,Europe
+'690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.3153887945479376,0,2,cs,MED,Europe
+'87c8f62f6d',extremes,Wildfire,#d60d2b,effis,divoký požár chorvatsko,2026-08-15T03:13:00+00:00,Croatia,0.3153549826429818,0,2,cs,MED,Europe
+'7f79466631',extremes,Wildfire,#d60d2b,effis,bushfire trebinje bosna and hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3152945382894207,0,2,cs,MED,Europe
+'f93df854ee',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.31528287847660563,0,2,cs,MED,Europe
+'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,divoký požár dubrovačko neretvanska županija chorvatsko,2026-08-27T13:00:00+00:00,Croatia,0.3152809345346262,0,2,cs,MED,Europe
+'fcaebcf157',extremes,Wildfire,#d60d2b,effis,bushfire n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.31525656994322004,0,2,cs,MED,Africa
+'dd25cffe03',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.3152414082175976,0,2,cs,MED,Africa
+'8a66cd48ef',extremes,Wildfire,#d60d2b,effis,divoký požár alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.315232717290989,0,2,cs,MED,Africa
+'0e210e66dd',extremes,Wildfire,#d60d2b,effis,lesní požár полошки Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.31522009786465294,0,2,cs,MED,Europe
 '842c17c931',extremes,Thunderstorm,#53785a,wmo,bouřka karlovarský kraj,2026-08-28T14:32:00+00:00,Czechia,0.3124593229622242,3,1,cs,WCE,Europe
 'c831caf675',extremes,Thunderstorm,#53785a,wmo,bouřka hlavní město praha,2026-08-28T14:32:00+00:00,Czechia,0.2953119664369498,3,1,cs,WCE,Europe
 '23e255edb1',extremes,Heat Wave,#c40202,wmo,vlna veder jihomoravský kraj,2026-08-15T03:13:00+00:00,Czechia,0.2896135593383671,6,1,cs,WCE,Europe
