@@ -1,5 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-27T13:00:00+00:00,Czechia,0.41753439277306287,7,1,cs,WCE,Europe
+'103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-08-16T03:28:00+00:00,Czechia,0.7167698479510316,0,2,cs,WCE,Europe
+'886a9ce58b',extremes,Thunderstorm,#53785a,wmo,bouřka czechia,2026-08-27T13:00:00+00:00,Czechia,0.6735485051213754,0,2,cs,WCE,Europe
+'ad75bcffcf',extremes,Heat Wave,#c40202,wmo,vlna veder zlínský kraj valašské meziříčí,2026-08-15T03:13:00+00:00,Czechia,0.6622828376278628,0,2,cs,WCE,Europe
+'5288bbd1c2',extremes,Storm,#b3b2b1,wmo,bouřková přepětí pardubický kraj,2026-08-21T03:30:00+00:00,Czechia,0.6610776851926196,0,2,cs,WCE,Europe
+'8411b7100b',extremes,Heat Wave,#c40202,wmo,vlna veder olomoucký kraj šumperk,2026-08-16T03:28:00+00:00,Czechia,0.6557376989634903,0,2,cs,WCE,Europe
+'2763a9dd9f',extremes,Thunderstorm,#53785a,wmo,bouřka jihomoravský kraj boskovice,2026-08-28T14:32:00+00:00,Czechia,0.4900747891369546,0,2,cs,WCE,Europe
+'b2bc6c46e7',extremes,Thunderstorm,#53785a,wmo,bouřka pardubický kraj,2026-08-28T14:32:00+00:00,Czechia,0.4895980720822425,0,2,cs,WCE,Europe
+'1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-27T13:00:00+00:00,Czechia,0.4175343927730628,7,1,cs,WCE,Europe
 '0ee5aeebac',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj dačice,2026-08-20T03:26:00+00:00,Czechia,0.4166268184288152,1,1,cs,WCE,Europe
 '4da4f95ccf',extremes,Storm,#b3b2b1,meteo,vítr česko,2026-08-30T08:29:00+00:00,Czechia,0.411670909835913,2,1,cs,WCE,Europe
 '38b61635d9',extremes,Storm,#b3b2b1,wmo,storm surge hlavní město praha,2026-08-27T13:00:00+00:00,Czechia,0.4073849676897957,3,1,cs,WCE,Europe
@@ -12,6 +19,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4aef47c0b',extremes,Heat Wave,#c40202,wmo,vlna veder královéhradecký kraj jaroměř,2026-08-15T03:13:00+00:00,Czechia,0.3422565367784047,4,1,cs,WCE,Europe
 'c4d1bfe8c5',extremes,Heat Wave,#c40202,wmo,vlna veder ústecký kraj rumburk varnsdorf,2026-08-15T03:13:00+00:00,Czechia,0.3219355942733776,4,1,cs,WCE,Europe
 'ff1eb14a42',extremes,Thunderstorm,#53785a,wmo,bouřka liberecký kraj,2026-08-27T13:00:00+00:00,Czechia,0.3194334019084941,3,1,cs,WCE,Europe
+'690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.3153887945479376,0,2,cs,MED,Europe
+'dd25cffe03',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.3152414082175976,0,2,cs,MED,Africa
+'8b9b805fcc',extremes,Wildfire,#d60d2b,effis,lesní požár v norsku,2026-08-27T13:00:00+00:00,Norway,0.31520846551293796,0,2,cs,NEU,Europe
 '842c17c931',extremes,Thunderstorm,#53785a,wmo,bouřka karlovarský kraj,2026-08-28T14:32:00+00:00,Czechia,0.3124593229622242,3,1,cs,WCE,Europe
 '7c01041a39',extremes,Wildfire,#d60d2b,meteo,wildfire czechia,2026-08-11T04:01:00+00:00,Czechia,0.300238579914254,4,1,cs,WCE,Europe
 'c831caf675',extremes,Thunderstorm,#53785a,wmo,bouřka hlavní město praha,2026-08-28T14:32:00+00:00,Czechia,0.2953119664369498,3,1,cs,WCE,Europe
