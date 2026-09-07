@@ -1,6 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 The Czech Hydrometeorological Institute,The Czech Hydrometeorological Institute,ORG,0.05787037037037037,0.3472222222222222,en,1.8
 ČHMÚ,ČHMÚ,ORG,0.3171296296296296,0.3425925925925926,en,1.8
+summer&#8220,summer&#8220,ORG,0.5555555555555556,0.2777777777777778,en,1.8
 Teplice,Teplice,ORG,0.0,0.0,en,1.0
 the US Northeast,the US Northeast,ORG,-0.03787878787878788,0.0,en,1.0
 Narelle,Narelle,ORG,0.0,0.0,en,1.0
+the Czech Hydrometeorological Institute,the Czech Hydrometeorological Institute,ORG,0.08888888888888886,0.0,en,1.0
