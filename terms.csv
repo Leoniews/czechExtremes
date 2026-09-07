@@ -1,7 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-08-28T14:32:00+00:00,Czechia,0.5843691715633793,1,1,cs,WCE,Europe
+'4bafd35cda',extremes,Precipitation,#d60d2b,meteo,srážky česko,2026-08-22T03:22:00+00:00,Czechia,0.5382154122318826,0,2,cs,WCE,Europe
 '8c7d32ca7d',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj,2026-08-21T03:30:00+00:00,Czechia,0.4313418800169931,1,1,cs,WCE,Europe
-'0ee5aeebac',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj dačice,2026-08-20T03:26:00+00:00,Czechia,0.41662681842881527,1,1,cs,WCE,Europe
+'0ee5aeebac',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj dačice,2026-08-20T03:26:00+00:00,Czechia,0.4166268184288152,1,1,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-27T13:00:00+00:00,Czechia,0.3726938762785379,9,1,cs,WCE,Europe
 '38b61635d9',extremes,Storm,#b3b2b1,wmo,storm surge hlavní město praha,2026-08-27T13:00:00+00:00,Czechia,0.3462772225363263,4,1,cs,WCE,Europe
 '23e255edb1',extremes,Heat Wave,#c40202,wmo,vlna veder jihomoravský kraj,2026-08-15T03:13:00+00:00,Czechia,0.3400673047310569,4,1,cs,WCE,Europe
@@ -10,6 +11,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,divoký požár Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.3159306188222281,0,2,cs,MED,Africa
 '66954ee37f',extremes,Wildfire,#d60d2b,effis,lesní požár v Bosně a Hercegovině,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3157056739695801,0,2,cs,MED,Europe
 'df6e516080',extremes,Wildfire,#d60d2b,effis,Bushfire Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.315553600182234,0,2,cs,MED,Africa
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.31552219715436786,0,2,cs,MED,Africa
+'fed99381dc',extremes,Wildfire,#d60d2b,effis,bushfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.3154521030269896,0,2,cs,MED,Africa
+'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.31540833929084056,0,2,cs,MED,Europe
+'1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire rumunsko,2026-08-27T13:00:00+00:00,Romania,0.315368035266754,0,2,cs,MED,Europe
+'14a41389eb',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.31533158436928965,0,2,cs,MED,Europe
+'38656f3f26',extremes,Wildfire,#d60d2b,effis,divoký požár alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.3151046227124517,0,2,cs,MED,Africa
+'4ff9a5d897',extremes,Wildfire,#d60d2b,effis,divoký požár srbsko,2026-08-27T13:00:00+00:00,Serbia,0.3147877139858354,0,2,cs,MED,Europe
+'bb9fc4a92f',extremes,Wildfire,#d60d2b,effis,divoký požár црна гора црна гора n.a.,2026-08-27T13:00:00+00:00,Montenegro,0.3146022061171694,0,2,cs,MED,Europe
+'f328b11905',extremes,Wildfire,#d60d2b,effis,lesní požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.3145406670679385,0,2,cs,MED,Europe
 '4da4f95ccf',extremes,Storm,#b3b2b1,meteo,vítr česko,2026-08-30T08:29:00+00:00,Czechia,0.3039272787363133,5,1,cs,WCE,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,sucho čeština,2026-08-28T14:32:00+00:00,Czechia,0.302918189030351,5,1,cs,WCE,Europe
 'ad75bcffcf',extremes,Heat Wave,#c40202,wmo,vlna veder zlínský kraj valašské meziříčí,2026-08-15T03:13:00+00:00,Czechia,0.2938584134330576,5,1,cs,WCE,Europe
@@ -19,7 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d1bfe8c5',extremes,Heat Wave,#c40202,wmo,vlna veder ústecký kraj rumburk varnsdorf,2026-08-15T03:13:00+00:00,Czechia,0.2736452551323709,5,1,cs,WCE,Europe
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán marie,2026-09-04T07:23:00+00:00,,0.2705441965900884,1,2,cs,NPO,Pacific Ocean
 '5d8eac8c54',extremes,Storm,#b3b2b1,wmo,bouře česko,2026-08-27T13:00:00+00:00,Czechia,0.2700995189905842,6,1,cs,WCE,Europe
-'a320301f76',extremes,Wildfire,#d60d2b,effis,divoký požár Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.26859383453613855,1,1,cs,MED,Africa
+'a320301f76',extremes,Wildfire,#d60d2b,effis,divoký požár Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.2685938345361385,1,1,cs,MED,Africa
 '3438303391',extremes,Wildfire,#d60d2b,effis,bushfire Černá Hora,2026-08-27T13:00:00+00:00,Montenegro,0.2683817899473092,1,1,cs,MED,Europe
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.2682206737089163,1,1,cs,MED,Africa
 '842c17c931',extremes,Thunderstorm,#53785a,wmo,bouřka karlovarský kraj,2026-08-28T14:32:00+00:00,Czechia,0.2655904245178905,4,1,cs,WCE,Europe
