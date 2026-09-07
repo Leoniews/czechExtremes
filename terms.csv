@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'dc2bec2327',extremes,Storm,#b3b2b1,wmo,bouřkový přepětí czechia,2026-08-28T14:32:00+00:00,Czechia,0.5843691715633793,1,1,cs,WCE,Europe
-'4bafd35cda',extremes,Precipitation,#d60d2b,meteo,srážky česko,2026-08-22T03:22:00+00:00,Czechia,0.5382154122318826,0,2,cs,WCE,Europe
+'4bafd35cda',extremes,Precipitation,#d60d2b,meteo,srážky česko,2026-08-22T03:22:00+00:00,Czechia,0.4754999020637669,1,2,cs,WCE,Europe
 '8c7d32ca7d',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj,2026-08-21T03:30:00+00:00,Czechia,0.4313418800169931,1,1,cs,WCE,Europe
 '0ee5aeebac',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj dačice,2026-08-20T03:26:00+00:00,Czechia,0.4166268184288152,1,1,cs,WCE,Europe
 '1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-27T13:00:00+00:00,Czechia,0.3726938762785379,9,1,cs,WCE,Europe
@@ -11,11 +11,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,divoký požár Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.3159306188222281,0,2,cs,MED,Africa
 '66954ee37f',extremes,Wildfire,#d60d2b,effis,lesní požár v Bosně a Hercegovině,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3157056739695801,0,2,cs,MED,Europe
 'df6e516080',extremes,Wildfire,#d60d2b,effis,Bushfire Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.315553600182234,0,2,cs,MED,Africa
-'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.31552219715436786,0,2,cs,MED,Africa
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.3155221971543678,0,2,cs,MED,Africa
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,bushfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.3154521030269896,0,2,cs,MED,Africa
-'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.31540833929084056,0,2,cs,MED,Europe
+'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.3154083392908405,0,2,cs,MED,Europe
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire rumunsko,2026-08-27T13:00:00+00:00,Romania,0.315368035266754,0,2,cs,MED,Europe
-'14a41389eb',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.31533158436928965,0,2,cs,MED,Europe
+'14a41389eb',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.3153315843692896,0,2,cs,MED,Europe
 '38656f3f26',extremes,Wildfire,#d60d2b,effis,divoký požár alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.3151046227124517,0,2,cs,MED,Africa
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,divoký požár srbsko,2026-08-27T13:00:00+00:00,Serbia,0.3147877139858354,0,2,cs,MED,Europe
 'bb9fc4a92f',extremes,Wildfire,#d60d2b,effis,divoký požár црна гора црна гора n.a.,2026-08-27T13:00:00+00:00,Montenegro,0.3146022061171694,0,2,cs,MED,Europe
