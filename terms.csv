@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'1a3eabe822',extremes,Thunderstorm,#53785a,wmo,kroupy Česko,2026-08-27T13:00:00+00:00,Czechia,0.7001438075230934,0,2,cs,WCE,Europe
+'103eea7ff7',extremes,Drought,#edc291,edo,nedostatek deště czechia,2026-09-07T07:29:00+00:00,Czechia,0.6237165932722164,0,2,cs,WCE,Europe
+'a116d76fcf',extremes,Heat Wave,#c40202,meteo,vlna veder czechia,2026-09-08T07:23:00+00:00,Czechia,0.6079167183017773,0,2,cs,WCE,Europe
+'480f6dec5a',extremes,Flood,#030ba1,wmo,povodeň hlavní město praha,2026-08-22T03:22:00+00:00,Czechia,0.5659885970506425,0,2,cs,WCE,Europe
+'0ee5aeebac',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj dačice,2026-08-20T03:26:00+00:00,Czechia,0.4901491981515474,0,2,cs,WCE,Europe
+'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,wildfire n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.31552219715436786,0,2,cs,MED,Africa
+'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.31540833929084056,0,2,cs,MED,Europe
+'be6a55ce29',extremes,Wildfire,#d60d2b,effis,bushfire црна гора Černá Hora,2026-08-27T13:00:00+00:00,Montenegro,0.31419988441716906,0,2,cs,MED,Europe
+'56898792ff',extremes,Precipitation,#d60d2b,acwe,silný déšť Tasmánie,2026-08-22T03:22:00+00:00,Australia,0.3141218930718822,0,2,cs,SAU,Oceania
+'fface4daec',extremes,Wildfire,#d60d2b,effis,lesní požár Bosna a Hercegovina Trebinje n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.3140603301008725,0,2,cs,MED,Europe
 '8c7d32ca7d',extremes,Thunderstorm,#53785a,wmo,kroupy jihočeský kraj,2026-08-21T03:30:00+00:00,Czechia,0.3116445083122774,3,1,cs,WCE,Europe
 '4bafd35cda',extremes,Precipitation,#d60d2b,meteo,srážky česko,2026-08-22T03:22:00+00:00,Czechia,0.3086808913090774,4,1,cs,WCE,Europe
 '4da4f95ccf',extremes,Storm,#b3b2b1,meteo,vítr česko,2026-08-30T08:29:00+00:00,Czechia,0.3039272787363133,5,1,cs,WCE,Europe
@@ -72,7 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '234332b213',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře cristobal,2026-08-13T04:26:00+00:00,,0.1951955033761269,3,1,cs,NAO,Atlantic Ocean
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře nížina,2026-08-31T08:51:00+00:00,,0.1951826831942062,3,1,cs,NPO,Pacific Ocean
 '5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře moke,2026-08-25T03:27:00+00:00,,0.1950028102901095,3,1,cs,NPO,Pacific Ocean
-'41cf97a25b',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře lala,2026-08-14T04:24:00+00:00,,0.19476037541591806,3,1,cs,NPO,Pacific Ocean
+'41cf97a25b',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře lala,2026-08-14T04:24:00+00:00,,0.194760375415918,3,1,cs,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře bang lang,2026-08-31T08:51:00+00:00,,0.1946502590667652,3,1,cs,NPO,Pacific Ocean
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře iselle,2026-08-25T03:27:00+00:00,,0.194631003400915,3,1,cs,NPO,Pacific Ocean
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře julio,2026-08-26T03:33:00+00:00,,0.1946141816116145,3,1,cs,NPO,Pacific Ocean
