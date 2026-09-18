@@ -1,17 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'bb9fc4a92f',extremes,Wildfire,#d60d2b,effis,divoký požár црна гора црна гора n.a.,2026-08-27T13:00:00+00:00,Montenegro,0.1932050798317065,3,1,cs,MED,Europe
-'56898792ff',extremes,Precipitation,#d60d2b,acwe,silný déšť Tasmánie,2026-08-22T03:22:00+00:00,Australia,0.1929101075827695,3,1,cs,SAU,Oceania
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,bouře melbourne victoria 2020,2026-08-26T03:34:00+00:00,Australia,0.1924440940275358,3,1,cs,SAU,Oceania
-'aeb9fdee13',extremes,Wildfire,#d60d2b,effis,divoký oheň δυτική αττική řecko,2026-08-27T13:00:00+00:00,Greece,0.1924422111093204,3,1,cs,MED,Europe
 '4506401924',extremes,Wildfire,#d60d2b,effis,divoký požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1923624480638227,3,1,cs,MED,Europe
 '02ca7e604c',extremes,Wildfire,#d60d2b,effis,divoký požár ukrajina n.a. n.a.,2026-08-27T13:00:00+00:00,Ukraine,0.1923347088433897,3,1,cs,WCE,Europe
 '1212464e8d',extremes,Wildfire,#d60d2b,effis,bushfire srbija сpбија јабланичка област lebane,2026-08-27T13:00:00+00:00,Serbia,0.1921951729539914,3,1,cs,MED,Europe
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,divoký požár srbsko,2026-08-28T14:32:00+00:00,Serbia,0.1921944644989678,3,1,cs,MED,Europe
 '0b6c645097',extremes,Wildfire,#d60d2b,effis,lesní požár ve Finsku,2026-08-28T14:32:00+00:00,Finland,0.192137791274617,3,1,cs,NEU,Europe
-'25523ecf27',extremes,Wildfire,#d60d2b,effis,lesní požár северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.1920925266380382,3,1,cs,MED,Europe
 '2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,divoký požár Albánie,2026-08-28T14:32:00+00:00,Albania,0.1920473399306549,3,1,cs,MED,Europe
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,bouře Austrálie,2026-08-27T13:00:00+00:00,Australia,0.1920407247798496,3,1,cs,CAU,Oceania
-'552d7b9dc7',extremes,Wildfire,#d60d2b,effis,lesní požár românia tulcea chilia veche,2026-08-27T13:00:00+00:00,Romania,0.1920085478523679,3,1,cs,WCE,Europe
 '16ff26a571',extremes,Wildfire,#d60d2b,effis,divoký požár Novi Grad Bosna a Hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1918966068064105,3,1,cs,WCE,Europe
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildfire španělsko,2026-08-28T14:32:00+00:00,Spain,0.1918458310537049,3,1,cs,MED,Europe
 '08e06ab5be',extremes,Wildfire,#d60d2b,effis,bushfire gorj rumunsko,2026-08-28T14:32:00+00:00,Romania,0.1918124969486715,3,1,cs,MED,Europe
@@ -64,17 +58,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a66cd48ef',extremes,Wildfire,#d60d2b,effis,divoký požár alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.1645534486303792,4,1,cs,MED,Africa
 '8b9b805fcc',extremes,Wildfire,#d60d2b,effis,lesní požár v norsku,2026-08-27T13:00:00+00:00,Norway,0.1645407890506629,4,1,cs,NEU,Europe
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,divoký požár albánie,2026-08-27T13:00:00+00:00,Albania,0.1645314798957122,4,1,cs,MED,Europe
-'62f5b29317',extremes,Wildfire,#d60d2b,effis,divoký požár tulcea rumunsko,2026-08-27T13:00:00+00:00,Romania,0.16452221326392188,4,1,cs,WCE,Europe
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,divoký požár tulcea rumunsko,2026-08-27T13:00:00+00:00,Romania,0.1645222132639218,4,1,cs,WCE,Europe
 '28bedc733d',extremes,Wildfire,#d60d2b,effis,divoký požár černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.1645103009232854,4,1,cs,MED,Europe
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,mokro západní Austrálie,2026-08-31T08:51:00+00:00,Australia,0.1645075989029447,4,1,cs,CAU,Oceania
-'de195f8589',extremes,Wildfire,#d60d2b,effis,divoký požár vlorë albania,2026-08-25T03:27:00+00:00,Albania,0.16445641486296797,4,1,cs,MED,Europe
+'de195f8589',extremes,Wildfire,#d60d2b,effis,divoký požár vlorë albania,2026-08-25T03:27:00+00:00,Albania,0.1644564148629679,4,1,cs,MED,Europe
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,divoký požár Tunisko n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1644142446561743,4,1,cs,MED,Africa
 '14dd6bd84a',extremes,Thunderstorm,#53785a,meteo,bouřka ukrajina,2026-08-28T14:32:00+00:00,Ukraine,0.1643364636970287,4,1,cs,WCE,Europe
-'1848856b86',extremes,Wildfire,#d60d2b,effis,bushfire alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.16423841736646472,4,1,cs,MED,Africa
-'f328b11905',extremes,Wildfire,#d60d2b,effis,lesní požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.16419219408863298,4,1,cs,MED,Europe
-'fface4daec',extremes,Wildfire,#d60d2b,effis,lesní požár Bosna a Hercegovina Trebinje n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.16394145518971848,4,1,cs,MED,Europe
-'4e3fa8e0c6',extremes,Wildfire,#d60d2b,effis,divoký oheň βοιωτία řecko,2026-08-27T13:00:00+00:00,Greece,0.16393768596389638,4,1,cs,MED,Europe
+'1848856b86',extremes,Wildfire,#d60d2b,effis,bushfire alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.1642384173664647,4,1,cs,MED,Africa
+'bb9fc4a92f',extremes,Wildfire,#d60d2b,effis,divoký požár црна гора црна гора n.a.,2026-08-27T13:00:00+00:00,Montenegro,0.16422431785695052,4,1,cs,MED,Europe
+'f328b11905',extremes,Wildfire,#d60d2b,effis,lesní požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1641921940886329,4,1,cs,MED,Europe
+'fface4daec',extremes,Wildfire,#d60d2b,effis,lesní požár Bosna a Hercegovina Trebinje n.a.,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1639414551897184,4,1,cs,MED,Europe
+'4e3fa8e0c6',extremes,Wildfire,#d60d2b,effis,divoký oheň βοιωτία řecko,2026-08-27T13:00:00+00:00,Greece,0.1639376859638963,4,1,cs,MED,Europe
 'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,bushfire tunisko n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1638552401490186,4,1,cs,MED,Africa
-'2e51819031',extremes,Wildfire,#d60d2b,effis,divoký požár crotone itálie,2026-08-27T13:00:00+00:00,Italy,0.16382208136203327,4,1,cs,MED,Europe
+'2e51819031',extremes,Wildfire,#d60d2b,effis,divoký požár crotone itálie,2026-08-27T13:00:00+00:00,Italy,0.1638220813620332,4,1,cs,MED,Europe
 'be2328feba',extremes,Wildfire,#d60d2b,effis,bushfire vestfold og telemark norway,2026-08-27T13:00:00+00:00,Norway,0.1637283573870748,4,1,cs,NEU,Europe
-'8199aa8c54',extremes,Wildfire,#d60d2b,effis,bushfire albánie,2026-08-28T14:32:00+00:00,Albania,0.1631580810792612,4,1,cs,MED,Europe
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,bouře melbourne victoria 2020,2026-08-26T03:34:00+00:00,Australia,0.1635774799234054,4,1,cs,SAU,Oceania
+'aeb9fdee13',extremes,Wildfire,#d60d2b,effis,divoký oheň δυτική αττική řecko,2026-08-27T13:00:00+00:00,Greece,0.16357587944292232,4,1,cs,MED,Europe
+'25523ecf27',extremes,Wildfire,#d60d2b,effis,lesní požár северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.16327864764233246,4,1,cs,MED,Europe
+'8199aa8c54',extremes,Wildfire,#d60d2b,effis,bushfire albánie,2026-08-28T14:32:00+00:00,Albania,0.13868436891737201,5,1,cs,MED,Europe
