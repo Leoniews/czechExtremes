@@ -1,15 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9d1b29af9d',extremes,Wildfire,#d60d2b,effis,divoký požár Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.1647238202717941,4,1,cs,MED,Africa
-'e11c66b169',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Alžírsko,2026-08-27T13:00:00+00:00,Algeria,0.1647210212414881,4,1,cs,MED,Africa
-'df6e516080',extremes,Wildfire,#d60d2b,effis,Bushfire Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.1647209515051271,4,1,cs,MED,Africa
 '61a5e9ca11',extremes,Wildfire,#d60d2b,effis,divoký požár Černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.164713853007907,4,1,cs,MED,Europe
-'5dae4d0d44',extremes,Wildfire,#d60d2b,effis,lesní požár Bosna a Hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1646897180098378,4,1,cs,MED,Europe
-'8539144296',extremes,Wildfire,#d60d2b,effis,wild fire црна гора montenegro,2026-08-27T13:00:00+00:00,Montenegro,0.1646789071601766,4,1,cs,MED,Europe
 'e7b18ddef5',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Ukrajina,2026-08-27T13:00:00+00:00,Ukraine,0.1646697452994287,4,1,cs,WCE,Europe
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,wildfire rumunsko,2026-08-27T13:00:00+00:00,Romania,0.16465842438859,4,1,cs,WCE,Europe
 '875f042526',extremes,Wildfire,#d60d2b,effis,wildfire вардарски Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.164645394934088,4,1,cs,MED,Europe
-'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire srbsko,2026-08-27T13:00:00+00:00,Serbia,0.1646451244119391,4,1,cs,MED,Europe
-'eec56caa4e',extremes,Wildfire,#d60d2b,effis,bushfire caraş severin rumunsko,2026-08-27T13:00:00+00:00,Romania,0.1646416326795345,4,1,cs,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.1646349219339892,4,1,cs,MED,Europe
 '14a41389eb',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1646050578631714,4,1,cs,MED,Europe
 '7f79466631',extremes,Wildfire,#d60d2b,effis,bushfire trebinje bosna and hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1645857195779418,4,1,cs,MED,Europe
@@ -48,6 +41,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán marie,2026-09-04T07:23:00+00:00,,0.1431379277187547,5,2,cs,NPO,Pacific Ocean
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán karina,2026-08-31T08:51:00+00:00,,0.1417080708775798,5,1,cs,NPO,Pacific Ocean
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře nížina,2026-08-31T08:51:00+00:00,,0.1410194886078139,5,1,cs,NPO,Pacific Ocean
-'a116d76fcf',extremes,Heat Wave,#c40202,meteo,vlna veder czechia,2026-09-08T07:23:00+00:00,Czechia,0.1408038138875637,9,1,cs,WCE,Europe
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2026-09-01T07:58:00+00:00,Australia,0.14044798826782706,5,1,cs,EAU,Oceania
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2026-09-01T07:58:00+00:00,Australia,0.140447988267827,5,1,cs,EAU,Oceania
 'ec98366bcb',extremes,Flood,#030ba1,aidr,povodeň v jihovýchodní Austrálii 2016,2026-08-30T08:30:00+00:00,Australia,0.1402737487616398,5,1,cs,SAU,Oceania
