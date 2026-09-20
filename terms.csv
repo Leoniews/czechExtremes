@@ -1,10 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '61a5e9ca11',extremes,Wildfire,#d60d2b,effis,divoký požár Černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.164713853007907,4,1,cs,MED,Europe
 'e7b18ddef5',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Ukrajina,2026-08-27T13:00:00+00:00,Ukraine,0.1646697452994287,4,1,cs,WCE,Europe
-'be76e7e185',extremes,Wildfire,#d60d2b,effis,wildfire rumunsko,2026-08-27T13:00:00+00:00,Romania,0.16465842438859,4,1,cs,WCE,Europe
-'875f042526',extremes,Wildfire,#d60d2b,effis,wildfire вардарски Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.164645394934088,4,1,cs,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.1646349219339892,4,1,cs,MED,Europe
-'14a41389eb',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1646050578631714,4,1,cs,MED,Europe
 '7f79466631',extremes,Wildfire,#d60d2b,effis,bushfire trebinje bosna and hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.1645857195779418,4,1,cs,MED,Europe
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře marie,2026-09-03T07:20:00+00:00,,0.1645819358064061,4,1,cs,NPO,Pacific Ocean
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1645796330827784,4,1,cs,MED,Europe
@@ -34,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b6c645097',extremes,Wildfire,#d60d2b,effis,lesní požár ve Finsku,2026-08-28T14:32:00+00:00,Finland,0.1633171225834244,4,1,cs,NEU,Europe
 '25523ecf27',extremes,Wildfire,#d60d2b,effis,lesní požár северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.1632786476423324,4,1,cs,MED,Europe
 '2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,divoký požár Albánie,2026-08-28T14:32:00+00:00,Albania,0.1632402389410566,4,1,cs,MED,Europe
-'83923f83ef',extremes,Storm,#b3b2b1,wmo,bouře Austrálie,2026-08-27T13:00:00+00:00,Australia,0.1632346160628721,4,1,cs,CAU,Oceania
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildfire španělsko,2026-08-28T14:32:00+00:00,Spain,0.1630689563956491,4,1,cs,MED,Europe
 '08e06ab5be',extremes,Wildfire,#d60d2b,effis,bushfire gorj rumunsko,2026-08-28T14:32:00+00:00,Romania,0.1630406224063707,4,1,cs,MED,Europe
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,extrémní počasí v jižní Austrálii září 2016,2026-09-06T07:16:00+00:00,Australia,0.1629731857799626,4,1,cs,SAU,Oceania
