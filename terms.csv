@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'61a5e9ca11',extremes,Wildfire,#d60d2b,effis,divoký požár Černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.164713853007907,4,1,cs,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.1646349219339892,4,1,cs,MED,Europe
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1645796330827784,4,1,cs,MED,Europe
 'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,divoký požár dubrovačko neretvanska županija chorvatsko,2026-08-27T13:00:00+00:00,Croatia,0.1645786183329156,4,1,cs,MED,Europe
 'dd25cffe03',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.1645579853483872,4,1,cs,MED,Africa
-'8a66cd48ef',extremes,Wildfire,#d60d2b,effis,divoký požár alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.1645534486303792,4,1,cs,MED,Africa
-'8b9b805fcc',extremes,Wildfire,#d60d2b,effis,lesní požár v norsku,2026-08-27T13:00:00+00:00,Norway,0.1645407890506629,4,1,cs,NEU,Europe
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,divoký požár albánie,2026-08-27T13:00:00+00:00,Albania,0.1645314798957122,4,1,cs,MED,Europe
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,divoký požár tulcea rumunsko,2026-08-27T13:00:00+00:00,Romania,0.1645222132639218,4,1,cs,WCE,Europe
 '28bedc733d',extremes,Wildfire,#d60d2b,effis,divoký požár černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.1645103009232854,4,1,cs,MED,Europe
@@ -35,4 +32,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře nížina,2026-08-31T08:51:00+00:00,,0.1410194886078139,5,1,cs,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2026-09-01T07:58:00+00:00,Australia,0.140447988267827,5,1,cs,EAU,Oceania
 'ec98366bcb',extremes,Flood,#030ba1,aidr,povodeň v jihovýchodní Austrálii 2016,2026-08-30T08:30:00+00:00,Australia,0.1402737487616398,5,1,cs,SAU,Oceania
-'3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře marie,2026-09-03T07:20:00+00:00,,0.13989464543544516,5,1,cs,NPO,Pacific Ocean
+'3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře marie,2026-09-03T07:20:00+00:00,,0.1398946454354451,5,1,cs,NPO,Pacific Ocean
