@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire itálie,2026-08-27T13:00:00+00:00,Italy,0.1646349219339892,4,1,cs,MED,Europe
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1645796330827784,4,1,cs,MED,Europe
-'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,divoký požár dubrovačko neretvanska županija chorvatsko,2026-08-27T13:00:00+00:00,Croatia,0.1645786183329156,4,1,cs,MED,Europe
 'dd25cffe03',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.1645579853483872,4,1,cs,MED,Africa
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,divoký požár albánie,2026-08-27T13:00:00+00:00,Albania,0.1645314798957122,4,1,cs,MED,Europe
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,divoký požár tulcea rumunsko,2026-08-27T13:00:00+00:00,Romania,0.1645222132639218,4,1,cs,WCE,Europe
-'28bedc733d',extremes,Wildfire,#d60d2b,effis,divoký požár černá hora,2026-08-27T13:00:00+00:00,Montenegro,0.1645103009232854,4,1,cs,MED,Europe
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,mokro západní Austrálie,2026-08-31T08:51:00+00:00,Australia,0.1645075989029447,4,1,cs,CAU,Oceania
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,divoký požár Tunisko n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1644142446561743,4,1,cs,MED,Africa
 '14dd6bd84a',extremes,Thunderstorm,#53785a,meteo,bouřka ukrajina,2026-08-28T14:32:00+00:00,Ukraine,0.1643364636970287,4,1,cs,WCE,Europe
