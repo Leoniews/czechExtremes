@@ -1,21 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f93df854ee',extremes,Wildfire,#d60d2b,effis,lesní požár Severní Makedonie,2026-08-27T13:00:00+00:00,North Macedonia,0.1645796330827784,4,1,cs,MED,Europe
-'dd25cffe03',extremes,Wildfire,#d60d2b,effis,divoký požár n.a. Tunisko,2026-08-27T13:00:00+00:00,Tunisia,0.1645579853483872,4,1,cs,MED,Africa
-'6d6528d836',extremes,Wildfire,#d60d2b,effis,divoký požár albánie,2026-08-27T13:00:00+00:00,Albania,0.1645314798957122,4,1,cs,MED,Europe
-'3bd8e103de',extremes,Wildfire,#d60d2b,effis,divoký požár Tunisko n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1644142446561743,4,1,cs,MED,Africa
-'1848856b86',extremes,Wildfire,#d60d2b,effis,bushfire alžírsko n.a. n.a.,2026-08-27T13:00:00+00:00,Algeria,0.1642384173664647,4,1,cs,MED,Africa
-'bb9fc4a92f',extremes,Wildfire,#d60d2b,effis,divoký požár црна гора црна гора n.a.,2026-08-27T13:00:00+00:00,Montenegro,0.1642243178569505,4,1,cs,MED,Europe
-'f328b11905',extremes,Wildfire,#d60d2b,effis,lesní požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1641921940886329,4,1,cs,MED,Europe
-'4e3fa8e0c6',extremes,Wildfire,#d60d2b,effis,divoký oheň βοιωτία řecko,2026-08-27T13:00:00+00:00,Greece,0.1639376859638963,4,1,cs,MED,Europe
-'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,bushfire tunisko n.a. n.a.,2026-08-27T13:00:00+00:00,Tunisia,0.1638552401490186,4,1,cs,MED,Africa
-'2e51819031',extremes,Wildfire,#d60d2b,effis,divoký požár crotone itálie,2026-08-27T13:00:00+00:00,Italy,0.1638220813620332,4,1,cs,MED,Europe
-'be2328feba',extremes,Wildfire,#d60d2b,effis,bushfire vestfold og telemark norway,2026-08-27T13:00:00+00:00,Norway,0.1637283573870748,4,1,cs,NEU,Europe
-'aeb9fdee13',extremes,Wildfire,#d60d2b,effis,divoký oheň δυτική αττική řecko,2026-08-27T13:00:00+00:00,Greece,0.1635758794429223,4,1,cs,MED,Europe
-'4506401924',extremes,Wildfire,#d60d2b,effis,divoký požár românia caraş severin ciclova română,2026-08-27T13:00:00+00:00,Romania,0.1635080808542492,4,1,cs,MED,Europe
-'02ca7e604c',extremes,Wildfire,#d60d2b,effis,divoký požár ukrajina n.a. n.a.,2026-08-27T13:00:00+00:00,Ukraine,0.1634845025168812,4,1,cs,WCE,Europe
-'1212464e8d',extremes,Wildfire,#d60d2b,effis,bushfire srbija сpбија јабланичка област lebane,2026-08-27T13:00:00+00:00,Serbia,0.1633658970108926,4,1,cs,MED,Europe
 '0b6c645097',extremes,Wildfire,#d60d2b,effis,lesní požár ve Finsku,2026-08-28T14:32:00+00:00,Finland,0.1633171225834244,4,1,cs,NEU,Europe
-'25523ecf27',extremes,Wildfire,#d60d2b,effis,lesní požár северна македонија полошки gostivar,2026-08-27T13:00:00+00:00,North Macedonia,0.1632786476423324,4,1,cs,MED,Europe
 '2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,divoký požár Albánie,2026-08-28T14:32:00+00:00,Albania,0.1632402389410566,4,1,cs,MED,Europe
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildfire španělsko,2026-08-28T14:32:00+00:00,Spain,0.1630689563956491,4,1,cs,MED,Europe
 '08e06ab5be',extremes,Wildfire,#d60d2b,effis,bushfire gorj rumunsko,2026-08-28T14:32:00+00:00,Romania,0.1630406224063707,4,1,cs,MED,Europe
