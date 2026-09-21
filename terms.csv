@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b6c645097',extremes,Wildfire,#d60d2b,effis,lesní požár ve Finsku,2026-08-28T14:32:00+00:00,Finland,0.1633171225834244,4,1,cs,NEU,Europe
-'2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,divoký požár Albánie,2026-08-28T14:32:00+00:00,Albania,0.1632402389410566,4,1,cs,MED,Europe
-'5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildfire španělsko,2026-08-28T14:32:00+00:00,Spain,0.1630689563956491,4,1,cs,MED,Europe
 '08e06ab5be',extremes,Wildfire,#d60d2b,effis,bushfire gorj rumunsko,2026-08-28T14:32:00+00:00,Romania,0.1630406224063707,4,1,cs,MED,Europe
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,extrémní počasí v jižní Austrálii září 2016,2026-09-06T07:16:00+00:00,Australia,0.1629731857799626,4,1,cs,SAU,Oceania
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán marie,2026-09-04T07:23:00+00:00,,0.1431379277187547,5,2,cs,NPO,Pacific Ocean
