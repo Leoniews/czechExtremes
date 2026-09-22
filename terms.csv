@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán marie,2026-09-04T07:23:00+00:00,,0.1431379277187547,5,2,cs,NPO,Pacific Ocean
-'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,hurikán karina,2026-08-31T08:51:00+00:00,,0.1417080708775798,5,1,cs,NPO,Pacific Ocean
-'bdaadb8976',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře nížina,2026-08-31T08:51:00+00:00,,0.1410194886078139,5,1,cs,NPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,bouřka Austrálie,2026-09-01T07:58:00+00:00,Australia,0.140447988267827,5,1,cs,EAU,Oceania
 '3eeb492abf',extremes,Tropical Cyclone,#4f4f4f,eonet,tropická bouře marie,2026-09-03T07:20:00+00:00,,0.1398946454354451,5,1,cs,NPO,Pacific Ocean
-'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,mokro západní Austrálie,2026-08-31T08:51:00+00:00,Australia,0.139831459067503,5,1,cs,CAU,Oceania
